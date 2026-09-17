@@ -1,0 +1,3045 @@
+anio,lado,socio_cod,socio,es_agregado,valor_usd
+2015,declara_CR,0,World,True,9578337782.0
+2015,declara_CR,4,Afghanistan,False,195842.0
+2015,declara_CR,8,Albania,False,311112.0
+2015,declara_CR,12,Algeria,False,92342.0
+2015,declara_CR,28,Antigua and Barbuda,False,404417.0
+2015,declara_CR,32,Argentina,False,9734233.0
+2015,declara_CR,36,Australia,False,31182523.0
+2015,declara_CR,40,Austria,False,184497.0
+2015,declara_CR,44,Bahamas,False,6819035.0
+2015,declara_CR,48,Bahrain,False,38325.0
+2015,declara_CR,51,Armenia,False,661.0
+2015,declara_CR,52,Barbados,False,7668047.0
+2015,declara_CR,56,Belgium,False,430357380.0
+2015,declara_CR,60,Bermuda,False,279475.0
+2015,declara_CR,68,Bolivia (Plurinational State of),False,1325563.0
+2015,declara_CR,72,Botswana,False,187803.0
+2015,declara_CR,76,Brazil,False,21075547.0
+2015,declara_CR,84,Belize,False,11770727.0
+2015,declara_CR,92,Br. Virgin Isds,False,40147.0
+2015,declara_CR,100,Bulgaria,False,33630.0
+2015,declara_CR,104,Myanmar,False,295888.0
+2015,declara_CR,112,Belarus,False,1605.0
+2015,declara_CR,120,Cameroon,False,3918995.0
+2015,declara_CR,124,Canada,False,108632923.0
+2015,declara_CR,132,Cabo Verde,False,9233.0
+2015,declara_CR,136,Cayman Isds,False,862477.0
+2015,declara_CR,144,Sri Lanka,False,359.0
+2015,declara_CR,152,Chile,False,37441468.0
+2015,declara_CR,156,China,False,80174769.0
+2015,declara_CR,170,Colombia,False,71815576.0
+2015,declara_CR,191,Croatia,False,927431.0
+2015,declara_CR,192,Cuba,False,29281749.0
+2015,declara_CR,196,Cyprus,False,47225.0
+2015,declara_CR,203,Czechia,False,60672.0
+2015,declara_CR,208,Denmark,False,5941199.0
+2015,declara_CR,212,Dominica,False,1166095.0
+2015,declara_CR,214,Dominican Rep.,False,265836363.0
+2015,declara_CR,218,Ecuador,False,43945746.0
+2015,declara_CR,233,Estonia,False,102722.0
+2015,declara_CR,242,Fiji,False,31023.0
+2015,declara_CR,246,Finland,False,26038285.0
+2015,declara_CR,222,El Salvador,False,285428682.0
+2015,declara_CR,231,Ethiopia,False,7688.0
+2015,declara_CR,251,France,False,119626395.0
+2015,declara_CR,258,French Polynesia,False,2690.0
+2015,declara_CR,266,Gabon,False,445707.0
+2015,declara_CR,268,Georgia,False,2567.0
+2015,declara_CR,276,Germany,False,148191463.0
+2015,declara_CR,288,Ghana,False,257124.0
+2015,declara_CR,308,Grenada,False,559724.0
+2015,declara_CR,316,Guam,False,56127.0
+2015,declara_CR,300,Greece,False,30108733.0
+2015,declara_CR,328,Guyana,False,11427248.0
+2015,declara_CR,332,Haiti,False,19014834.0
+2015,declara_CR,320,Guatemala,False,523862138.0
+2015,declara_CR,324,Guinea,False,7233.0
+2015,declara_CR,340,Honduras,False,332821026.0
+2015,declara_CR,344,"China, Hong Kong SAR",False,66428206.0
+2015,declara_CR,348,Hungary,False,599064.0
+2015,declara_CR,360,Indonesia,False,104647.0
+2015,declara_CR,364,Iran,False,119698.0
+2015,declara_CR,368,Iraq,False,49543.0
+2015,declara_CR,376,Israel,False,8923325.0
+2015,declara_CR,372,Ireland,False,71319236.0
+2015,declara_CR,380,Italy,False,170745660.0
+2015,declara_CR,388,Jamaica,False,45676011.0
+2015,declara_CR,384,Côte d'Ivoire,False,182335.0
+2015,declara_CR,392,Japan,False,97305807.0
+2015,declara_CR,398,Kazakhstan,False,263828.0
+2015,declara_CR,400,Jordan,False,204218.0
+2015,declara_CR,404,Kenya,False,60564.0
+2015,declara_CR,408,Dem. People's Rep. of Korea,False,71310.0
+2015,declara_CR,410,Rep. of Korea,False,51486332.0
+2015,declara_CR,414,Kuwait,False,2536917.0
+2015,declara_CR,422,Lebanon,False,1658469.0
+2015,declara_CR,428,Latvia,False,279743.0
+2015,declara_CR,430,Liberia,False,32655.0
+2015,declara_CR,434,Libya,False,805898.0
+2015,declara_CR,440,Lithuania,False,9466682.0
+2015,declara_CR,442,Luxembourg,False,29029.0
+2015,declara_CR,450,Madagascar,False,1009.0
+2015,declara_CR,458,Malaysia,False,5340350.0
+2015,declara_CR,466,Mali,False,63000.0
+2015,declara_CR,470,Malta,False,566634.0
+2015,declara_CR,484,Mexico,False,239525417.0
+2015,declara_CR,490,"Other Asia, nes",False,18085256.0
+2015,declara_CR,499,Montenegro,False,2349509.0
+2015,declara_CR,504,Morocco,False,3009385.0
+2015,declara_CR,512,Oman,False,98299.0
+2015,declara_CR,528,Netherlands,False,440009480.0
+2015,declara_CR,531,Curaçao,False,2193128.0
+2015,declara_CR,533,Aruba,False,21175209.0
+2015,declara_CR,540,New Caledonia,False,1051419.0
+2015,declara_CR,554,New Zealand,False,4362387.0
+2015,declara_CR,558,Nicaragua,False,522651156.0
+2015,declara_CR,566,Nigeria,False,161633.0
+2015,declara_CR,579,Norway,False,26256524.0
+2015,declara_CR,581,United States Minor Outlying Islands,False,480939.0
+2015,declara_CR,585,Palau,False,3127.0
+2015,declara_CR,586,Pakistan,False,266041.0
+2015,declara_CR,591,Panama,False,558579995.0
+2015,declara_CR,600,Paraguay,False,1678771.0
+2015,declara_CR,604,Peru,False,18225641.0
+2015,declara_CR,608,Philippines,False,3602332.0
+2015,declara_CR,616,Poland,False,5173903.0
+2015,declara_CR,620,Portugal,False,19131592.0
+2015,declara_CR,624,Guinea-Bissau,False,41994.0
+2015,declara_CR,643,Russian Federation,False,19544337.0
+2015,declara_CR,654,Saint Helena,False,1825.0
+2015,declara_CR,659,Saint Kitts and Nevis,False,212297.0
+2015,declara_CR,660,Anguilla,False,22735.0
+2015,declara_CR,662,Saint Lucia,False,1606821.0
+2015,declara_CR,670,Saint Vincent and the Grenadines,False,1154278.0
+2015,declara_CR,634,Qatar,False,217748.0
+2015,declara_CR,682,Saudi Arabia,False,9373597.0
+2015,declara_CR,694,Sierra Leone,False,121583.0
+2015,declara_CR,642,Romania,False,751315.0
+2015,declara_CR,699,India,False,14049619.0
+2015,declara_CR,702,Singapore,False,28888377.0
+2015,declara_CR,703,Slovakia,False,326600.0
+2015,declara_CR,688,Serbia,False,30694.0
+2015,declara_CR,705,Slovenia,False,1908178.0
+2015,declara_CR,710,South Africa,False,3318842.0
+2015,declara_CR,716,Zimbabwe,False,336.0
+2015,declara_CR,704,Viet Nam,False,7457133.0
+2015,declara_CR,724,Spain,False,127098857.0
+2015,declara_CR,732,Western Sahara,False,150.0
+2015,declara_CR,740,Suriname,False,10210381.0
+2015,declara_CR,752,Sweden,False,12131707.0
+2015,declara_CR,757,Switzerland,False,6447253.0
+2015,declara_CR,760,Syria,False,329573.0
+2015,declara_CR,768,Togo,False,50845.0
+2015,declara_CR,764,Thailand,False,3833000.0
+2015,declara_CR,780,Trinidad and Tobago,False,61749024.0
+2015,declara_CR,784,United Arab Emirates,False,2601874.0
+2015,declara_CR,788,Tunisia,False,358346.0
+2015,declara_CR,792,Türkiye,False,32346017.0
+2015,declara_CR,796,Turks and Caicos Isds,False,60.0
+2015,declara_CR,800,Uganda,False,48600.0
+2015,declara_CR,804,Ukraine,False,2937529.0
+2015,declara_CR,818,Egypt,False,659204.0
+2015,declara_CR,826,United Kingdom,False,177502203.0
+2015,declara_CR,834,United Rep. of Tanzania,False,68012.0
+2015,declara_CR,837,Bunkers,False,96956.0
+2015,declara_CR,842,USA,False,3903662102.0
+2015,declara_CR,854,Burkina Faso,False,246075.0
+2015,declara_CR,858,Uruguay,False,1908667.0
+2015,declara_CR,860,Uzbekistan,False,49300.0
+2015,declara_CR,862,Venezuela,False,52325878.0
+2015,declara_CR,894,Zambia,False,92063.0
+2015,declara_CR,899,"Areas, nes",False,111994.0
+2015,declara_socio,4,Afghanistan,False,869.0
+2015,declara_socio,8,Albania,False,523658.0
+2015,declara_socio,12,Algeria,False,2264359.0
+2015,declara_socio,20,Andorra,False,4139.326
+2015,declara_socio,24,Angola,False,36015.13
+2015,declara_socio,28,Antigua and Barbuda,False,904706.0
+2015,declara_socio,31,Azerbaijan,False,408861.13
+2015,declara_socio,32,Argentina,False,27320707.15
+2015,declara_socio,36,Australia,False,83518298.0
+2015,declara_socio,40,Austria,False,50688722.991
+2015,declara_socio,44,Bahamas,False,6166276.0
+2015,declara_socio,48,Bahrain,False,838019.816
+2015,declara_socio,50,Bangladesh,False,12040.0
+2015,declara_socio,51,Armenia,False,757050.0
+2015,declara_socio,52,Barbados,False,8361476.0
+2015,declara_socio,56,Belgium,False,238075949.14
+2015,declara_socio,60,Bermuda,False,283498.0
+2015,declara_socio,68,Bolivia (Plurinational State of),False,1395866.04
+2015,declara_socio,70,Bosnia Herzegovina,False,5471585.0
+2015,declara_socio,72,Botswana,False,127108.43
+2015,declara_socio,76,Brazil,False,54517289.0
+2015,declara_socio,84,Belize,False,11174827.0
+2015,declara_socio,100,Bulgaria,False,1160939.0
+2015,declara_socio,104,Myanmar,False,105506.49
+2015,declara_socio,112,Belarus,False,15020200.0
+2015,declara_socio,120,Cameroon,False,8770009.0
+2015,declara_socio,124,Canada,False,393704280.518
+2015,declara_socio,132,Cabo Verde,False,11432.972
+2015,declara_socio,136,Cayman Isds,False,99192.0
+2015,declara_socio,144,Sri Lanka,False,185403.0
+2015,declara_socio,152,Chile,False,33475526.429
+2015,declara_socio,156,China,False,825959521.0
+2015,declara_socio,170,Colombia,False,86499203.0
+2015,declara_socio,178,Congo,False,48293.186
+2015,declara_socio,180,Dem. Rep. of the Congo,False,77959.368
+2015,declara_socio,191,Croatia,False,856160.0
+2015,declara_socio,196,Cyprus,False,76840.432
+2015,declara_socio,203,Czechia,False,242449656.0
+2015,declara_socio,204,Benin,False,2376.779
+2015,declara_socio,208,Denmark,False,6496865.0
+2015,declara_socio,214,Dominican Rep.,False,255445118.935
+2015,declara_socio,218,Ecuador,False,50215955.0
+2015,declara_socio,222,El Salvador,False,253641510.71
+2015,declara_socio,231,Ethiopia,False,224687.478
+2015,declara_socio,233,Estonia,False,14017699.0
+2015,declara_socio,242,Fiji,False,15549.979
+2015,declara_socio,246,Finland,False,71935773.0
+2015,declara_socio,251,France,False,254572562.0
+2015,declara_socio,258,French Polynesia,False,62976.0
+2015,declara_socio,266,Gabon,False,471886.907
+2015,declara_socio,268,Georgia,False,149509.07
+2015,declara_socio,275,State of Palestine,False,1700286.0
+2015,declara_socio,276,Germany,False,497859681.755
+2015,declara_socio,288,Ghana,False,116508.645
+2015,declara_socio,300,Greece,False,17665356.0
+2015,declara_socio,304,Greenland,False,32811.1
+2015,declara_socio,308,Grenada,False,633978.996
+2015,declara_socio,320,Guatemala,False,599653394.0
+2015,declara_socio,328,Guyana,False,11390171.252
+2015,declara_socio,332,Haiti,False,20078249.931
+2015,declara_socio,340,Honduras,False,284796537.0
+2015,declara_socio,344,"China, Hong Kong SAR",False,219693786.168
+2015,declara_socio,348,Hungary,False,1361326.0
+2015,declara_socio,352,Iceland,False,2329986.0
+2015,declara_socio,360,Indonesia,False,2893783.0
+2015,declara_socio,364,Iran,False,1889320.0
+2015,declara_socio,372,Ireland,False,84549356.39
+2015,declara_socio,376,Israel,False,4211000.0
+2015,declara_socio,380,Italy,False,268924982.171
+2015,declara_socio,384,Côte d'Ivoire,False,227583.4
+2015,declara_socio,388,Jamaica,False,48639455.0
+2015,declara_socio,392,Japan,False,217389817.0
+2015,declara_socio,398,Kazakhstan,False,4414062.0
+2015,declara_socio,400,Jordan,False,1397806.0
+2015,declara_socio,404,Kenya,False,140844.93
+2015,declara_socio,410,Rep. of Korea,False,149821550.0
+2015,declara_socio,414,Kuwait,False,4459605.466
+2015,declara_socio,417,Kyrgyzstan,False,411503.0
+2015,declara_socio,422,Lebanon,False,4565256.622
+2015,declara_socio,428,Latvia,False,58535.663
+2015,declara_socio,440,Lithuania,False,8332940.0
+2015,declara_socio,442,Luxembourg,False,1228575.0
+2015,declara_socio,450,Madagascar,False,23163.645
+2015,declara_socio,454,Malawi,False,4793.885
+2015,declara_socio,458,Malaysia,False,28487000.0
+2015,declara_socio,470,Malta,False,1030542.0
+2015,declara_socio,478,Mauritania,False,44981.56
+2015,declara_socio,480,Mauritius,False,70634.0
+2015,declara_socio,484,Mexico,False,549439286.0
+2015,declara_socio,490,"Other Asia, nes",False,99180380.0
+2015,declara_socio,496,Mongolia,False,45547.0
+2015,declara_socio,498,Rep. of Moldova,False,1792251.0
+2015,declara_socio,499,Montenegro,False,768941.0
+2015,declara_socio,504,Morocco,False,4521291.771
+2015,declara_socio,508,Mozambique,False,655.41
+2015,declara_socio,512,Oman,False,139443.42
+2015,declara_socio,516,Namibia,False,821.0
+2015,declara_socio,524,Nepal,False,128265.0
+2015,declara_socio,528,Netherlands,False,622268069.233
+2015,declara_socio,540,New Caledonia,False,999548.0
+2015,declara_socio,554,New Zealand,False,5984403.009
+2015,declara_socio,558,Nicaragua,False,478991237.0
+2015,declara_socio,566,Nigeria,False,1786517.13
+2015,declara_socio,579,Norway,False,61962368.144
+2015,declara_socio,585,Palau,False,99.0
+2015,declara_socio,586,Pakistan,False,902684.0
+2015,declara_socio,591,Panama,False,470581467.0
+2015,declara_socio,600,Paraguay,False,1684375.0
+2015,declara_socio,604,Peru,False,32230680.84
+2015,declara_socio,608,Philippines,False,4017108.0
+2015,declara_socio,616,Poland,False,75097981.0
+2015,declara_socio,620,Portugal,False,31510388.644
+2015,declara_socio,634,Qatar,False,3351426.448
+2015,declara_socio,642,Romania,False,1281212.0
+2015,declara_socio,643,Russian Federation,False,78581661.0
+2015,declara_socio,646,Rwanda,False,6233.629
+2015,declara_socio,659,Saint Kitts and Nevis,False,124552.65
+2015,declara_socio,662,Saint Lucia,False,2325404.0
+2015,declara_socio,670,Saint Vincent and the Grenadines,False,1250122.283
+2015,declara_socio,682,Saudi Arabia,False,33382726.227
+2015,declara_socio,686,Senegal,False,353017.0
+2015,declara_socio,688,Serbia,False,3930233.0
+2015,declara_socio,690,Seychelles,False,5817.637
+2015,declara_socio,699,India,False,68750624.0
+2015,declara_socio,702,Singapore,False,71504354.658
+2015,declara_socio,703,Slovakia,False,10316744.498
+2015,declara_socio,704,Viet Nam,False,23923643.0
+2015,declara_socio,705,Slovenia,False,6149588.0
+2015,declara_socio,710,South Africa,False,13659345.697
+2015,declara_socio,724,Spain,False,200290103.779
+2015,declara_socio,729,Sudan,False,634.0
+2015,declara_socio,740,Suriname,False,7572299.19
+2015,declara_socio,752,Sweden,False,30831690.02
+2015,declara_socio,757,Switzerland,False,108071605.293
+2015,declara_socio,762,Tajikistan,False,50968.0
+2015,declara_socio,764,Thailand,False,23787572.2
+2015,declara_socio,780,Trinidad and Tobago,False,51335201.779
+2015,declara_socio,784,United Arab Emirates,False,12143401.961
+2015,declara_socio,788,Tunisia,False,1024308.0
+2015,declara_socio,792,Türkiye,False,69429317.0
+2015,declara_socio,800,Uganda,False,230014.0
+2015,declara_socio,804,Ukraine,False,14373124.0
+2015,declara_socio,807,North Macedonia,False,3212872.34
+2015,declara_socio,818,Egypt,False,932264.443
+2015,declara_socio,826,United Kingdom,False,324334627.0
+2015,declara_socio,834,United Rep. of Tanzania,False,144395.0
+2015,declara_socio,842,USA,False,4717018840.0
+2015,declara_socio,854,Burkina Faso,False,595182.554
+2015,declara_socio,858,Uruguay,False,4740364.0
+2015,declara_socio,882,Samoa,False,1087.0
+2015,declara_socio,887,Yemen,False,4792.0
+2015,declara_socio,894,Zambia,False,192860.914
+2016,declara_CR,0,World,True,9907873818.0
+2016,declara_CR,8,Albania,False,121267.0
+2016,declara_CR,12,Algeria,False,16001.0
+2016,declara_CR,28,Antigua and Barbuda,False,495345.0
+2016,declara_CR,32,Argentina,False,7625719.0
+2016,declara_CR,40,Austria,False,549368.0
+2016,declara_CR,44,Bahamas,False,6692706.0
+2016,declara_CR,48,Bahrain,False,40868.0
+2016,declara_CR,50,Bangladesh,False,98150.0
+2016,declara_CR,36,Australia,False,24131666.0
+2016,declara_CR,52,Barbados,False,9044067.0
+2016,declara_CR,56,Belgium,False,532214175.0
+2016,declara_CR,60,Bermuda,False,335673.0
+2016,declara_CR,68,Bolivia (Plurinational State of),False,2231916.0
+2016,declara_CR,70,Bosnia Herzegovina,False,13747.0
+2016,declara_CR,76,Brazil,False,34430925.0
+2016,declara_CR,84,Belize,False,10840560.0
+2016,declara_CR,92,Br. Virgin Isds,False,2176.0
+2016,declara_CR,100,Bulgaria,False,184606.0
+2016,declara_CR,104,Myanmar,False,123336.0
+2016,declara_CR,112,Belarus,False,3.0
+2016,declara_CR,120,Cameroon,False,3400419.0
+2016,declara_CR,124,Canada,False,85472277.0
+2016,declara_CR,136,Cayman Isds,False,520593.0
+2016,declara_CR,144,Sri Lanka,False,267803.0
+2016,declara_CR,152,Chile,False,34574082.0
+2016,declara_CR,156,China,False,45501509.0
+2016,declara_CR,170,Colombia,False,70226654.0
+2016,declara_CR,191,Croatia,False,331224.0
+2016,declara_CR,192,Cuba,False,32397216.0
+2016,declara_CR,196,Cyprus,False,84880.0
+2016,declara_CR,203,Czechia,False,29688.0
+2016,declara_CR,208,Denmark,False,4450212.0
+2016,declara_CR,212,Dominica,False,1043843.0
+2016,declara_CR,214,Dominican Rep.,False,258907565.0
+2016,declara_CR,218,Ecuador,False,36152117.0
+2016,declara_CR,222,El Salvador,False,274153745.0
+2016,declara_CR,231,Ethiopia,False,3300.0
+2016,declara_CR,233,Estonia,False,61983.0
+2016,declara_CR,242,Fiji,False,105483.0
+2016,declara_CR,246,Finland,False,38076720.0
+2016,declara_CR,251,France,False,82691259.0
+2016,declara_CR,258,French Polynesia,False,10392.0
+2016,declara_CR,266,Gabon,False,124139.0
+2016,declara_CR,268,Georgia,False,71371.0
+2016,declara_CR,288,Ghana,False,909523.0
+2016,declara_CR,300,Greece,False,11778405.0
+2016,declara_CR,308,Grenada,False,1077985.0
+2016,declara_CR,316,Guam,False,27666.0
+2016,declara_CR,276,Germany,False,130848070.0
+2016,declara_CR,320,Guatemala,False,516339788.0
+2016,declara_CR,324,Guinea,False,1650.0
+2016,declara_CR,332,Haiti,False,16346516.0
+2016,declara_CR,334,Heard Island and McDonald Islands,False,5987.0
+2016,declara_CR,328,Guyana,False,14979374.0
+2016,declara_CR,340,Honduras,False,334816183.0
+2016,declara_CR,344,"China, Hong Kong SAR",False,32103718.0
+2016,declara_CR,348,Hungary,False,85269.0
+2016,declara_CR,360,Indonesia,False,4912505.0
+2016,declara_CR,364,Iran,False,88707.0
+2016,declara_CR,368,Iraq,False,4464542.0
+2016,declara_CR,376,Israel,False,8218166.0
+2016,declara_CR,372,Ireland,False,87218776.0
+2016,declara_CR,380,Italy,False,207836033.0
+2016,declara_CR,384,Côte d'Ivoire,False,296629.0
+2016,declara_CR,388,Jamaica,False,51131184.0
+2016,declara_CR,392,Japan,False,112861956.0
+2016,declara_CR,398,Kazakhstan,False,2.0
+2016,declara_CR,404,Kenya,False,29279.0
+2016,declara_CR,408,Dem. People's Rep. of Korea,False,11260.0
+2016,declara_CR,418,Lao People's Dem. Rep.,False,89911.0
+2016,declara_CR,410,Rep. of Korea,False,33572477.0
+2016,declara_CR,400,Jordan,False,330129.0
+2016,declara_CR,414,Kuwait,False,620267.0
+2016,declara_CR,417,Kyrgyzstan,False,15411.0
+2016,declara_CR,440,Lithuania,False,11363181.0
+2016,declara_CR,442,Luxembourg,False,3740.0
+2016,declara_CR,446,"China, Macao SAR",False,14025.0
+2016,declara_CR,450,Madagascar,False,1000.0
+2016,declara_CR,478,Mauritania,False,6470.0
+2016,declara_CR,480,Mauritius,False,480.0
+2016,declara_CR,422,Lebanon,False,1923389.0
+2016,declara_CR,428,Latvia,False,584113.0
+2016,declara_CR,434,Libya,False,285589.0
+2016,declara_CR,458,Malaysia,False,1007762.0
+2016,declara_CR,470,Malta,False,434389.0
+2016,declara_CR,484,Mexico,False,257203621.0
+2016,declara_CR,490,"Other Asia, nes",False,16851631.0
+2016,declara_CR,499,Montenegro,False,1798589.0
+2016,declara_CR,504,Morocco,False,2634019.0
+2016,declara_CR,508,Mozambique,False,7950.0
+2016,declara_CR,512,Oman,False,71662.0
+2016,declara_CR,531,Curaçao,False,3154197.0
+2016,declara_CR,528,Netherlands,False,575437869.0
+2016,declara_CR,533,Aruba,False,19426234.0
+2016,declara_CR,534,Saint Maarten,False,11516.0
+2016,declara_CR,540,New Caledonia,False,70758.0
+2016,declara_CR,554,New Zealand,False,18874468.0
+2016,declara_CR,558,Nicaragua,False,517296834.0
+2016,declara_CR,566,Nigeria,False,363515.0
+2016,declara_CR,579,Norway,False,20463271.0
+2016,declara_CR,581,United States Minor Outlying Islands,False,9103.0
+2016,declara_CR,586,Pakistan,False,305915.0
+2016,declara_CR,591,Panama,False,561017178.0
+2016,declara_CR,600,Paraguay,False,1725814.0
+2016,declara_CR,604,Peru,False,19438242.0
+2016,declara_CR,608,Philippines,False,3311120.0
+2016,declara_CR,616,Poland,False,6073414.0
+2016,declara_CR,620,Portugal,False,24643611.0
+2016,declara_CR,634,Qatar,False,39308.0
+2016,declara_CR,642,Romania,False,558630.0
+2016,declara_CR,643,Russian Federation,False,23482540.0
+2016,declara_CR,654,Saint Helena,False,2648.0
+2016,declara_CR,659,Saint Kitts and Nevis,False,204839.0
+2016,declara_CR,660,Anguilla,False,3600.0
+2016,declara_CR,662,Saint Lucia,False,2070396.0
+2016,declara_CR,670,Saint Vincent and the Grenadines,False,1167275.0
+2016,declara_CR,694,Sierra Leone,False,2138.0
+2016,declara_CR,699,India,False,19693327.0
+2016,declara_CR,682,Saudi Arabia,False,6373282.0
+2016,declara_CR,688,Serbia,False,542.0
+2016,declara_CR,702,Singapore,False,17454546.0
+2016,declara_CR,703,Slovakia,False,285277.0
+2016,declara_CR,704,Viet Nam,False,6212674.0
+2016,declara_CR,705,Slovenia,False,5784252.0
+2016,declara_CR,710,South Africa,False,1986181.0
+2016,declara_CR,724,Spain,False,153625597.0
+2016,declara_CR,740,Suriname,False,8049189.0
+2016,declara_CR,752,Sweden,False,21758955.0
+2016,declara_CR,757,Switzerland,False,5485740.0
+2016,declara_CR,760,Syria,False,23840.0
+2016,declara_CR,762,Tajikistan,False,15411.0
+2016,declara_CR,764,Thailand,False,2700259.0
+2016,declara_CR,768,Togo,False,38135.0
+2016,declara_CR,780,Trinidad and Tobago,False,59390724.0
+2016,declara_CR,788,Tunisia,False,795324.0
+2016,declara_CR,792,Türkiye,False,53415104.0
+2016,declara_CR,796,Turks and Caicos Isds,False,13002.0
+2016,declara_CR,800,Uganda,False,62287.0
+2016,declara_CR,804,Ukraine,False,6238340.0
+2016,declara_CR,818,Egypt,False,636710.0
+2016,declara_CR,784,United Arab Emirates,False,2297226.0
+2016,declara_CR,826,United Kingdom,False,180904418.0
+2016,declara_CR,834,United Rep. of Tanzania,False,369151.0
+2016,declara_CR,858,Uruguay,False,1239113.0
+2016,declara_CR,842,USA,False,4058038120.0
+2016,declara_CR,854,Burkina Faso,False,104783.0
+2016,declara_CR,862,Venezuela,False,32540557.0
+2016,declara_CR,894,Zambia,False,43112.0
+2016,declara_CR,899,"Areas, nes",False,84484.0
+2016,declara_socio,8,Albania,False,324484.0
+2016,declara_socio,12,Algeria,False,1686881.0
+2016,declara_socio,20,Andorra,False,10470.742
+2016,declara_socio,24,Angola,False,271517.05
+2016,declara_socio,28,Antigua and Barbuda,False,978866.0
+2016,declara_socio,31,Azerbaijan,False,1131011.08
+2016,declara_socio,32,Argentina,False,14645169.52
+2016,declara_socio,36,Australia,False,85151166.0
+2016,declara_socio,40,Austria,False,47730807.361
+2016,declara_socio,44,Bahamas,False,7565348.0
+2016,declara_socio,48,Bahrain,False,956199.298
+2016,declara_socio,50,Bangladesh,False,207504.745
+2016,declara_socio,51,Armenia,False,590802.0
+2016,declara_socio,52,Barbados,False,8190184.0
+2016,declara_socio,56,Belgium,False,298264480.0
+2016,declara_socio,60,Bermuda,False,267752.0
+2016,declara_socio,68,Bolivia (Plurinational State of),False,1438850.58
+2016,declara_socio,70,Bosnia Herzegovina,False,8016508.0
+2016,declara_socio,72,Botswana,False,77515.0
+2016,declara_socio,76,Brazil,False,50988099.0
+2016,declara_socio,84,Belize,False,11850664.0
+2016,declara_socio,90,Solomon Isds,False,99.0
+2016,declara_socio,96,Brunei Darussalam,False,43122.0
+2016,declara_socio,100,Bulgaria,False,507975.355
+2016,declara_socio,104,Myanmar,False,138123.94
+2016,declara_socio,112,Belarus,False,13237800.0
+2016,declara_socio,120,Cameroon,False,5954864.0
+2016,declara_socio,124,Canada,False,383710106.034
+2016,declara_socio,132,Cabo Verde,False,15040.0
+2016,declara_socio,144,Sri Lanka,False,640568.0
+2016,declara_socio,152,Chile,False,41979556.552
+2016,declara_socio,156,China,False,697413446.0
+2016,declara_socio,170,Colombia,False,83607019.0
+2016,declara_socio,178,Congo,False,46565.93
+2016,declara_socio,180,Dem. Rep. of the Congo,False,66631.334
+2016,declara_socio,191,Croatia,False,153773.0
+2016,declara_socio,192,Cuba,False,23196229.23
+2016,declara_socio,196,Cyprus,False,87626.869
+2016,declara_socio,203,Czechia,False,212521776.0
+2016,declara_socio,208,Denmark,False,2215872.249
+2016,declara_socio,212,Dominica,False,941411.651
+2016,declara_socio,214,Dominican Rep.,False,249997202.714
+2016,declara_socio,218,Ecuador,False,42870899.0
+2016,declara_socio,222,El Salvador,False,242844235.27
+2016,declara_socio,231,Ethiopia,False,145426.328
+2016,declara_socio,233,Estonia,False,11797715.247
+2016,declara_socio,242,Fiji,False,202470.578
+2016,declara_socio,246,Finland,False,79638101.0
+2016,declara_socio,251,France,False,223336262.0
+2016,declara_socio,258,French Polynesia,False,114063.177
+2016,declara_socio,266,Gabon,False,190710.673
+2016,declara_socio,268,Georgia,False,308541.42
+2016,declara_socio,275,State of Palestine,False,1786612.0
+2016,declara_socio,276,Germany,False,595822377.736
+2016,declara_socio,288,Ghana,False,129802.23
+2016,declara_socio,300,Greece,False,8913998.0
+2016,declara_socio,304,Greenland,False,59932.17
+2016,declara_socio,308,Grenada,False,823718.436
+2016,declara_socio,320,Guatemala,False,595498001.0
+2016,declara_socio,324,Guinea,False,629.65
+2016,declara_socio,328,Guyana,False,15058571.0
+2016,declara_socio,332,Haiti,False,18409789.862
+2016,declara_socio,340,Honduras,False,291977400.0
+2016,declara_socio,344,"China, Hong Kong SAR",False,262955176.522
+2016,declara_socio,348,Hungary,False,1268850.0
+2016,declara_socio,352,Iceland,False,3227319.0
+2016,declara_socio,360,Indonesia,False,5671011.0
+2016,declara_socio,364,Iran,False,1096329.0
+2016,declara_socio,372,Ireland,False,95956561.006
+2016,declara_socio,376,Israel,False,4092000.0
+2016,declara_socio,380,Italy,False,294152559.808
+2016,declara_socio,384,Côte d'Ivoire,False,553041.14
+2016,declara_socio,388,Jamaica,False,51742795.0
+2016,declara_socio,392,Japan,False,303769187.0
+2016,declara_socio,398,Kazakhstan,False,832729.0
+2016,declara_socio,400,Jordan,False,1710103.0
+2016,declara_socio,404,Kenya,False,226651.44
+2016,declara_socio,410,Rep. of Korea,False,133092879.0
+2016,declara_socio,414,Kuwait,False,7597269.946
+2016,declara_socio,417,Kyrgyzstan,False,140675.0
+2016,declara_socio,422,Lebanon,False,4582876.0
+2016,declara_socio,428,Latvia,False,49092.255
+2016,declara_socio,434,Libya,False,285589.0
+2016,declara_socio,440,Lithuania,False,12673547.0
+2016,declara_socio,442,Luxembourg,False,1407351.0
+2016,declara_socio,446,"China, Macao SAR",False,10938.0
+2016,declara_socio,450,Madagascar,False,132184.256
+2016,declara_socio,454,Malawi,False,6460.58
+2016,declara_socio,458,Malaysia,False,21032869.0
+2016,declara_socio,462,Maldives,False,7599.0
+2016,declara_socio,466,Mali,False,69916.0
+2016,declara_socio,470,Malta,False,662876.0
+2016,declara_socio,478,Mauritania,False,3010.0
+2016,declara_socio,480,Mauritius,False,81502.749
+2016,declara_socio,484,Mexico,False,388785860.0
+2016,declara_socio,490,"Other Asia, nes",False,69580372.0
+2016,declara_socio,496,Mongolia,False,72562.0
+2016,declara_socio,498,Rep. of Moldova,False,1481189.0
+2016,declara_socio,499,Montenegro,False,943708.003
+2016,declara_socio,504,Morocco,False,4586197.0
+2016,declara_socio,508,Mozambique,False,4464.93
+2016,declara_socio,512,Oman,False,1049664.405
+2016,declara_socio,516,Namibia,False,17702.0
+2016,declara_socio,524,Nepal,False,181814.748
+2016,declara_socio,528,Netherlands,False,575685938.536
+2016,declara_socio,554,New Zealand,False,27041651.334
+2016,declara_socio,558,Nicaragua,False,485337895.44
+2016,declara_socio,562,Niger,False,34569.477
+2016,declara_socio,566,Nigeria,False,2098033.0
+2016,declara_socio,579,Norway,False,47526686.0
+2016,declara_socio,585,Palau,False,26161.0
+2016,declara_socio,586,Pakistan,False,874697.0
+2016,declara_socio,591,Panama,False,477428544.0
+2016,declara_socio,600,Paraguay,False,1674009.0
+2016,declara_socio,604,Peru,False,25185232.45
+2016,declara_socio,608,Philippines,False,5946193.0
+2016,declara_socio,616,Poland,False,93836504.0
+2016,declara_socio,620,Portugal,False,44842439.395
+2016,declara_socio,634,Qatar,False,2782947.558
+2016,declara_socio,642,Romania,False,1271763.0
+2016,declara_socio,643,Russian Federation,False,82044888.45
+2016,declara_socio,646,Rwanda,False,2352.698
+2016,declara_socio,659,Saint Kitts and Nevis,False,219713.899
+2016,declara_socio,662,Saint Lucia,False,2427217.0
+2016,declara_socio,670,Saint Vincent and the Grenadines,False,1465437.005
+2016,declara_socio,682,Saudi Arabia,False,23756563.029
+2016,declara_socio,686,Senegal,False,661065.0
+2016,declara_socio,688,Serbia,False,6321182.0
+2016,declara_socio,690,Seychelles,False,62811.766
+2016,declara_socio,694,Sierra Leone,False,2524.0
+2016,declara_socio,699,India,False,58287260.0
+2016,declara_socio,702,Singapore,False,53695263.948
+2016,declara_socio,703,Slovakia,False,16118610.796
+2016,declara_socio,704,Viet Nam,False,26184337.76
+2016,declara_socio,705,Slovenia,False,10136386.87
+2016,declara_socio,710,South Africa,False,13450556.699
+2016,declara_socio,724,Spain,False,246379855.266
+2016,declara_socio,729,Sudan,False,7928.0
+2016,declara_socio,740,Suriname,False,6437974.618
+2016,declara_socio,748,Eswatini,False,1105.701
+2016,declara_socio,752,Sweden,False,32163374.34
+2016,declara_socio,757,Switzerland,False,103562412.625
+2016,declara_socio,762,Tajikistan,False,53800.0
+2016,declara_socio,764,Thailand,False,22938600.23
+2016,declara_socio,768,Togo,False,94837.83
+2016,declara_socio,780,Trinidad and Tobago,False,49374208.94
+2016,declara_socio,784,United Arab Emirates,False,11038705.826
+2016,declara_socio,788,Tunisia,False,1397987.0
+2016,declara_socio,792,Türkiye,False,74950409.0
+2016,declara_socio,800,Uganda,False,60517.0
+2016,declara_socio,804,Ukraine,False,19619299.02
+2016,declara_socio,807,North Macedonia,False,532928.03
+2016,declara_socio,818,Egypt,False,691228.979
+2016,declara_socio,826,United Kingdom,False,298503791.0
+2016,declara_socio,834,United Rep. of Tanzania,False,295525.0
+2016,declara_socio,842,USA,False,4574902969.0
+2016,declara_socio,854,Burkina Faso,False,238494.0
+2016,declara_socio,858,Uruguay,False,4213161.0
+2016,declara_socio,882,Samoa,False,2212.0
+2016,declara_socio,894,Zambia,False,51932.362
+2017,declara_CR,8,Albania,False,89952.851
+2017,declara_CR,12,Algeria,False,650797.147
+2017,declara_CR,24,Angola,False,31968.834
+2017,declara_CR,48,Bahrain,False,22298.262
+2017,declara_CR,50,Bangladesh,False,568719.19
+2017,declara_CR,60,Bermuda,False,485002.297
+2017,declara_CR,70,Bosnia Herzegovina,False,17199.872
+2017,declara_CR,72,Botswana,False,58293.677
+2017,declara_CR,84,Belize,False,9791448.519
+2017,declara_CR,90,Solomon Isds,False,13320.348
+2017,declara_CR,92,Br. Virgin Isds,False,8596.803
+2017,declara_CR,100,Bulgaria,False,316860.294
+2017,declara_CR,120,Cameroon,False,265403.877
+2017,declara_CR,136,Cayman Isds,False,157363.145
+2017,declara_CR,144,Sri Lanka,False,72119.346
+2017,declara_CR,191,Croatia,False,938729.632
+2017,declara_CR,180,Dem. Rep. of the Congo,False,761.924
+2017,declara_CR,178,Congo,False,124891.579
+2017,declara_CR,203,Czechia,False,140533.184
+2017,declara_CR,196,Cyprus,False,94076.394
+2017,declara_CR,266,Gabon,False,339748.787
+2017,declara_CR,242,Fiji,False,10912.029
+2017,declara_CR,233,Estonia,False,52056.451
+2017,declara_CR,246,Finland,False,40644085.591
+2017,declara_CR,268,Georgia,False,327764.949
+2017,declara_CR,288,Ghana,False,345005.859
+2017,declara_CR,316,Guam,False,27504.919
+2017,declara_CR,334,Heard Island and McDonald Islands,False,8969.816
+2017,declara_CR,332,Haiti,False,20232118.837
+2017,declara_CR,360,Indonesia,False,13116243.221
+2017,declara_CR,364,Iran,False,744200.309
+2017,declara_CR,368,Iraq,False,10339962.043
+2017,declara_CR,384,Côte d'Ivoire,False,38629.029
+2017,declara_CR,398,Kazakhstan,False,4007.826
+2017,declara_CR,400,Jordan,False,117395.058
+2017,declara_CR,404,Kenya,False,16639.778
+2017,declara_CR,408,Dem. People's Rep. of Korea,False,98088.109
+2017,declara_CR,414,Kuwait,False,46488.333
+2017,declara_CR,422,Lebanon,False,671334.906
+2017,declara_CR,430,Liberia,False,1525.681
+2017,declara_CR,434,Libya,False,1356948.448
+2017,declara_CR,440,Lithuania,False,6018143.383
+2017,declara_CR,442,Luxembourg,False,575.439
+2017,declara_CR,446,"China, Macao SAR",False,10379.215
+2017,declara_CR,466,Mali,False,6905.268
+2017,declara_CR,470,Malta,False,505445.002
+2017,declara_CR,520,Naoero,False,31386.181
+2017,declara_CR,512,Oman,False,25575.067
+2017,declara_CR,508,Mozambique,False,4705.013
+2017,declara_CR,504,Morocco,False,1475066.609
+2017,declara_CR,499,Montenegro,False,2949836.942
+2017,declara_CR,498,Rep. of Moldova,False,195.01
+2017,declara_CR,534,Saint Maarten,False,141141.189
+2017,declara_CR,540,New Caledonia,False,82417.019
+2017,declara_CR,548,Vanuatu,False,2185.134
+2017,declara_CR,554,New Zealand,False,18689969.498
+2017,declara_CR,566,Nigeria,False,251488.163
+2017,declara_CR,586,Pakistan,False,782611.13
+2017,declara_CR,612,Pitcairn,False,16607.543
+2017,declara_CR,620,Portugal,False,47207559.86
+2017,declara_CR,634,Qatar,False,1620459.866
+2017,declara_CR,643,Russian Federation,False,30638672.028
+2017,declara_CR,660,Anguilla,False,7672.52
+2017,declara_CR,678,Sao Tome and Principe,False,2581.164
+2017,declara_CR,682,Saudi Arabia,False,3465365.394
+2017,declara_CR,686,Senegal,False,3464.356
+2017,declara_CR,688,Serbia,False,5.328
+2017,declara_CR,690,Seychelles,False,149614.145
+2017,declara_CR,694,Sierra Leone,False,11498.124
+2017,declara_CR,703,Slovakia,False,327899.953
+2017,declara_CR,705,Slovenia,False,7468098.217
+2017,declara_CR,710,South Africa,False,1721063.848
+2017,declara_CR,760,Syria,False,26423.733
+2017,declara_CR,764,Thailand,False,7929776.861
+2017,declara_CR,784,United Arab Emirates,False,3891853.31
+2017,declara_CR,788,Tunisia,False,1238091.977
+2017,declara_CR,792,Türkiye,False,42199874.551
+2017,declara_CR,800,Uganda,False,45951.683
+2017,declara_CR,804,Ukraine,False,21671037.179
+2017,declara_CR,854,Burkina Faso,False,306752.591
+2017,declara_CR,899,"Areas, nes",False,72576.745
+2017,declara_CR,894,Zambia,False,62707.721
+2017,declara_CR,0,World,True,11296640428.739
+2017,declara_CR,28,Antigua and Barbuda,False,272134.413
+2017,declara_CR,32,Argentina,False,16824692.712
+2017,declara_CR,36,Australia,False,35261451.376
+2017,declara_CR,40,Austria,False,231578.538
+2017,declara_CR,44,Bahamas,False,9356936.233
+2017,declara_CR,52,Barbados,False,9274350.204
+2017,declara_CR,56,Belgium,False,728923066.238
+2017,declara_CR,68,Bolivia (Plurinational State of),False,1277337.759
+2017,declara_CR,76,Brazil,False,44640284.524
+2017,declara_CR,124,Canada,False,82212303.537
+2017,declara_CR,152,Chile,False,36485550.718
+2017,declara_CR,156,China,False,119116429.611
+2017,declara_CR,170,Colombia,False,61154039.109
+2017,declara_CR,192,Cuba,False,33922657.772
+2017,declara_CR,208,Denmark,False,4235622.306
+2017,declara_CR,212,Dominica,False,1090637.913
+2017,declara_CR,214,Dominican Rep.,False,245493338.854
+2017,declara_CR,218,Ecuador,False,38135443.788
+2017,declara_CR,251,France,False,71073598.158
+2017,declara_CR,222,El Salvador,False,305258099.005
+2017,declara_CR,276,Germany,False,134845917.853
+2017,declara_CR,300,Greece,False,14111982.737
+2017,declara_CR,308,Grenada,False,1709395.564
+2017,declara_CR,320,Guatemala,False,560374798.1
+2017,declara_CR,328,Guyana,False,11599111.315
+2017,declara_CR,340,Honduras,False,389995853.52
+2017,declara_CR,344,"China, Hong Kong SAR",False,41163446.784
+2017,declara_CR,348,Hungary,False,135802.958
+2017,declara_CR,372,Ireland,False,82111011.827
+2017,declara_CR,376,Israel,False,13970218.112
+2017,declara_CR,380,Italy,False,167430642.42
+2017,declara_CR,388,Jamaica,False,90794052.934
+2017,declara_CR,392,Japan,False,183219993.927
+2017,declara_CR,410,Rep. of Korea,False,40202518.421
+2017,declara_CR,428,Latvia,False,988103.973
+2017,declara_CR,458,Malaysia,False,6116846.22
+2017,declara_CR,484,Mexico,False,292367175.857
+2017,declara_CR,490,"Other Asia, nes",False,15513714.17
+2017,declara_CR,528,Netherlands,False,633855823.409
+2017,declara_CR,531,Curaçao,False,3055566.069
+2017,declara_CR,533,Aruba,False,21752033.862
+2017,declara_CR,558,Nicaragua,False,572925799.291
+2017,declara_CR,579,Norway,False,22634684.162
+2017,declara_CR,584,Marshall Isds,False,21779.162
+2017,declara_CR,591,Panama,False,611417919.754
+2017,declara_CR,600,Paraguay,False,1439441.487
+2017,declara_CR,604,Peru,False,23012845.384
+2017,declara_CR,608,Philippines,False,5136830.842
+2017,declara_CR,616,Poland,False,8297556.871
+2017,declara_CR,642,Romania,False,2113497.539
+2017,declara_CR,659,Saint Kitts and Nevis,False,279679.059
+2017,declara_CR,662,Saint Lucia,False,2652549.992
+2017,declara_CR,670,Saint Vincent and the Grenadines,False,978164.553
+2017,declara_CR,699,India,False,42532927.379
+2017,declara_CR,702,Singapore,False,7146885.641
+2017,declara_CR,704,Viet Nam,False,21738173.563
+2017,declara_CR,724,Spain,False,169107675.545
+2017,declara_CR,740,Suriname,False,7979807.832
+2017,declara_CR,752,Sweden,False,25250839.672
+2017,declara_CR,757,Switzerland,False,4430230.101
+2017,declara_CR,780,Trinidad and Tobago,False,64234745.956
+2017,declara_CR,818,Egypt,False,632963.972
+2017,declara_CR,826,United Kingdom,False,219288744.868
+2017,declara_CR,834,United Rep. of Tanzania,False,5984.353
+2017,declara_CR,858,Uruguay,False,1432364.866
+2017,declara_CR,842,USA,False,4616173282.101
+2017,declara_CR,862,Venezuela,False,12769890.882
+2017,declara_socio,4,Afghanistan,False,19740.48
+2017,declara_socio,8,Albania,False,546699.3
+2017,declara_socio,12,Algeria,False,822270.05
+2017,declara_socio,20,Andorra,False,3651.469
+2017,declara_socio,24,Angola,False,69166.2
+2017,declara_socio,28,Antigua and Barbuda,False,741781.006
+2017,declara_socio,31,Azerbaijan,False,1178979.91
+2017,declara_socio,32,Argentina,False,17743522.8
+2017,declara_socio,36,Australia,False,93484427.458
+2017,declara_socio,40,Austria,False,48699792.34
+2017,declara_socio,44,Bahamas,False,10547996.79
+2017,declara_socio,48,Bahrain,False,954468.982
+2017,declara_socio,50,Bangladesh,False,852078.292
+2017,declara_socio,51,Armenia,False,770767.58
+2017,declara_socio,52,Barbados,False,8868967.5
+2017,declara_socio,56,Belgium,False,389317671.787
+2017,declara_socio,60,Bermuda,False,604345.5
+2017,declara_socio,68,Bolivia (Plurinational State of),False,1471224.77
+2017,declara_socio,70,Bosnia Herzegovina,False,9127868.14
+2017,declara_socio,72,Botswana,False,60325.824
+2017,declara_socio,76,Brazil,False,59966407.0
+2017,declara_socio,84,Belize,False,11100939.31
+2017,declara_socio,90,Solomon Isds,False,209.678
+2017,declara_socio,96,Brunei Darussalam,False,274624.49
+2017,declara_socio,100,Bulgaria,False,518747.449
+2017,declara_socio,104,Myanmar,False,122100.06
+2017,declara_socio,112,Belarus,False,9906200.0
+2017,declara_socio,116,Cambodia,False,4607.03
+2017,declara_socio,120,Cameroon,False,369096.401
+2017,declara_socio,124,Canada,False,397391192.477
+2017,declara_socio,132,Cabo Verde,False,9066.875
+2017,declara_socio,144,Sri Lanka,False,927469.724
+2017,declara_socio,152,Chile,False,41805071.135
+2017,declara_socio,156,China,False,791620705.0
+2017,declara_socio,170,Colombia,False,63050560.23
+2017,declara_socio,180,Dem. Rep. of the Congo,False,128389.814
+2017,declara_socio,191,Croatia,False,375276.0
+2017,declara_socio,192,Cuba,False,20023096.97
+2017,declara_socio,196,Cyprus,False,106162.902
+2017,declara_socio,203,Czechia,False,84394468.0
+2017,declara_socio,208,Denmark,False,3307468.686
+2017,declara_socio,212,Dominica,False,547731.007
+2017,declara_socio,214,Dominican Rep.,False,219095862.939
+2017,declara_socio,218,Ecuador,False,46895165.56
+2017,declara_socio,222,El Salvador,False,250005481.1
+2017,declara_socio,231,Ethiopia,False,392706.387
+2017,declara_socio,233,Estonia,False,9502703.875
+2017,declara_socio,242,Fiji,False,7494.921
+2017,declara_socio,246,Finland,False,90875159.629
+2017,declara_socio,251,France,False,252318222.401
+2017,declara_socio,258,French Polynesia,False,133911.923
+2017,declara_socio,266,Gabon,False,366233.923
+2017,declara_socio,268,Georgia,False,376689.28
+2017,declara_socio,275,State of Palestine,False,2302062.203
+2017,declara_socio,276,Germany,False,593620388.771
+2017,declara_socio,288,Ghana,False,99634.506
+2017,declara_socio,300,Greece,False,18701599.575
+2017,declara_socio,304,Greenland,False,56838.3
+2017,declara_socio,308,Grenada,False,1515434.781
+2017,declara_socio,320,Guatemala,False,610350687.0
+2017,declara_socio,328,Guyana,False,14564247.946
+2017,declara_socio,332,Haiti,False,12153101.578
+2017,declara_socio,340,Honduras,False,298085510.22
+2017,declara_socio,344,"China, Hong Kong SAR",False,216413468.871
+2017,declara_socio,348,Hungary,False,1021463.0
+2017,declara_socio,352,Iceland,False,3683193.839
+2017,declara_socio,360,Indonesia,False,17638587.0
+2017,declara_socio,364,Iran,False,730587.0
+2017,declara_socio,372,Ireland,False,91659479.711
+2017,declara_socio,376,Israel,False,4784000.0
+2017,declara_socio,380,Italy,False,229426844.25
+2017,declara_socio,384,Côte d'Ivoire,False,193626.021
+2017,declara_socio,388,Jamaica,False,58079317.45
+2017,declara_socio,392,Japan,False,345742061.757
+2017,declara_socio,398,Kazakhstan,False,981011.28
+2017,declara_socio,400,Jordan,False,1551058.072
+2017,declara_socio,404,Kenya,False,80509.402
+2017,declara_socio,410,Rep. of Korea,False,139198170.0
+2017,declara_socio,414,Kuwait,False,5207250.773
+2017,declara_socio,417,Kyrgyzstan,False,22394.0
+2017,declara_socio,418,Lao People's Dem. Rep.,False,40878.0
+2017,declara_socio,422,Lebanon,False,3354900.0
+2017,declara_socio,428,Latvia,False,54102.682
+2017,declara_socio,430,Liberia,False,7369.0
+2017,declara_socio,434,Libya,False,1273000.0
+2017,declara_socio,440,Lithuania,False,7500426.0
+2017,declara_socio,442,Luxembourg,False,1360759.7
+2017,declara_socio,446,"China, Macao SAR",False,34623.359
+2017,declara_socio,450,Madagascar,False,21654.765
+2017,declara_socio,454,Malawi,False,419.754
+2017,declara_socio,458,Malaysia,False,19504094.583
+2017,declara_socio,462,Maldives,False,15197.584
+2017,declara_socio,466,Mali,False,174022.126
+2017,declara_socio,470,Malta,False,203359.913
+2017,declara_socio,480,Mauritius,False,226151.135
+2017,declara_socio,484,Mexico,False,372863178.0
+2017,declara_socio,490,"Other Asia, nes",False,70873157.48
+2017,declara_socio,496,Mongolia,False,115107.88
+2017,declara_socio,498,Rep. of Moldova,False,1277135.0
+2017,declara_socio,499,Montenegro,False,1256254.148
+2017,declara_socio,504,Morocco,False,3891680.143
+2017,declara_socio,508,Mozambique,False,8309.676
+2017,declara_socio,512,Oman,False,856137.764
+2017,declara_socio,516,Namibia,False,20036.566
+2017,declara_socio,524,Nepal,False,364867.825
+2017,declara_socio,528,Netherlands,False,664355296.278
+2017,declara_socio,531,Curaçao,False,2441635.049
+2017,declara_socio,554,New Zealand,False,20720695.193
+2017,declara_socio,558,Nicaragua,False,488563273.44
+2017,declara_socio,562,Niger,False,41606.6
+2017,declara_socio,566,Nigeria,False,24133.885
+2017,declara_socio,579,Norway,False,54519108.039
+2017,declara_socio,586,Pakistan,False,2433206.733
+2017,declara_socio,591,Panama,False,493750132.0
+2017,declara_socio,600,Paraguay,False,1629182.0
+2017,declara_socio,604,Peru,False,26040996.51
+2017,declara_socio,608,Philippines,False,12051190.0
+2017,declara_socio,616,Poland,False,113025882.0
+2017,declara_socio,620,Portugal,False,64640196.752
+2017,declara_socio,634,Qatar,False,4607163.275
+2017,declara_socio,642,Romania,False,1725105.97
+2017,declara_socio,643,Russian Federation,False,116903159.08
+2017,declara_socio,646,Rwanda,False,317.986
+2017,declara_socio,659,Saint Kitts and Nevis,False,143638.46
+2017,declara_socio,662,Saint Lucia,False,2687424.813
+2017,declara_socio,670,Saint Vincent and the Grenadines,False,1329843.948
+2017,declara_socio,682,Saudi Arabia,False,21342308.269
+2017,declara_socio,686,Senegal,False,419068.57
+2017,declara_socio,688,Serbia,False,10991619.0
+2017,declara_socio,690,Seychelles,False,12531.053
+2017,declara_socio,699,India,False,68272146.512
+2017,declara_socio,702,Singapore,False,56401573.396
+2017,declara_socio,703,Slovakia,False,20864335.956
+2017,declara_socio,704,Viet Nam,False,39601511.4
+2017,declara_socio,705,Slovenia,False,12518413.29
+2017,declara_socio,710,South Africa,False,15691185.802
+2017,declara_socio,716,Zimbabwe,False,28.75
+2017,declara_socio,724,Spain,False,276807584.514
+2017,declara_socio,729,Sudan,False,18291.0
+2017,declara_socio,740,Suriname,False,5255395.126
+2017,declara_socio,748,Eswatini,False,227.06
+2017,declara_socio,752,Sweden,False,34912431.191
+2017,declara_socio,757,Switzerland,False,110370704.421
+2017,declara_socio,762,Tajikistan,False,14839.0
+2017,declara_socio,764,Thailand,False,25873747.11
+2017,declara_socio,768,Togo,False,200.371
+2017,declara_socio,780,Trinidad and Tobago,False,48158999.95
+2017,declara_socio,784,United Arab Emirates,False,16295269.344
+2017,declara_socio,788,Tunisia,False,1832189.541
+2017,declara_socio,792,Türkiye,False,63472416.0
+2017,declara_socio,800,Uganda,False,619.29
+2017,declara_socio,804,Ukraine,False,41088847.95
+2017,declara_socio,807,North Macedonia,False,844288.99
+2017,declara_socio,818,Egypt,False,1725190.489
+2017,declara_socio,826,United Kingdom,False,334207045.118
+2017,declara_socio,834,United Rep. of Tanzania,False,126330.0
+2017,declara_socio,842,USA,False,4828258852.0
+2017,declara_socio,854,Burkina Faso,False,1162788.66
+2017,declara_socio,858,Uruguay,False,4065446.26
+2017,declara_socio,860,Uzbekistan,False,43527.0
+2017,declara_socio,882,Samoa,False,73.927
+2017,declara_socio,894,Zambia,False,66921.061
+2018,declara_CR,24,Angola,False,384929.0
+2018,declara_CR,8,Albania,False,240305.89
+2018,declara_CR,48,Bahrain,False,9480.0
+2018,declara_CR,50,Bangladesh,False,190142.22
+2018,declara_CR,51,Armenia,False,6840.0
+2018,declara_CR,52,Barbados,False,8056354.65
+2018,declara_CR,60,Bermuda,False,475788.58
+2018,declara_CR,68,Bolivia (Plurinational State of),False,932004.0
+2018,declara_CR,70,Bosnia Herzegovina,False,8400.0
+2018,declara_CR,84,Belize,False,9667622.98
+2018,declara_CR,90,Solomon Isds,False,10000.0
+2018,declara_CR,92,Br. Virgin Isds,False,30787.88
+2018,declara_CR,100,Bulgaria,False,24162.9
+2018,declara_CR,112,Belarus,False,2330.0
+2018,declara_CR,136,Cayman Isds,False,395772.62
+2018,declara_CR,144,Sri Lanka,False,243.0
+2018,declara_CR,191,Croatia,False,5178311.4
+2018,declara_CR,180,Dem. Rep. of the Congo,False,6590.0
+2018,declara_CR,178,Congo,False,9688.0
+2018,declara_CR,196,Cyprus,False,46285.01
+2018,declara_CR,203,Czechia,False,55117.18
+2018,declara_CR,233,Estonia,False,44324.28
+2018,declara_CR,242,Fiji,False,9720.0
+2018,declara_CR,258,French Polynesia,False,1924.0
+2018,declara_CR,266,Gabon,False,1476.0
+2018,declara_CR,268,Georgia,False,219005.48
+2018,declara_CR,270,Gambia,False,300.0
+2018,declara_CR,288,Ghana,False,36494.63
+2018,declara_CR,300,Greece,False,20603143.32
+2018,declara_CR,316,Guam,False,19989.78
+2018,declara_CR,348,Hungary,False,121761.47
+2018,declara_CR,360,Indonesia,False,365043.23
+2018,declara_CR,364,Iran,False,183592.86
+2018,declara_CR,368,Iraq,False,585353.4
+2018,declara_CR,384,Côte d'Ivoire,False,102756.68
+2018,declara_CR,398,Kazakhstan,False,12900.0
+2018,declara_CR,400,Jordan,False,112379.67
+2018,declara_CR,408,Dem. People's Rep. of Korea,False,440.0
+2018,declara_CR,414,Kuwait,False,10212.38
+2018,declara_CR,418,Lao People's Dem. Rep.,False,312681.2
+2018,declara_CR,422,Lebanon,False,1228522.44
+2018,declara_CR,434,Libya,False,1740503.04
+2018,declara_CR,440,Lithuania,False,5202947.61
+2018,declara_CR,442,Luxembourg,False,2928041.83
+2018,declara_CR,450,Madagascar,False,1641.4
+2018,declara_CR,466,Mali,False,27601.16
+2018,declara_CR,470,Malta,False,414205.22
+2018,declara_CR,480,Mauritius,False,42246.07
+2018,declara_CR,498,Rep. of Moldova,False,1.0
+2018,declara_CR,499,Montenegro,False,1970072.47
+2018,declara_CR,504,Morocco,False,2550880.19
+2018,declara_CR,512,Oman,False,223694.61
+2018,declara_CR,534,Saint Maarten,False,531767.61
+2018,declara_CR,535,Bonaire,False,2185.0
+2018,declara_CR,548,Vanuatu,False,1910.7
+2018,declara_CR,554,New Zealand,False,2864951.7
+2018,declara_CR,566,Nigeria,False,146733.0
+2018,declara_CR,586,Pakistan,False,1111084.77
+2018,declara_CR,583,FS Micronesia,False,1120.0
+2018,declara_CR,579,Norway,False,19955747.22
+2018,declara_CR,598,Papua New Guinea,False,14509.0
+2018,declara_CR,600,Paraguay,False,428859.24
+2018,declara_CR,616,Poland,False,7322872.51
+2018,declara_CR,624,Guinea-Bissau,False,4624.02
+2018,declara_CR,634,Qatar,False,231175.78
+2018,declara_CR,660,Anguilla,False,7420.0
+2018,declara_CR,662,Saint Lucia,False,1887763.88
+2018,declara_CR,674,San Marino,False,10600.0
+2018,declara_CR,682,Saudi Arabia,False,4173586.93
+2018,declara_CR,688,Serbia,False,151697.72
+2018,declara_CR,694,Sierra Leone,False,11010.0
+2018,declara_CR,703,Slovakia,False,420458.94
+2018,declara_CR,705,Slovenia,False,12565440.99
+2018,declara_CR,710,South Africa,False,2182704.23
+2018,declara_CR,740,Suriname,False,7891078.73
+2018,declara_CR,748,Eswatini,False,297612.0
+2018,declara_CR,757,Switzerland,False,3860816.48
+2018,declara_CR,760,Syria,False,12398.2
+2018,declara_CR,764,Thailand,False,19125580.19
+2018,declara_CR,768,Togo,False,10535.0
+2018,declara_CR,788,Tunisia,False,1734231.89
+2018,declara_CR,792,Türkiye,False,24243215.94
+2018,declara_CR,800,Uganda,False,6427.5
+2018,declara_CR,804,Ukraine,False,23975317.93
+2018,declara_CR,818,Egypt,False,38746.5
+2018,declara_CR,834,United Rep. of Tanzania,False,28890.0
+2018,declara_CR,854,Burkina Faso,False,437065.9
+2018,declara_CR,894,Zambia,False,106747.0
+2018,declara_CR,899,"Areas, nes",False,79020.59
+2018,declara_CR,28,Antigua and Barbuda,False,495497.06
+2018,declara_CR,0,World,True,11251781448.19
+2018,declara_CR,32,Argentina,False,11061481.47
+2018,declara_CR,36,Australia,False,27372554.56
+2018,declara_CR,40,Austria,False,217849.25
+2018,declara_CR,44,Bahamas,False,10160447.2
+2018,declara_CR,56,Belgium,False,675369117.51
+2018,declara_CR,76,Brazil,False,41596879.91
+2018,declara_CR,120,Cameroon,False,117306.48
+2018,declara_CR,124,Canada,False,80371161.44
+2018,declara_CR,152,Chile,False,33012782.64
+2018,declara_CR,156,China,False,198687836.74
+2018,declara_CR,170,Colombia,False,55754586.98
+2018,declara_CR,192,Cuba,False,31481403.35
+2018,declara_CR,208,Denmark,False,8237787.48
+2018,declara_CR,212,Dominica,False,657448.77
+2018,declara_CR,214,Dominican Rep.,False,242284369.76
+2018,declara_CR,218,Ecuador,False,40344845.55
+2018,declara_CR,222,El Salvador,False,295756381.55
+2018,declara_CR,246,Finland,False,34929572.32
+2018,declara_CR,251,France,False,64177935.16
+2018,declara_CR,276,Germany,False,128820196.6
+2018,declara_CR,308,Grenada,False,2197819.54
+2018,declara_CR,320,Guatemala,False,570941866.79
+2018,declara_CR,328,Guyana,False,9763039.14
+2018,declara_CR,332,Haiti,False,28146041.94
+2018,declara_CR,340,Honduras,False,394184975.89
+2018,declara_CR,344,"China, Hong Kong SAR",False,83255141.26
+2018,declara_CR,372,Ireland,False,88799830.72
+2018,declara_CR,376,Israel,False,8402988.2
+2018,declara_CR,380,Italy,False,178723611.28
+2018,declara_CR,388,Jamaica,False,59715199.57
+2018,declara_CR,392,Japan,False,240770435.82
+2018,declara_CR,404,Kenya,False,416808.8
+2018,declara_CR,410,Rep. of Korea,False,36241175.6
+2018,declara_CR,428,Latvia,False,465925.86
+2018,declara_CR,458,Malaysia,False,5232501.2
+2018,declara_CR,484,Mexico,False,284997910.57
+2018,declara_CR,490,"Other Asia, nes",False,29784986.31
+2018,declara_CR,531,Curaçao,False,4478899.11
+2018,declara_CR,528,Netherlands,False,679000695.92
+2018,declara_CR,533,Aruba,False,19842029.79
+2018,declara_CR,540,New Caledonia,False,35386.24
+2018,declara_CR,558,Nicaragua,False,481188823.49
+2018,declara_CR,584,Marshall Isds,False,12273.29
+2018,declara_CR,591,Panama,False,580683324.74
+2018,declara_CR,604,Peru,False,20662188.81
+2018,declara_CR,608,Philippines,False,2837484.28
+2018,declara_CR,620,Portugal,False,52549610.96
+2018,declara_CR,642,Romania,False,729089.27
+2018,declara_CR,643,Russian Federation,False,31694435.46
+2018,declara_CR,659,Saint Kitts and Nevis,False,212443.15
+2018,declara_CR,670,Saint Vincent and the Grenadines,False,185726.82
+2018,declara_CR,699,India,False,36014596.69
+2018,declara_CR,702,Singapore,False,20854099.06
+2018,declara_CR,704,Viet Nam,False,14567348.28
+2018,declara_CR,724,Spain,False,176617922.43
+2018,declara_CR,752,Sweden,False,35872353.81
+2018,declara_CR,780,Trinidad and Tobago,False,53597046.9
+2018,declara_CR,784,United Arab Emirates,False,2820668.76
+2018,declara_CR,826,United Kingdom,False,202205604.84
+2018,declara_CR,842,USA,False,4624930971.97
+2018,declara_CR,858,Uruguay,False,1590876.46
+2018,declara_CR,862,Venezuela,False,4968929.57
+2018,declara_socio,8,Albania,False,918257.553
+2018,declara_socio,20,Andorra,False,33762.245
+2018,declara_socio,24,Angola,False,793499.63
+2018,declara_socio,28,Antigua and Barbuda,False,1302596.779
+2018,declara_socio,31,Azerbaijan,False,1330867.65
+2018,declara_socio,32,Argentina,False,14646155.18
+2018,declara_socio,36,Australia,False,98438000.273
+2018,declara_socio,40,Austria,False,46576227.077
+2018,declara_socio,44,Bahamas,False,10006022.83
+2018,declara_socio,48,Bahrain,False,1001428.211
+2018,declara_socio,50,Bangladesh,False,716011.759
+2018,declara_socio,51,Armenia,False,2554120.94
+2018,declara_socio,52,Barbados,False,11973287.0
+2018,declara_socio,56,Belgium,False,406459100.824
+2018,declara_socio,60,Bermuda,False,465847.01
+2018,declara_socio,68,Bolivia (Plurinational State of),False,1352451.98
+2018,declara_socio,70,Bosnia Herzegovina,False,9983995.49
+2018,declara_socio,72,Botswana,False,903.423
+2018,declara_socio,76,Brazil,False,63360942.0
+2018,declara_socio,84,Belize,False,9433388.835
+2018,declara_socio,96,Brunei Darussalam,False,337426.069
+2018,declara_socio,100,Bulgaria,False,325484.478
+2018,declara_socio,104,Myanmar,False,111591.02
+2018,declara_socio,112,Belarus,False,10647000.0
+2018,declara_socio,116,Cambodia,False,15.82
+2018,declara_socio,120,Cameroon,False,212332.139
+2018,declara_socio,124,Canada,False,408626557.335
+2018,declara_socio,140,Central African Rep.,False,40564.0
+2018,declara_socio,152,Chile,False,43874852.98
+2018,declara_socio,156,China,False,777220046.0
+2018,declara_socio,170,Colombia,False,68992513.23
+2018,declara_socio,180,Dem. Rep. of the Congo,False,111723.134
+2018,declara_socio,191,Croatia,False,3137839.0
+2018,declara_socio,192,Cuba,False,22375743.3
+2018,declara_socio,196,Cyprus,False,125046.495
+2018,declara_socio,203,Czechia,False,48049984.0
+2018,declara_socio,208,Denmark,False,5719461.955
+2018,declara_socio,212,Dominica,False,492771.139
+2018,declara_socio,214,Dominican Rep.,False,224539646.99
+2018,declara_socio,218,Ecuador,False,41873798.539
+2018,declara_socio,222,El Salvador,False,264144582.54
+2018,declara_socio,231,Ethiopia,False,212034.893
+2018,declara_socio,233,Estonia,False,8673436.0
+2018,declara_socio,242,Fiji,False,4661.818
+2018,declara_socio,246,Finland,False,74074880.183
+2018,declara_socio,251,France,False,256131896.069
+2018,declara_socio,258,French Polynesia,False,168074.837
+2018,declara_socio,266,Gabon,False,29601.481
+2018,declara_socio,268,Georgia,False,516257.29
+2018,declara_socio,275,State of Palestine,False,2206441.055
+2018,declara_socio,276,Germany,False,649718410.659
+2018,declara_socio,288,Ghana,False,91303.47
+2018,declara_socio,300,Greece,False,26871185.952
+2018,declara_socio,304,Greenland,False,100127.23
+2018,declara_socio,308,Grenada,False,2051382.763
+2018,declara_socio,320,Guatemala,False,658109588.0
+2018,declara_socio,328,Guyana,False,11705910.084
+2018,declara_socio,340,Honduras,False,330978145.39
+2018,declara_socio,344,"China, Hong Kong SAR",False,158459969.372
+2018,declara_socio,348,Hungary,False,1251692.0
+2018,declara_socio,352,Iceland,False,2714093.302
+2018,declara_socio,360,Indonesia,False,3247210.0
+2018,declara_socio,364,Iran,False,110025.0
+2018,declara_socio,372,Ireland,False,96322058.988
+2018,declara_socio,376,Israel,False,10453000.0
+2018,declara_socio,380,Italy,False,243478700.963
+2018,declara_socio,384,Côte d'Ivoire,False,105824.648
+2018,declara_socio,388,Jamaica,False,59009550.62
+2018,declara_socio,392,Japan,False,387006246.161
+2018,declara_socio,398,Kazakhstan,False,1524356.17
+2018,declara_socio,400,Jordan,False,1211141.099
+2018,declara_socio,404,Kenya,False,436650.548
+2018,declara_socio,410,Rep. of Korea,False,206915174.0
+2018,declara_socio,414,Kuwait,False,5794271.0
+2018,declara_socio,417,Kyrgyzstan,False,45397.0
+2018,declara_socio,422,Lebanon,False,4951433.0
+2018,declara_socio,426,Lesotho,False,12859.199
+2018,declara_socio,428,Latvia,False,77573.325
+2018,declara_socio,430,Liberia,False,2411.5
+2018,declara_socio,434,Libya,False,1740502.638
+2018,declara_socio,440,Lithuania,False,6259926.0
+2018,declara_socio,442,Luxembourg,False,1876527.514
+2018,declara_socio,446,"China, Macao SAR",False,81507.357
+2018,declara_socio,454,Malawi,False,3470.162
+2018,declara_socio,458,Malaysia,False,25240646.033
+2018,declara_socio,462,Maldives,False,110382.719
+2018,declara_socio,466,Mali,False,248228.75
+2018,declara_socio,470,Malta,False,1087590.371
+2018,declara_socio,480,Mauritius,False,112245.363
+2018,declara_socio,484,Mexico,False,432189313.0
+2018,declara_socio,490,"Other Asia, nes",False,94513280.15
+2018,declara_socio,496,Mongolia,False,188142.27
+2018,declara_socio,498,Rep. of Moldova,False,1414774.0
+2018,declara_socio,499,Montenegro,False,1242309.906
+2018,declara_socio,504,Morocco,False,7240846.585
+2018,declara_socio,508,Mozambique,False,150.579
+2018,declara_socio,512,Oman,False,615461.583
+2018,declara_socio,516,Namibia,False,24517.179
+2018,declara_socio,524,Nepal,False,306442.39
+2018,declara_socio,528,Netherlands,False,823909837.221
+2018,declara_socio,531,Curaçao,False,3249211.736
+2018,declara_socio,554,New Zealand,False,9440666.227
+2018,declara_socio,558,Nicaragua,False,450761130.28
+2018,declara_socio,562,Niger,False,27951.054
+2018,declara_socio,566,Nigeria,False,84363.951
+2018,declara_socio,579,Norway,False,52826149.744
+2018,declara_socio,586,Pakistan,False,2925833.1
+2018,declara_socio,591,Panama,False,472864910.0
+2018,declara_socio,600,Paraguay,False,671902.0
+2018,declara_socio,604,Peru,False,26327066.49
+2018,declara_socio,608,Philippines,False,14638089.42
+2018,declara_socio,616,Poland,False,127532904.0
+2018,declara_socio,620,Portugal,False,80505551.805
+2018,declara_socio,634,Qatar,False,3552208.316
+2018,declara_socio,642,Romania,False,1981598.82
+2018,declara_socio,643,Russian Federation,False,104708220.54
+2018,declara_socio,646,Rwanda,False,186.39
+2018,declara_socio,662,Saint Lucia,False,2655001.48
+2018,declara_socio,670,Saint Vincent and the Grenadines,False,473860.741
+2018,declara_socio,682,Saudi Arabia,False,25626876.537
+2018,declara_socio,686,Senegal,False,1012297.817
+2018,declara_socio,688,Serbia,False,17729358.0
+2018,declara_socio,690,Seychelles,False,30354.719
+2018,declara_socio,699,India,False,49246954.909
+2018,declara_socio,702,Singapore,False,83128943.729
+2018,declara_socio,703,Slovakia,False,21072233.662
+2018,declara_socio,704,Viet Nam,False,41756336.76
+2018,declara_socio,705,Slovenia,False,17402747.32
+2018,declara_socio,710,South Africa,False,17452608.402
+2018,declara_socio,716,Zimbabwe,False,24485.0
+2018,declara_socio,724,Spain,False,290417746.1
+2018,declara_socio,729,Sudan,False,36237.0
+2018,declara_socio,740,Suriname,False,6331009.165
+2018,declara_socio,748,Eswatini,False,332172.187
+2018,declara_socio,752,Sweden,False,21054807.186
+2018,declara_socio,757,Switzerland,False,111007244.268
+2018,declara_socio,762,Tajikistan,False,9068.0
+2018,declara_socio,764,Thailand,False,40445271.76
+2018,declara_socio,768,Togo,False,13782.054
+2018,declara_socio,780,Trinidad and Tobago,False,43291655.735
+2018,declara_socio,784,United Arab Emirates,False,18545199.023
+2018,declara_socio,788,Tunisia,False,3125401.373
+2018,declara_socio,792,Türkiye,False,44856523.0
+2018,declara_socio,800,Uganda,False,3482.54
+2018,declara_socio,804,Ukraine,False,55871584.73
+2018,declara_socio,807,North Macedonia,False,1369586.93
+2018,declara_socio,818,Egypt,False,4682589.661
+2018,declara_socio,826,United Kingdom,False,316431005.349
+2018,declara_socio,834,United Rep. of Tanzania,False,43929.237
+2018,declara_socio,842,USA,False,5147768399.0
+2018,declara_socio,854,Burkina Faso,False,1025154.867
+2018,declara_socio,858,Uruguay,False,4122410.12
+2018,declara_socio,860,Uzbekistan,False,535187.0
+2018,declara_socio,882,Samoa,False,2347.424
+2018,declara_socio,894,Zambia,False,64381.188
+2019,declara_CR,8,Albania,False,1081230.44
+2019,declara_CR,152,Chile,False,28252020.21
+2019,declara_CR,104,Myanmar,False,46724.0
+2019,declara_CR,208,Denmark,False,6908581.53
+2019,declara_CR,60,Bermuda,False,1211105.93
+2019,declara_CR,48,Bahrain,False,39314.0
+2019,declara_CR,203,Czechia,False,549331.45
+2019,declara_CR,12,Algeria,False,54541.08
+2019,declara_CR,170,Colombia,False,62297476.77
+2019,declara_CR,52,Barbados,False,9447024.85
+2019,declara_CR,92,Br. Virgin Isds,False,115792.2
+2019,declara_CR,68,Bolivia (Plurinational State of),False,965039.9
+2019,declara_CR,156,China,False,122060086.76
+2019,declara_CR,218,Ecuador,False,37613861.69
+2019,declara_CR,116,Cambodia,False,7340.0
+2019,declara_CR,40,Austria,False,393028.57
+2019,declara_CR,28,Antigua and Barbuda,False,609552.6
+2019,declara_CR,196,Cyprus,False,32624.0
+2019,declara_CR,136,Cayman Isds,False,516698.08
+2019,declara_CR,36,Australia,False,27453588.29
+2019,declara_CR,16,American Samoa,False,281.28
+2019,declara_CR,76,Brazil,False,19992308.96
+2019,declara_CR,214,Dominican Rep.,False,233785002.57
+2019,declara_CR,0,World,True,11451993076.87
+2019,declara_CR,144,Sri Lanka,False,19240.0
+2019,declara_CR,212,Dominica,False,900400.51
+2019,declara_CR,191,Croatia,False,1203437.5
+2019,declara_CR,32,Argentina,False,13681358.61
+2019,declara_CR,24,Angola,False,72882.25
+2019,declara_CR,124,Canada,False,105314635.23
+2019,declara_CR,204,Benin,False,5400.0
+2019,declara_CR,178,Congo,False,10443.95
+2019,declara_CR,56,Belgium,False,706370052.65
+2019,declara_CR,70,Bosnia Herzegovina,False,18024.0
+2019,declara_CR,108,Burundi,False,720.0
+2019,declara_CR,120,Cameroon,False,101305.5
+2019,declara_CR,112,Belarus,False,9147.92
+2019,declara_CR,44,Bahamas,False,12892855.21
+2019,declara_CR,50,Bangladesh,False,552212.93
+2019,declara_CR,84,Belize,False,8034188.89
+2019,declara_CR,51,Armenia,False,17400.0
+2019,declara_CR,192,Cuba,False,34532139.28
+2019,declara_CR,100,Bulgaria,False,20570.6
+2019,declara_CR,528,Netherlands,False,720812583.99
+2019,declara_CR,428,Latvia,False,526969.45
+2019,declara_CR,604,Peru,False,17259903.32
+2019,declara_CR,862,Venezuela,False,6448014.44
+2019,declara_CR,740,Suriname,False,7430390.22
+2019,declara_CR,512,Oman,False,49985.0
+2019,declara_CR,410,Rep. of Korea,False,32900674.88
+2019,declara_CR,804,Ukraine,False,24606302.1
+2019,declara_CR,340,Honduras,False,394846531.39
+2019,declara_CR,531,Curaçao,False,4064162.04
+2019,declara_CR,434,Libya,False,1613121.8
+2019,declara_CR,800,Uganda,False,28770.0
+2019,declara_CR,616,Poland,False,8603897.58
+2019,declara_CR,332,Haiti,False,16337218.09
+2019,declara_CR,308,Grenada,False,2291362.81
+2019,declara_CR,380,Italy,False,165060438.4
+2019,declara_CR,266,Gabon,False,1420.0
+2019,declara_CR,534,Saint Maarten,False,236770.94
+2019,declara_CR,508,Mozambique,False,79450.91
+2019,declara_CR,458,Malaysia,False,6657325.52
+2019,declara_CR,344,"China, Hong Kong SAR",False,87767416.86
+2019,declara_CR,682,Saudi Arabia,False,8842132.17
+2019,declara_CR,646,Rwanda,False,720.0
+2019,declara_CR,258,French Polynesia,False,205818.0
+2019,declara_CR,826,United Kingdom,False,222184291.73
+2019,declara_CR,364,Iran,False,163820.6
+2019,declara_CR,702,Singapore,False,52121775.91
+2019,declara_CR,300,Greece,False,11618440.17
+2019,declara_CR,231,Ethiopia,False,27689.8
+2019,declara_CR,246,Finland,False,16859114.39
+2019,declara_CR,328,Guyana,False,11475634.42
+2019,declara_CR,414,Kuwait,False,20137.57
+2019,declara_CR,368,Iraq,False,2875968.43
+2019,declara_CR,724,Spain,False,175965468.3
+2019,declara_CR,558,Nicaragua,False,453334193.35
+2019,declara_CR,442,Luxembourg,False,14961.68
+2019,declara_CR,768,Togo,False,11304.0
+2019,declara_CR,400,Jordan,False,108761.17
+2019,declara_CR,842,USA,False,4849088225.97
+2019,declara_CR,540,New Caledonia,False,61262.54
+2019,declara_CR,688,Serbia,False,191041.5
+2019,declara_CR,233,Estonia,False,118923.11
+2019,declara_CR,275,State of Palestine,False,133.2
+2019,declara_CR,398,Kazakhstan,False,8768.73
+2019,declara_CR,662,Saint Lucia,False,2137919.33
+2019,declara_CR,608,Philippines,False,4144957.77
+2019,declara_CR,788,Tunisia,False,4077667.58
+2019,declara_CR,818,Egypt,False,13861.78
+2019,declara_CR,392,Japan,False,243809850.91
+2019,declara_CR,504,Morocco,False,3166656.9
+2019,declara_CR,533,Aruba,False,21605793.12
+2019,declara_CR,699,India,False,33486381.67
+2019,declara_CR,752,Sweden,False,16345537.24
+2019,declara_CR,242,Fiji,False,26355.0
+2019,declara_CR,376,Israel,False,11185230.58
+2019,declara_CR,899,"Areas, nes",False,65814.0
+2019,declara_CR,222,El Salvador,False,309334634.61
+2019,declara_CR,251,France,False,50504878.93
+2019,declara_CR,598,Papua New Guinea,False,122248.76
+2019,declara_CR,703,Slovakia,False,190361.21
+2019,declara_CR,704,Viet Nam,False,9912197.16
+2019,declara_CR,430,Liberia,False,1933.48
+2019,declara_CR,600,Paraguay,False,700676.89
+2019,declara_CR,579,Norway,False,21171549.11
+2019,declara_CR,499,Montenegro,False,2358085.23
+2019,declara_CR,591,Panama,False,591617066.34
+2019,declara_CR,643,Russian Federation,False,27890608.99
+2019,declara_CR,854,Burkina Faso,False,287812.68
+2019,declara_CR,858,Uruguay,False,1760887.26
+2019,declara_CR,566,Nigeria,False,468175.0
+2019,declara_CR,882,Samoa,False,6660.0
+2019,declara_CR,659,Saint Kitts and Nevis,False,173498.03
+2019,declara_CR,784,United Arab Emirates,False,1673487.3
+2019,declara_CR,710,South Africa,False,4207772.13
+2019,declara_CR,388,Jamaica,False,64590127.85
+2019,declara_CR,454,Malawi,False,7800.0
+2019,declara_CR,620,Portugal,False,51368304.39
+2019,declara_CR,670,Saint Vincent and the Grenadines,False,325574.63
+2019,declara_CR,372,Ireland,False,79587955.99
+2019,declara_CR,660,Anguilla,False,3600.0
+2019,declara_CR,348,Hungary,False,4108953.19
+2019,declara_CR,586,Pakistan,False,152210.68
+2019,declara_CR,834,United Rep. of Tanzania,False,179600.0
+2019,declara_CR,757,Switzerland,False,6562400.24
+2019,declara_CR,276,Germany,False,167647760.43
+2019,declara_CR,360,Indonesia,False,524003.13
+2019,declara_CR,705,Slovenia,False,7026452.69
+2019,declara_CR,404,Kenya,False,550548.96
+2019,declara_CR,470,Malta,False,385465.78
+2019,declara_CR,860,Uzbekistan,False,4997.0
+2019,declara_CR,764,Thailand,False,15758245.58
+2019,declara_CR,288,Ghana,False,94539.8
+2019,declara_CR,316,Guam,False,26571.07
+2019,declara_CR,422,Lebanon,False,1067991.52
+2019,declara_CR,694,Sierra Leone,False,25526.0
+2019,declara_CR,554,New Zealand,False,3133655.46
+2019,declara_CR,686,Senegal,False,272959.0
+2019,declara_CR,642,Romania,False,648410.8
+2019,declara_CR,894,Zambia,False,108350.0
+2019,declara_CR,384,Côte d'Ivoire,False,346064.4
+2019,declara_CR,484,Mexico,False,225730519.95
+2019,declara_CR,792,Türkiye,False,36959267.03
+2019,declara_CR,634,Qatar,False,225776.12
+2019,declara_CR,490,"Other Asia, nes",False,26608961.7
+2019,declara_CR,268,Georgia,False,167993.6
+2019,declara_CR,320,Guatemala,False,595427859.37
+2019,declara_CR,440,Lithuania,False,1835598.07
+2019,declara_CR,780,Trinidad and Tobago,False,57970206.78
+2019,declara_socio,4,Afghanistan,False,5497.52
+2019,declara_socio,8,Albania,False,1911620.066
+2019,declara_socio,20,Andorra,False,16700.166
+2019,declara_socio,24,Angola,False,95249.58
+2019,declara_socio,28,Antigua and Barbuda,False,1006863.718
+2019,declara_socio,31,Azerbaijan,False,2348045.95
+2019,declara_socio,32,Argentina,False,14006809.33
+2019,declara_socio,36,Australia,False,92068703.133
+2019,declara_socio,40,Austria,False,49365292.745
+2019,declara_socio,44,Bahamas,False,11052890.887
+2019,declara_socio,48,Bahrain,False,1386311.67
+2019,declara_socio,51,Armenia,False,2430130.26
+2019,declara_socio,52,Barbados,False,12517009.0
+2019,declara_socio,56,Belgium,False,462201641.365
+2019,declara_socio,60,Bermuda,False,449649.84
+2019,declara_socio,68,Bolivia (Plurinational State of),False,2090456.44
+2019,declara_socio,70,Bosnia Herzegovina,False,9857867.77
+2019,declara_socio,72,Botswana,False,5245.395
+2019,declara_socio,76,Brazil,False,51864013.0
+2019,declara_socio,84,Belize,False,9463079.28
+2019,declara_socio,96,Brunei Darussalam,False,430800.38
+2019,declara_socio,100,Bulgaria,False,75862.171
+2019,declara_socio,104,Myanmar,False,217552.24
+2019,declara_socio,112,Belarus,False,8194200.0
+2019,declara_socio,116,Cambodia,False,2804.29
+2019,declara_socio,120,Cameroon,False,199932.64
+2019,declara_socio,124,Canada,False,442191518.597
+2019,declara_socio,132,Cabo Verde,False,10202.376
+2019,declara_socio,140,Central African Rep.,False,3669.512
+2019,declara_socio,144,Sri Lanka,False,770487.391
+2019,declara_socio,152,Chile,False,38437895.93
+2019,declara_socio,156,China,False,722558891.0
+2019,declara_socio,170,Colombia,False,68218100.08
+2019,declara_socio,174,Comoros,False,3156.612
+2019,declara_socio,180,Dem. Rep. of the Congo,False,27179.279
+2019,declara_socio,191,Croatia,False,1041166.0
+2019,declara_socio,192,Cuba,False,22196142.74
+2019,declara_socio,196,Cyprus,False,46900.476
+2019,declara_socio,203,Czechia,False,42939656.0
+2019,declara_socio,204,Benin,False,4266.85
+2019,declara_socio,208,Denmark,False,3266975.143
+2019,declara_socio,212,Dominica,False,432956.477
+2019,declara_socio,214,Dominican Rep.,False,234313248.139
+2019,declara_socio,218,Ecuador,False,41380289.011
+2019,declara_socio,222,El Salvador,False,306135892.48
+2019,declara_socio,231,Ethiopia,False,285756.69
+2019,declara_socio,233,Estonia,False,6800525.047
+2019,declara_socio,242,Fiji,False,50696.206
+2019,declara_socio,246,Finland,False,50157493.977
+2019,declara_socio,251,France,False,263156972.485
+2019,declara_socio,258,French Polynesia,False,163079.135
+2019,declara_socio,266,Gabon,False,79317.093
+2019,declara_socio,268,Georgia,False,596305.59
+2019,declara_socio,275,State of Palestine,False,2265095.59
+2019,declara_socio,276,Germany,False,675337021.694
+2019,declara_socio,288,Ghana,False,104146.127
+2019,declara_socio,300,Greece,False,18300980.272
+2019,declara_socio,308,Grenada,False,2311918.703
+2019,declara_socio,320,Guatemala,False,691104858.0
+2019,declara_socio,328,Guyana,False,12783672.174
+2019,declara_socio,340,Honduras,False,327311020.58
+2019,declara_socio,344,"China, Hong Kong SAR",False,125482885.85
+2019,declara_socio,348,Hungary,False,3530555.0
+2019,declara_socio,352,Iceland,False,2085545.285
+2019,declara_socio,360,Indonesia,False,3635717.0
+2019,declara_socio,364,Iran,False,156063.0
+2019,declara_socio,372,Ireland,False,100046773.242
+2019,declara_socio,376,Israel,False,14115000.0
+2019,declara_socio,380,Italy,False,240818845.212
+2019,declara_socio,384,Côte d'Ivoire,False,304759.813
+2019,declara_socio,388,Jamaica,False,60498931.588
+2019,declara_socio,392,Japan,False,420751381.558
+2019,declara_socio,398,Kazakhstan,False,2006328.24
+2019,declara_socio,400,Jordan,False,1944928.577
+2019,declara_socio,404,Kenya,False,422926.17
+2019,declara_socio,410,Rep. of Korea,False,225230705.0
+2019,declara_socio,414,Kuwait,False,7730771.0
+2019,declara_socio,417,Kyrgyzstan,False,160300.0
+2019,declara_socio,422,Lebanon,False,4752415.6
+2019,declara_socio,428,Latvia,False,46515.285
+2019,declara_socio,430,Liberia,False,398.59
+2019,declara_socio,434,Libya,False,1613121.0
+2019,declara_socio,440,Lithuania,False,1656076.0
+2019,declara_socio,442,Luxembourg,False,2420164.946
+2019,declara_socio,446,"China, Macao SAR",False,221292.403
+2019,declara_socio,454,Malawi,False,6395.393
+2019,declara_socio,458,Malaysia,False,27250193.611
+2019,declara_socio,462,Maldives,False,21983.3
+2019,declara_socio,466,Mali,False,25452.14
+2019,declara_socio,470,Malta,False,1176846.123
+2019,declara_socio,480,Mauritius,False,82604.403
+2019,declara_socio,484,Mexico,False,378643007.0
+2019,declara_socio,490,"Other Asia, nes",False,102564142.73
+2019,declara_socio,496,Mongolia,False,336140.55
+2019,declara_socio,498,Rep. of Moldova,False,1391478.0
+2019,declara_socio,499,Montenegro,False,975346.584
+2019,declara_socio,504,Morocco,False,6121415.756
+2019,declara_socio,508,Mozambique,False,1458.806
+2019,declara_socio,512,Oman,False,13765.929
+2019,declara_socio,516,Namibia,False,24307.79
+2019,declara_socio,524,Nepal,False,268169.16
+2019,declara_socio,528,Netherlands,False,879708485.134
+2019,declara_socio,531,Curaçao,False,3733034.956
+2019,declara_socio,554,New Zealand,False,12124716.6
+2019,declara_socio,558,Nicaragua,False,430895065.99
+2019,declara_socio,562,Niger,False,7444.889
+2019,declara_socio,566,Nigeria,False,24211.44
+2019,declara_socio,579,Norway,False,58292142.75
+2019,declara_socio,586,Pakistan,False,2071276.757
+2019,declara_socio,591,Panama,False,501276017.0
+2019,declara_socio,598,Papua New Guinea,False,1340.634
+2019,declara_socio,600,Paraguay,False,333127.0
+2019,declara_socio,604,Peru,False,22817119.84
+2019,declara_socio,608,Philippines,False,13678792.0
+2019,declara_socio,616,Poland,False,96560636.0
+2019,declara_socio,620,Portugal,False,77396426.36
+2019,declara_socio,634,Qatar,False,2922986.376
+2019,declara_socio,642,Romania,False,1647280.09
+2019,declara_socio,643,Russian Federation,False,99754531.96
+2019,declara_socio,646,Rwanda,False,6019.52
+2019,declara_socio,662,Saint Lucia,False,2435361.36
+2019,declara_socio,670,Saint Vincent and the Grenadines,False,563170.01
+2019,declara_socio,682,Saudi Arabia,False,39291959.284
+2019,declara_socio,686,Senegal,False,1730760.718
+2019,declara_socio,688,Serbia,False,17178559.0
+2019,declara_socio,690,Seychelles,False,9429.506
+2019,declara_socio,699,India,False,51421739.651
+2019,declara_socio,702,Singapore,False,139772123.452
+2019,declara_socio,703,Slovakia,False,21050840.751
+2019,declara_socio,704,Viet Nam,False,33986645.17
+2019,declara_socio,705,Slovenia,False,19589832.03
+2019,declara_socio,710,South Africa,False,21776795.007
+2019,declara_socio,724,Spain,False,284844963.642
+2019,declara_socio,740,Suriname,False,6441889.778
+2019,declara_socio,748,Eswatini,False,5213.14
+2019,declara_socio,752,Sweden,False,20867173.052
+2019,declara_socio,757,Switzerland,False,106166989.814
+2019,declara_socio,762,Tajikistan,False,70045.0
+2019,declara_socio,764,Thailand,False,46291980.354
+2019,declara_socio,768,Togo,False,14061.78
+2019,declara_socio,780,Trinidad and Tobago,False,48158162.645
+2019,declara_socio,784,United Arab Emirates,False,20875674.73
+2019,declara_socio,788,Tunisia,False,6122619.908
+2019,declara_socio,792,Türkiye,False,56501101.0
+2019,declara_socio,800,Uganda,False,245620.12
+2019,declara_socio,804,Ukraine,False,54306402.98
+2019,declara_socio,807,North Macedonia,False,1461888.64
+2019,declara_socio,818,Egypt,False,5704478.126
+2019,declara_socio,826,United Kingdom,False,341268310.378
+2019,declara_socio,834,United Rep. of Tanzania,False,185924.4
+2019,declara_socio,842,USA,False,5417398185.0
+2019,declara_socio,854,Burkina Faso,False,137574.208
+2019,declara_socio,858,Uruguay,False,4299898.7
+2019,declara_socio,860,Uzbekistan,False,106281.0
+2019,declara_socio,882,Samoa,False,7112.34
+2019,declara_socio,887,Yemen,False,2186.18
+2019,declara_socio,894,Zambia,False,93721.807
+2020,declara_CR,76,Brazil,False,15839751.02
+2020,declara_CR,372,Ireland,False,68001603.52
+2020,declara_CR,682,Saudi Arabia,False,20910295.52
+2020,declara_CR,558,Nicaragua,False,461343180.11
+2020,declara_CR,268,Georgia,False,65567.0
+2020,declara_CR,533,Aruba,False,23049415.22
+2020,declara_CR,4,Afghanistan,False,25920.0
+2020,declara_CR,72,Botswana,False,780.0
+2020,declara_CR,504,Morocco,False,5773985.45
+2020,declara_CR,442,Luxembourg,False,3796.0
+2020,declara_CR,899,"Areas, nes",False,137215.92
+2020,declara_CR,276,Germany,False,116687384.35
+2020,declara_CR,251,France,False,51173793.91
+2020,declara_CR,214,Dominican Rep.,False,231487464.77
+2020,declara_CR,360,Indonesia,False,603170.07
+2020,declara_CR,616,Poland,False,17323782.74
+2020,declara_CR,428,Latvia,False,658254.78
+2020,declara_CR,328,Guyana,False,13784126.44
+2020,declara_CR,231,Ethiopia,False,103286.3
+2020,declara_CR,688,Serbia,False,290252.0
+2020,declara_CR,414,Kuwait,False,258129.65
+2020,declara_CR,887,Yemen,False,1029.03
+2020,declara_CR,826,United Kingdom,False,231286909.26
+2020,declara_CR,12,Algeria,False,201309.46
+2020,declara_CR,60,Bermuda,False,1280602.92
+2020,declara_CR,152,Chile,False,30039459.77
+2020,declara_CR,388,Jamaica,False,53897544.9
+2020,declara_CR,580,N. Mariana Isds,False,4500.0
+2020,declara_CR,752,Sweden,False,11680445.86
+2020,declara_CR,800,Uganda,False,1132.3
+2020,declara_CR,600,Paraguay,False,1022853.04
+2020,declara_CR,28,Antigua and Barbuda,False,385098.73
+2020,declara_CR,466,Mali,False,98.0
+2020,declara_CR,531,Curaçao,False,4074426.0
+2020,declara_CR,380,Italy,False,152655104.82
+2020,declara_CR,74,Bouvet Island,False,40569.6
+2020,declara_CR,740,Suriname,False,8507829.51
+2020,declara_CR,704,Viet Nam,False,6628386.37
+2020,declara_CR,404,Kenya,False,85160.92
+2020,declara_CR,699,India,False,22845127.16
+2020,declara_CR,218,Ecuador,False,38161444.38
+2020,declara_CR,196,Cyprus,False,78581.5
+2020,declara_CR,170,Colombia,False,62621216.53
+2020,declara_CR,233,Estonia,False,74199.25
+2020,declara_CR,344,"China, Hong Kong SAR",False,17649062.47
+2020,declara_CR,368,Iraq,False,2303523.75
+2020,declara_CR,512,Oman,False,74252.03
+2020,declara_CR,579,Norway,False,22270226.84
+2020,declara_CR,56,Belgium,False,613658354.7
+2020,declara_CR,212,Dominica,False,401342.94
+2020,declara_CR,0,World,True,11622755153.42
+2020,declara_CR,156,China,False,182565906.61
+2020,declara_CR,376,Israel,False,8484032.17
+2020,declara_CR,586,Pakistan,False,1284735.84
+2020,declara_CR,796,Turks and Caicos Isds,False,25093.27
+2020,declara_CR,860,Uzbekistan,False,61875.0
+2020,declara_CR,842,USA,False,5054527599.39
+2020,declara_CR,398,Kazakhstan,False,10920.0
+2020,declara_CR,32,Argentina,False,15697227.95
+2020,declara_CR,792,Türkiye,False,33273165.21
+2020,declara_CR,643,Russian Federation,False,35055964.79
+2020,declara_CR,208,Denmark,False,1949761.93
+2020,declara_CR,8,Albania,False,664019.4
+2020,declara_CR,458,Malaysia,False,6593355.62
+2020,declara_CR,340,Honduras,False,371708825.63
+2020,declara_CR,332,Haiti,False,19596664.45
+2020,declara_CR,757,Switzerland,False,5066202.73
+2020,declara_CR,642,Romania,False,6745281.11
+2020,declara_CR,724,Spain,False,179119106.75
+2020,declara_CR,598,Papua New Guinea,False,9973.8
+2020,declara_CR,203,Czechia,False,198448.39
+2020,declara_CR,258,French Polynesia,False,36636.6
+2020,declara_CR,316,Guam,False,22199.3
+2020,declara_CR,320,Guatemala,False,596434642.17
+2020,declara_CR,136,Cayman Isds,False,414668.63
+2020,declara_CR,222,El Salvador,False,313292171.7
+2020,declara_CR,508,Mozambique,False,14856.8
+2020,declara_CR,478,Mauritania,False,5000.0
+2020,declara_CR,480,Mauritius,False,64677.65
+2020,declara_CR,834,United Rep. of Tanzania,False,21332.5
+2020,declara_CR,410,Rep. of Korea,False,80774739.35
+2020,declara_CR,854,Burkina Faso,False,715819.7
+2020,declara_CR,710,South Africa,False,3854749.02
+2020,declara_CR,300,Greece,False,6202336.85
+2020,declara_CR,662,Saint Lucia,False,1448809.45
+2020,declara_CR,112,Belarus,False,741.0
+2020,declara_CR,384,Côte d'Ivoire,False,718640.54
+2020,declara_CR,36,Australia,False,15617486.42
+2020,declara_CR,484,Mexico,False,254228627.74
+2020,declara_CR,400,Jordan,False,624169.0
+2020,declara_CR,705,Slovenia,False,15721435.62
+2020,declara_CR,608,Philippines,False,7118567.46
+2020,declara_CR,591,Panama,False,485341645.84
+2020,declara_CR,540,New Caledonia,False,5079.8
+2020,declara_CR,246,Finland,False,18717648.13
+2020,declara_CR,270,Gambia,False,9000.0
+2020,declara_CR,192,Cuba,False,28704299.0
+2020,declara_CR,499,Montenegro,False,1733798.63
+2020,declara_CR,440,Lithuania,False,2889437.3
+2020,declara_CR,566,Nigeria,False,309418.95
+2020,declara_CR,804,Ukraine,False,20808092.51
+2020,declara_CR,858,Uruguay,False,1618915.21
+2020,declara_CR,528,Netherlands,False,895904602.64
+2020,declara_CR,392,Japan,False,258153743.86
+2020,declara_CR,818,Egypt,False,78204.15
+2020,declara_CR,620,Portugal,False,52949776.28
+2020,declara_CR,50,Bangladesh,False,286777.45
+2020,declara_CR,44,Bahamas,False,11394071.74
+2020,declara_CR,660,Anguilla,False,2280.0
+2020,declara_CR,242,Fiji,False,14958.5
+2020,declara_CR,703,Slovakia,False,19691.5
+2020,declara_CR,191,Croatia,False,875460.1
+2020,declara_CR,470,Malta,False,359231.76
+2020,declara_CR,784,United Arab Emirates,False,1856244.52
+2020,declara_CR,308,Grenada,False,1023777.17
+2020,declara_CR,659,Saint Kitts and Nevis,False,111400.77
+2020,declara_CR,178,Congo,False,20158.0
+2020,declara_CR,634,Qatar,False,255644.15
+2020,declara_CR,422,Lebanon,False,684953.29
+2020,declara_CR,348,Hungary,False,11910384.58
+2020,declara_CR,490,"Other Asia, nes",False,22107991.35
+2020,declara_CR,702,Singapore,False,49439529.98
+2020,declara_CR,670,Saint Vincent and the Grenadines,False,785428.86
+2020,declara_CR,548,Vanuatu,False,5500.0
+2020,declara_CR,554,New Zealand,False,1291387.47
+2020,declara_CR,788,Tunisia,False,5609388.65
+2020,declara_CR,288,Ghana,False,14310.12
+2020,declara_CR,418,Lao People's Dem. Rep.,False,3200.0
+2020,declara_CR,40,Austria,False,57970.35
+2020,declara_CR,48,Bahrain,False,12931.0
+2020,declara_CR,862,Venezuela,False,4180594.65
+2020,declara_CR,780,Trinidad and Tobago,False,51287759.86
+2020,declara_CR,124,Canada,False,75832481.07
+2020,declara_CR,52,Barbados,False,8178839.57
+2020,declara_CR,434,Libya,False,4282129.69
+2020,declara_CR,100,Bulgaria,False,52308.7
+2020,declara_CR,120,Cameroon,False,110559.99
+2020,declara_CR,84,Belize,False,9123319.52
+2020,declara_CR,92,Br. Virgin Isds,False,67717.1
+2020,declara_CR,534,Saint Maarten,False,352127.91
+2020,declara_CR,764,Thailand,False,13555391.57
+2020,declara_CR,364,Iran,False,128203.69
+2020,declara_CR,144,Sri Lanka,False,608.2
+2020,declara_CR,694,Sierra Leone,False,552283.33
+2020,declara_CR,604,Peru,False,49498309.5
+2020,declara_CR,68,Bolivia (Plurinational State of),False,764771.11
+2020,declara_socio,8,Albania,False,1325200.908
+2020,declara_socio,20,Andorra,False,28033.16
+2020,declara_socio,24,Angola,False,469441.17
+2020,declara_socio,28,Antigua and Barbuda,False,762120.202
+2020,declara_socio,31,Azerbaijan,False,1712799.32
+2020,declara_socio,32,Argentina,False,16121146.44
+2020,declara_socio,36,Australia,False,102218796.056
+2020,declara_socio,40,Austria,False,49635158.2
+2020,declara_socio,44,Bahamas,False,6039944.0
+2020,declara_socio,48,Bahrain,False,1241231.25
+2020,declara_socio,51,Armenia,False,1683472.22
+2020,declara_socio,52,Barbados,False,11626314.5
+2020,declara_socio,56,Belgium,False,373979467.34
+2020,declara_socio,60,Bermuda,False,582242.59
+2020,declara_socio,68,Bolivia (Plurinational State of),False,1716586.63
+2020,declara_socio,70,Bosnia Herzegovina,False,6154132.18
+2020,declara_socio,72,Botswana,False,1454.399
+2020,declara_socio,76,Brazil,False,43981157.0
+2020,declara_socio,84,Belize,False,10924585.4
+2020,declara_socio,96,Brunei Darussalam,False,317276.25
+2020,declara_socio,100,Bulgaria,False,185759.369
+2020,declara_socio,104,Myanmar,False,110821.14
+2020,declara_socio,108,Burundi,False,11151.956
+2020,declara_socio,112,Belarus,False,7916600.0
+2020,declara_socio,116,Cambodia,False,7514.5
+2020,declara_socio,120,Cameroon,False,146543.89
+2020,declara_socio,124,Canada,False,424231023.331
+2020,declara_socio,132,Cabo Verde,False,7258.664
+2020,declara_socio,136,Cayman Isds,False,469389.912
+2020,declara_socio,144,Sri Lanka,False,793073.644
+2020,declara_socio,152,Chile,False,35706284.269
+2020,declara_socio,156,China,False,668609180.0
+2020,declara_socio,170,Colombia,False,61896096.53
+2020,declara_socio,174,Comoros,False,618.962
+2020,declara_socio,180,Dem. Rep. of the Congo,False,13261.334
+2020,declara_socio,191,Croatia,False,174369.0
+2020,declara_socio,192,Cuba,False,16113525.41
+2020,declara_socio,196,Cyprus,False,75468.316
+2020,declara_socio,203,Czechia,False,223288449.0
+2020,declara_socio,208,Denmark,False,2653252.297
+2020,declara_socio,212,Dominica,False,325985.23
+2020,declara_socio,214,Dominican Rep.,False,222557856.97
+2020,declara_socio,218,Ecuador,False,42337570.816
+2020,declara_socio,222,El Salvador,False,271309580.13
+2020,declara_socio,231,Ethiopia,False,315733.6
+2020,declara_socio,233,Estonia,False,5799443.45
+2020,declara_socio,242,Fiji,False,27854.97
+2020,declara_socio,246,Finland,False,57922070.401
+2020,declara_socio,251,France,False,272119567.013
+2020,declara_socio,258,French Polynesia,False,185289.044
+2020,declara_socio,266,Gabon,False,22613.375
+2020,declara_socio,268,Georgia,False,190828.676
+2020,declara_socio,270,Gambia,False,43503.118
+2020,declara_socio,275,State of Palestine,False,2461783.98
+2020,declara_socio,276,Germany,False,698348233.972
+2020,declara_socio,300,Greece,False,11257982.916
+2020,declara_socio,308,Grenada,False,1249593.804
+2020,declara_socio,320,Guatemala,False,688184265.0
+2020,declara_socio,328,Guyana,False,15009716.36
+2020,declara_socio,340,Honduras,False,311158494.01
+2020,declara_socio,344,"China, Hong Kong SAR",False,417209100.189
+2020,declara_socio,348,Hungary,False,11927430.0
+2020,declara_socio,352,Iceland,False,1689671.313
+2020,declara_socio,360,Indonesia,False,5469828.0
+2020,declara_socio,364,Iran,False,86927.0
+2020,declara_socio,372,Ireland,False,93537541.782
+2020,declara_socio,376,Israel,False,5166000.0
+2020,declara_socio,380,Italy,False,229517736.848
+2020,declara_socio,384,Côte d'Ivoire,False,1321539.17
+2020,declara_socio,388,Jamaica,False,52702854.62
+2020,declara_socio,392,Japan,False,420957718.177
+2020,declara_socio,398,Kazakhstan,False,342897.34
+2020,declara_socio,400,Jordan,False,2039283.527
+2020,declara_socio,404,Kenya,False,427097.904
+2020,declara_socio,410,Rep. of Korea,False,156005679.0
+2020,declara_socio,414,Kuwait,False,7589476.0
+2020,declara_socio,417,Kyrgyzstan,False,18488.0
+2020,declara_socio,418,Lao People's Dem. Rep.,False,48398.7
+2020,declara_socio,422,Lebanon,False,3488473.0
+2020,declara_socio,428,Latvia,False,125599.31
+2020,declara_socio,430,Liberia,False,45.64
+2020,declara_socio,440,Lithuania,False,2105399.0
+2020,declara_socio,442,Luxembourg,False,2764194.776
+2020,declara_socio,446,"China, Macao SAR",False,322841.176
+2020,declara_socio,450,Madagascar,False,34.397
+2020,declara_socio,454,Malawi,False,4115.989
+2020,declara_socio,458,Malaysia,False,54031557.196
+2020,declara_socio,462,Maldives,False,11384.379
+2020,declara_socio,466,Mali,False,18122.615
+2020,declara_socio,470,Malta,False,524684.866
+2020,declara_socio,478,Mauritania,False,4533.39
+2020,declara_socio,480,Mauritius,False,137182.479
+2020,declara_socio,484,Mexico,False,714679451.0
+2020,declara_socio,490,"Other Asia, nes",False,94072782.107
+2020,declara_socio,496,Mongolia,False,236928.7
+2020,declara_socio,498,Rep. of Moldova,False,1595405.0
+2020,declara_socio,499,Montenegro,False,556253.267
+2020,declara_socio,500,Montserrat,False,608.526
+2020,declara_socio,504,Morocco,False,8212123.19
+2020,declara_socio,508,Mozambique,False,41189.188
+2020,declara_socio,512,Oman,False,155110.519
+2020,declara_socio,516,Namibia,False,31048.159
+2020,declara_socio,524,Nepal,False,251582.12
+2020,declara_socio,528,Netherlands,False,1463663489.127
+2020,declara_socio,531,Curaçao,False,4060557.076
+2020,declara_socio,554,New Zealand,False,12547422.896
+2020,declara_socio,558,Nicaragua,False,428190114.47
+2020,declara_socio,562,Niger,False,4267.248
+2020,declara_socio,566,Nigeria,False,64966.828
+2020,declara_socio,579,Norway,False,55803502.095
+2020,declara_socio,586,Pakistan,False,3437160.246
+2020,declara_socio,591,Panama,False,373338783.0
+2020,declara_socio,598,Papua New Guinea,False,2625.646
+2020,declara_socio,600,Paraguay,False,1384240.0
+2020,declara_socio,604,Peru,False,53123919.34
+2020,declara_socio,608,Philippines,False,17755322.0
+2020,declara_socio,616,Poland,False,95475853.0
+2020,declara_socio,620,Portugal,False,85178103.944
+2020,declara_socio,634,Qatar,False,2918172.165
+2020,declara_socio,642,Romania,False,10116587.48
+2020,declara_socio,643,Russian Federation,False,101377043.76
+2020,declara_socio,646,Rwanda,False,1433.16
+2020,declara_socio,662,Saint Lucia,False,1525081.26
+2020,declara_socio,670,Saint Vincent and the Grenadines,False,1117608.48
+2020,declara_socio,682,Saudi Arabia,False,55980104.467
+2020,declara_socio,686,Senegal,False,398396.324
+2020,declara_socio,688,Serbia,False,16583782.0
+2020,declara_socio,690,Seychelles,False,8337.755
+2020,declara_socio,699,India,False,39124738.776
+2020,declara_socio,702,Singapore,False,152594621.895
+2020,declara_socio,703,Slovakia,False,17300402.18
+2020,declara_socio,704,Viet Nam,False,34305687.357
+2020,declara_socio,705,Slovenia,False,13859871.55
+2020,declara_socio,710,South Africa,False,19517122.055
+2020,declara_socio,724,Spain,False,291384500.711
+2020,declara_socio,740,Suriname,False,8513702.497
+2020,declara_socio,748,Eswatini,False,3472.46
+2020,declara_socio,752,Sweden,False,15942137.568
+2020,declara_socio,757,Switzerland,False,107908696.146
+2020,declara_socio,762,Tajikistan,False,53313.0
+2020,declara_socio,764,Thailand,False,43901751.661
+2020,declara_socio,780,Trinidad and Tobago,False,42723800.655
+2020,declara_socio,784,United Arab Emirates,False,26708515.836
+2020,declara_socio,788,Tunisia,False,8322169.17
+2020,declara_socio,792,Türkiye,False,65992566.0
+2020,declara_socio,800,Uganda,False,8030.0
+2020,declara_socio,804,Ukraine,False,49661886.82
+2020,declara_socio,807,North Macedonia,False,1693243.9
+2020,declara_socio,818,Egypt,False,5133275.339
+2020,declara_socio,826,United Kingdom,False,306793901.189
+2020,declara_socio,834,United Rep. of Tanzania,False,74231.1
+2020,declara_socio,842,USA,False,5622497402.0
+2020,declara_socio,854,Burkina Faso,False,720460.532
+2020,declara_socio,858,Uruguay,False,3342204.54
+2020,declara_socio,860,Uzbekistan,False,68354.0
+2020,declara_socio,894,Zambia,False,47771.311
+2021,declara_CR,12,Algeria,False,69643.28
+2021,declara_CR,8,Albania,False,2515802.19
+2021,declara_CR,20,Andorra,False,7646.21
+2021,declara_CR,28,Antigua and Barbuda,False,477983.84
+2021,declara_CR,32,Argentina,False,14673774.35
+2021,declara_CR,36,Australia,False,19180607.52
+2021,declara_CR,40,Austria,False,207710.35
+2021,declara_CR,44,Bahamas,False,12578319.75
+2021,declara_CR,48,Bahrain,False,1541865.0
+2021,declara_CR,50,Bangladesh,False,658883.21
+2021,declara_CR,52,Barbados,False,9842484.93
+2021,declara_CR,56,Belgium,False,748487403.41
+2021,declara_CR,60,Bermuda,False,251487.86
+2021,declara_CR,70,Bosnia Herzegovina,False,39.56
+2021,declara_CR,84,Belize,False,10767710.04
+2021,declara_CR,92,Br. Virgin Isds,False,49688.18
+2021,declara_CR,100,Bulgaria,False,182139.03
+2021,declara_CR,116,Cambodia,False,700.0
+2021,declara_CR,120,Cameroon,False,273984.5
+2021,declara_CR,136,Cayman Isds,False,855879.69
+2021,declara_CR,144,Sri Lanka,False,8254.59
+2021,declara_CR,152,Chile,False,47864673.18
+2021,declara_CR,174,Comoros,False,22449.71
+2021,declara_CR,191,Croatia,False,1048151.56
+2021,declara_CR,192,Cuba,False,28976246.63
+2021,declara_CR,196,Cyprus,False,28665.0
+2021,declara_CR,203,Czechia,False,168378.37
+2021,declara_CR,212,Dominica,False,814423.75
+2021,declara_CR,214,Dominican Rep.,False,313840262.58
+2021,declara_CR,218,Ecuador,False,48954111.54
+2021,declara_CR,222,El Salvador,False,366919379.27
+2021,declara_CR,231,Ethiopia,False,51426.3
+2021,declara_CR,233,Estonia,False,87804.75
+2021,declara_CR,242,Fiji,False,18446.0
+2021,declara_CR,246,Finland,False,23922077.31
+2021,declara_CR,251,France,False,70768478.45
+2021,declara_CR,258,French Polynesia,False,3712.3
+2021,declara_CR,262,Djibouti,False,62259.87
+2021,declara_CR,266,Gabon,False,188114.0
+2021,declara_CR,268,Georgia,False,40737.87
+2021,declara_CR,288,Ghana,False,41275.2
+2021,declara_CR,300,Greece,False,8995314.77
+2021,declara_CR,304,Greenland,False,235941.0
+2021,declara_CR,308,Grenada,False,2401378.52
+2021,declara_CR,316,Guam,False,2062.8
+2021,declara_CR,328,Guyana,False,14892944.19
+2021,declara_CR,332,Haiti,False,25037183.87
+2021,declara_CR,344,"China, Hong Kong SAR",False,41402172.03
+2021,declara_CR,348,Hungary,False,15268894.86
+2021,declara_CR,352,Iceland,False,600.0
+2021,declara_CR,364,Iran,False,14814.35
+2021,declara_CR,380,Italy,False,177376672.34
+2021,declara_CR,384,Côte d'Ivoire,False,199856.25
+2021,declara_CR,388,Jamaica,False,62554469.59
+2021,declara_CR,392,Japan,False,258321451.16
+2021,declara_CR,400,Jordan,False,180776.0
+2021,declara_CR,404,Kenya,False,312813.45
+2021,declara_CR,408,Dem. People's Rep. of Korea,False,28788.36
+2021,declara_CR,414,Kuwait,False,770233.1
+2021,declara_CR,422,Lebanon,False,1034081.57
+2021,declara_CR,428,Latvia,False,492763.17
+2021,declara_CR,434,Libya,False,9360974.44
+2021,declara_CR,440,Lithuania,False,1366109.23
+2021,declara_CR,442,Luxembourg,False,10054552.49
+2021,declara_CR,450,Madagascar,False,26568.0
+2021,declara_CR,458,Malaysia,False,19508530.23
+2021,declara_CR,466,Mali,False,268284.13
+2021,declara_CR,470,Malta,False,1057723.98
+2021,declara_CR,490,"Other Asia, nes",False,36451746.46
+2021,declara_CR,496,Mongolia,False,28164.0
+2021,declara_CR,499,Montenegro,False,2546081.76
+2021,declara_CR,504,Morocco,False,4217015.55
+2021,declara_CR,512,Oman,False,818499.87
+2021,declara_CR,520,Naoero,False,246760.0
+2021,declara_CR,528,Netherlands,False,1036715625.63
+2021,declara_CR,531,Curaçao,False,5597704.87
+2021,declara_CR,533,Aruba,False,21581672.18
+2021,declara_CR,534,Saint Maarten,False,336755.68
+2021,declara_CR,540,New Caledonia,False,13012.9
+2021,declara_CR,548,Vanuatu,False,2750.0
+2021,declara_CR,554,New Zealand,False,8209311.84
+2021,declara_CR,562,Niger,False,3081644.54
+2021,declara_CR,566,Nigeria,False,9062061.1
+2021,declara_CR,579,Norway,False,22371200.23
+2021,declara_CR,580,N. Mariana Isds,False,7200.0
+2021,declara_CR,586,Pakistan,False,1990459.79
+2021,declara_CR,598,Papua New Guinea,False,8800.0
+2021,declara_CR,600,Paraguay,False,1507050.42
+2021,declara_CR,604,Peru,False,90527152.17
+2021,declara_CR,616,Poland,False,16451868.73
+2021,declara_CR,620,Portugal,False,55017681.74
+2021,declara_CR,634,Qatar,False,1197615.7
+2021,declara_CR,642,Romania,False,10573014.59
+2021,declara_CR,643,Russian Federation,False,36742503.25
+2021,declara_CR,659,Saint Kitts and Nevis,False,185930.41
+2021,declara_CR,660,Anguilla,False,2240.0
+2021,declara_CR,662,Saint Lucia,False,1522490.0
+2021,declara_CR,670,Saint Vincent and the Grenadines,False,788612.22
+2021,declara_CR,682,Saudi Arabia,False,27485177.33
+2021,declara_CR,686,Senegal,False,365994.7
+2021,declara_CR,688,Serbia,False,584154.0
+2021,declara_CR,694,Sierra Leone,False,841196.19
+2021,declara_CR,699,India,False,34356509.34
+2021,declara_CR,702,Singapore,False,26929133.79
+2021,declara_CR,703,Slovakia,False,66756.1
+2021,declara_CR,704,Viet Nam,False,12716088.64
+2021,declara_CR,705,Slovenia,False,591987.48
+2021,declara_CR,710,South Africa,False,3787450.63
+2021,declara_CR,716,Zimbabwe,False,25.0
+2021,declara_CR,724,Spain,False,211241322.34
+2021,declara_CR,740,Suriname,False,4448021.85
+2021,declara_CR,752,Sweden,False,6388642.73
+2021,declara_CR,764,Thailand,False,35178267.97
+2021,declara_CR,768,Togo,False,1360.0
+2021,declara_CR,784,United Arab Emirates,False,4732341.29
+2021,declara_CR,788,Tunisia,False,5131461.6
+2021,declara_CR,792,Türkiye,False,45726997.42
+2021,declara_CR,796,Turks and Caicos Isds,False,71782.0
+2021,declara_CR,800,Uganda,False,33980.92
+2021,declara_CR,804,Ukraine,False,15463387.43
+2021,declara_CR,818,Egypt,False,1371931.71
+2021,declara_CR,834,United Rep. of Tanzania,False,36675.03
+2021,declara_CR,854,Burkina Faso,False,527115.97
+2021,declara_CR,860,Uzbekistan,False,20250.0
+2021,declara_CR,862,Venezuela,False,6405670.15
+2021,declara_CR,899,"Areas, nes",False,66906.48
+2021,declara_CR,68,Bolivia (Plurinational State of),False,892005.59
+2021,declara_CR,76,Brazil,False,43917082.89
+2021,declara_CR,124,Canada,False,98612500.29
+2021,declara_CR,156,China,False,308630801.72
+2021,declara_CR,170,Colombia,False,91750094.25
+2021,declara_CR,208,Denmark,False,4890842.88
+2021,declara_CR,276,Germany,False,143745859.29
+2021,declara_CR,320,Guatemala,False,701070047.47
+2021,declara_CR,340,Honduras,False,478310581.15
+2021,declara_CR,360,Indonesia,False,1923896.82
+2021,declara_CR,368,Iraq,False,579132.94
+2021,declara_CR,372,Ireland,False,87264554.16
+2021,declara_CR,376,Israel,False,11861191.14
+2021,declara_CR,410,Rep. of Korea,False,87638045.94
+2021,declara_CR,484,Mexico,False,355288322.14
+2021,declara_CR,558,Nicaragua,False,579914529.63
+2021,declara_CR,591,Panama,False,582801717.98
+2021,declara_CR,608,Philippines,False,5636364.23
+2021,declara_CR,757,Switzerland,False,6026502.1
+2021,declara_CR,780,Trinidad and Tobago,False,61092525.84
+2021,declara_CR,826,United Kingdom,False,230508969.53
+2021,declara_CR,842,USA,False,6269772002.04
+2021,declara_CR,858,Uruguay,False,3275746.47
+2021,declara_CR,0,World,True,14345395565.22
+2021,declara_socio,8,Albania,False,2924581.993
+2021,declara_socio,20,Andorra,False,79761.886
+2021,declara_socio,24,Angola,False,47014.55
+2021,declara_socio,28,Antigua and Barbuda,False,583765.536
+2021,declara_socio,31,Azerbaijan,False,1911679.13
+2021,declara_socio,32,Argentina,False,17555965.44
+2021,declara_socio,36,Australia,False,132099058.832
+2021,declara_socio,40,Austria,False,59968371.943
+2021,declara_socio,44,Bahamas,False,13633294.0
+2021,declara_socio,48,Bahrain,False,3820023.579
+2021,declara_socio,51,Armenia,False,2527159.72
+2021,declara_socio,52,Barbados,False,12051505.0
+2021,declara_socio,56,Belgium,False,509176198.627
+2021,declara_socio,60,Bermuda,False,593983.77
+2021,declara_socio,68,Bolivia (Plurinational State of),False,2168026.64
+2021,declara_socio,70,Bosnia Herzegovina,False,3963732.88
+2021,declara_socio,72,Botswana,False,6090.46
+2021,declara_socio,76,Brazil,False,77388766.0
+2021,declara_socio,84,Belize,False,12715033.455
+2021,declara_socio,96,Brunei Darussalam,False,248545.69
+2021,declara_socio,100,Bulgaria,False,118042.054
+2021,declara_socio,104,Myanmar,False,83456.99
+2021,declara_socio,112,Belarus,False,8366300.0
+2021,declara_socio,116,Cambodia,False,13287.27
+2021,declara_socio,120,Cameroon,False,374136.09
+2021,declara_socio,124,Canada,False,474660140.65
+2021,declara_socio,132,Cabo Verde,False,21593.123
+2021,declara_socio,136,Cayman Isds,False,2823175.145
+2021,declara_socio,140,Central African Rep.,False,78690.07
+2021,declara_socio,144,Sri Lanka,False,997825.854
+2021,declara_socio,152,Chile,False,50138975.014
+2021,declara_socio,156,China,False,815466281.0
+2021,declara_socio,170,Colombia,False,101803008.64
+2021,declara_socio,180,Dem. Rep. of the Congo,False,13162.981
+2021,declara_socio,188,Costa Rica,False,266073595.15
+2021,declara_socio,191,Croatia,False,372195.0
+2021,declara_socio,192,Cuba,False,14628989.0
+2021,declara_socio,196,Cyprus,False,73914.173
+2021,declara_socio,203,Czechia,False,90524490.0
+2021,declara_socio,208,Denmark,False,5697933.811
+2021,declara_socio,212,Dominica,False,359087.789
+2021,declara_socio,214,Dominican Rep.,False,277754796.427
+2021,declara_socio,218,Ecuador,False,61544099.911
+2021,declara_socio,222,El Salvador,False,331529109.65
+2021,declara_socio,231,Ethiopia,False,128806.33
+2021,declara_socio,233,Estonia,False,6868015.0
+2021,declara_socio,242,Fiji,False,17870.378
+2021,declara_socio,246,Finland,False,54173740.408
+2021,declara_socio,251,France,False,334810833.714
+2021,declara_socio,258,French Polynesia,False,196365.59
+2021,declara_socio,266,Gabon,False,328323.777
+2021,declara_socio,268,Georgia,False,155281.996
+2021,declara_socio,275,State of Palestine,False,3775325.46
+2021,declara_socio,276,Germany,False,803761087.511
+2021,declara_socio,288,Ghana,False,259888.57
+2021,declara_socio,300,Greece,False,11131981.366
+2021,declara_socio,308,Grenada,False,1630278.887
+2021,declara_socio,320,Guatemala,False,771893350.0
+2021,declara_socio,328,Guyana,False,16810891.265
+2021,declara_socio,340,Honduras,False,417311405.3
+2021,declara_socio,344,"China, Hong Kong SAR",False,1183554174.085
+2021,declara_socio,348,Hungary,False,15759781.0
+2021,declara_socio,352,Iceland,False,1921565.962
+2021,declara_socio,360,Indonesia,False,7466802.0
+2021,declara_socio,364,Iran,False,86597.0
+2021,declara_socio,368,Iraq,False,314333.0
+2021,declara_socio,372,Ireland,False,110200828.969
+2021,declara_socio,376,Israel,False,6059000.0
+2021,declara_socio,380,Italy,False,256503905.835
+2021,declara_socio,384,Côte d'Ivoire,False,1071395.589
+2021,declara_socio,388,Jamaica,False,58442086.9
+2021,declara_socio,392,Japan,False,439245289.932
+2021,declara_socio,398,Kazakhstan,False,2025591.23
+2021,declara_socio,400,Jordan,False,1760624.769
+2021,declara_socio,404,Kenya,False,567002.978
+2021,declara_socio,410,Rep. of Korea,False,420948332.0
+2021,declara_socio,414,Kuwait,False,9840695.0
+2021,declara_socio,417,Kyrgyzstan,False,16135.0
+2021,declara_socio,422,Lebanon,False,3099734.0
+2021,declara_socio,428,Latvia,False,314858.481
+2021,declara_socio,430,Liberia,False,180.35
+2021,declara_socio,440,Lithuania,False,863278.0
+2021,declara_socio,442,Luxembourg,False,4600560.573
+2021,declara_socio,446,"China, Macao SAR",False,294293.116
+2021,declara_socio,454,Malawi,False,149.629
+2021,declara_socio,458,Malaysia,False,185391950.864
+2021,declara_socio,462,Maldives,False,50860.433
+2021,declara_socio,466,Mali,False,3098.475
+2021,declara_socio,470,Malta,False,994108.606
+2021,declara_socio,480,Mauritius,False,124181.028
+2021,declara_socio,484,Mexico,False,812684192.0
+2021,declara_socio,490,"Other Asia, nes",False,117686241.632
+2021,declara_socio,496,Mongolia,False,593166.43
+2021,declara_socio,498,Rep. of Moldova,False,3077251.0
+2021,declara_socio,499,Montenegro,False,741026.335
+2021,declara_socio,504,Morocco,False,10850834.18
+2021,declara_socio,508,Mozambique,False,103753.16
+2021,declara_socio,512,Oman,False,313079.323
+2021,declara_socio,516,Namibia,False,34967.513
+2021,declara_socio,524,Nepal,False,375192.6
+2021,declara_socio,528,Netherlands,False,2843579581.755
+2021,declara_socio,554,New Zealand,False,20201081.401
+2021,declara_socio,558,Nicaragua,False,521455825.85
+2021,declara_socio,562,Niger,False,428.047
+2021,declara_socio,566,Nigeria,False,97657.701
+2021,declara_socio,579,Norway,False,62199160.217
+2021,declara_socio,586,Pakistan,False,2697958.003
+2021,declara_socio,591,Panama,False,536725286.0
+2021,declara_socio,598,Papua New Guinea,False,6585.742
+2021,declara_socio,600,Paraguay,False,2602436.0
+2021,declara_socio,604,Peru,False,101192798.31
+2021,declara_socio,608,Philippines,False,13998550.0
+2021,declara_socio,616,Poland,False,121088161.0
+2021,declara_socio,620,Portugal,False,78011670.291
+2021,declara_socio,634,Qatar,False,5464398.159
+2021,declara_socio,642,Romania,False,13750108.29
+2021,declara_socio,643,Russian Federation,False,113226138.79
+2021,declara_socio,646,Rwanda,False,40514.08
+2021,declara_socio,670,Saint Vincent and the Grenadines,False,818266.851
+2021,declara_socio,682,Saudi Arabia,False,81604602.76
+2021,declara_socio,686,Senegal,False,449466.787
+2021,declara_socio,688,Serbia,False,17155253.0
+2021,declara_socio,690,Seychelles,False,79198.745
+2021,declara_socio,699,India,False,62695414.133
+2021,declara_socio,702,Singapore,False,133814796.435
+2021,declara_socio,703,Slovakia,False,20163356.805
+2021,declara_socio,704,Viet Nam,False,50510329.233
+2021,declara_socio,705,Slovenia,False,10855830.991
+2021,declara_socio,710,South Africa,False,25815397.871
+2021,declara_socio,716,Zimbabwe,False,22.79
+2021,declara_socio,724,Spain,False,347128558.639
+2021,declara_socio,740,Suriname,False,4280774.68
+2021,declara_socio,748,Eswatini,False,3262.01
+2021,declara_socio,752,Sweden,False,9419619.855
+2021,declara_socio,757,Switzerland,False,133125028.415
+2021,declara_socio,762,Tajikistan,False,231061.0
+2021,declara_socio,764,Thailand,False,63966701.215
+2021,declara_socio,768,Togo,False,833.35
+2021,declara_socio,776,Tonga,False,892.194
+2021,declara_socio,780,Trinidad and Tobago,False,48830943.381
+2021,declara_socio,784,United Arab Emirates,False,36077712.675
+2021,declara_socio,788,Tunisia,False,7370556.931
+2021,declara_socio,792,Türkiye,False,47822464.0
+2021,declara_socio,800,Uganda,False,68548.24
+2021,declara_socio,804,Ukraine,False,44188344.52
+2021,declara_socio,807,North Macedonia,False,1276972.55
+2021,declara_socio,818,Egypt,False,7940808.725
+2021,declara_socio,826,United Kingdom,False,302101160.853
+2021,declara_socio,834,United Rep. of Tanzania,False,83431.0
+2021,declara_socio,842,USA,False,6843199197.0
+2021,declara_socio,854,Burkina Faso,False,569331.874
+2021,declara_socio,858,Uruguay,False,3891895.36
+2021,declara_socio,860,Uzbekistan,False,131096.99
+2021,declara_socio,894,Zambia,False,20441.441
+2022,declara_CR,288,Ghana,False,44884.3
+2022,declara_CR,300,Greece,False,15804515.78
+2022,declara_CR,784,United Arab Emirates,False,3211836.75
+2022,declara_CR,804,Ukraine,False,2360343.11
+2022,declara_CR,466,Mali,False,206477.11
+2022,declara_CR,470,Malta,False,3104907.55
+2022,declara_CR,478,Mauritania,False,2240.0
+2022,declara_CR,40,Austria,False,396589.18
+2022,declara_CR,258,French Polynesia,False,122150.0
+2022,declara_CR,266,Gabon,False,15.8
+2022,declara_CR,268,Georgia,False,937926.49
+2022,declara_CR,270,Gambia,False,145.0
+2022,declara_CR,152,Chile,False,39734494.81
+2022,declara_CR,442,Luxembourg,False,22812.2
+2022,declara_CR,92,Br. Virgin Isds,False,106679.79
+2022,declara_CR,100,Bulgaria,False,151922.45
+2022,declara_CR,48,Bahrain,False,6900.0
+2022,declara_CR,50,Bangladesh,False,1375368.31
+2022,declara_CR,818,Egypt,False,1237685.71
+2022,declara_CR,634,Qatar,False,131839.53
+2022,declara_CR,579,Norway,False,21881987.46
+2022,declara_CR,580,N. Mariana Isds,False,14550.0
+2022,declara_CR,586,Pakistan,False,3598552.61
+2022,declara_CR,654,Saint Helena,False,9741.45
+2022,declara_CR,659,Saint Kitts and Nevis,False,289203.41
+2022,declara_CR,660,Anguilla,False,7814.0
+2022,declara_CR,662,Saint Lucia,False,2625216.26
+2022,declara_CR,670,Saint Vincent and the Grenadines,False,537133.77
+2022,declara_CR,682,Saudi Arabia,False,35322267.73
+2022,declara_CR,686,Senegal,False,655871.42
+2022,declara_CR,688,Serbia,False,709431.06
+2022,declara_CR,348,Hungary,False,41106889.12
+2022,declara_CR,729,Sudan,False,18425.6
+2022,declara_CR,740,Suriname,False,4600562.89
+2022,declara_CR,368,Iraq,False,6797167.02
+2022,declara_CR,764,Thailand,False,27696116.953
+2022,declara_CR,788,Tunisia,False,3458405.58
+2022,declara_CR,598,Papua New Guinea,False,90850.95
+2022,declara_CR,600,Paraguay,False,597508.96
+2022,declara_CR,608,Philippines,False,5462609.49
+2022,declara_CR,882,Samoa,False,26000.0
+2022,declara_CR,894,Zambia,False,9369.0
+2022,declara_CR,834,United Rep. of Tanzania,False,2342.47
+2022,declara_CR,212,Dominica,False,588498.86
+2022,declara_CR,51,Armenia,False,1755.0
+2022,declara_CR,52,Barbados,False,12303040.35
+2022,declara_CR,702,Singapore,False,46471639.74
+2022,declara_CR,706,Somalia,False,3764.0
+2022,declara_CR,710,South Africa,False,4421225.96
+2022,declara_CR,643,Russian Federation,False,24397168.0
+2022,declara_CR,757,Switzerland,False,6530882.05
+2022,declara_CR,533,Aruba,False,16390585.3
+2022,declara_CR,174,Comoros,False,26716.0
+2022,declara_CR,184,Cook Isds,False,5880.88
+2022,declara_CR,780,Trinidad and Tobago,False,58941408.68
+2022,declara_CR,384,Côte d'Ivoire,False,552462.69
+2022,declara_CR,12,Algeria,False,21922.32
+2022,declara_CR,8,Albania,False,1300777.23
+2022,declara_CR,24,Angola,False,450.0
+2022,declara_CR,28,Antigua and Barbuda,False,826198.96
+2022,declara_CR,191,Croatia,False,824115.56
+2022,declara_CR,192,Cuba,False,26530893.11
+2022,declara_CR,242,Fiji,False,35640.6
+2022,declara_CR,246,Finland,False,21784316.08
+2022,declara_CR,512,Oman,False,1264.0
+2022,declara_CR,520,Naoero,False,3000.0
+2022,declara_CR,414,Kuwait,False,345583.03
+2022,declara_CR,418,Lao People's Dem. Rep.,False,10884.0
+2022,declara_CR,422,Lebanon,False,1819869.94
+2022,declara_CR,854,Burkina Faso,False,15214.8
+2022,declara_CR,703,Slovakia,False,263822.6
+2022,declara_CR,704,Viet Nam,False,15299965.94
+2022,declara_CR,534,Saint Maarten,False,341609.28
+2022,declara_CR,540,New Caledonia,False,162936.44
+2022,declara_CR,554,New Zealand,False,1979602.31
+2022,declara_CR,795,Turkmenistan,False,2459.13
+2022,declara_CR,796,Turks and Caicos Isds,False,50916.14
+2022,declara_CR,800,Uganda,False,270615.99
+2022,declara_CR,84,Belize,False,18093167.69
+2022,declara_CR,32,Argentina,False,13145891.679
+2022,declara_CR,196,Cyprus,False,143298.58
+2022,declara_CR,203,Czechia,False,132240.73
+2022,declara_CR,531,Curaçao,False,5906303.85
+2022,declara_CR,404,Kenya,False,1266898.43
+2022,declara_CR,408,Dem. People's Rep. of Korea,False,6446.44
+2022,declara_CR,410,Rep. of Korea,False,79817801.97
+2022,declara_CR,428,Latvia,False,616737.41
+2022,declara_CR,430,Liberia,False,1611.42
+2022,declara_CR,434,Libya,False,8471650.14
+2022,declara_CR,440,Lithuania,False,1556638.97
+2022,declara_CR,858,Uruguay,False,4169094.68
+2022,declara_CR,44,Bahamas,False,15092837.023
+2022,declara_CR,616,Poland,False,7606560.2
+2022,declara_CR,642,Romania,False,13549724.84
+2022,declara_CR,694,Sierra Leone,False,1452808.79
+2022,declara_CR,60,Bermuda,False,423698.49
+2022,declara_CR,68,Bolivia (Plurinational State of),False,904807.79
+2022,declara_CR,36,Australia,False,20855304.03
+2022,declara_CR,324,Guinea,False,8868.05
+2022,declara_CR,328,Guyana,False,17341210.3
+2022,declara_CR,332,Haiti,False,18834447.14
+2022,declara_CR,496,Mongolia,False,47920.0
+2022,declara_CR,498,Rep. of Moldova,False,146.93
+2022,declara_CR,499,Montenegro,False,8725852.4
+2022,declara_CR,504,Morocco,False,5934092.53
+2022,declara_CR,132,Cabo Verde,False,1900.0
+2022,declara_CR,136,Cayman Isds,False,1440943.48
+2022,declara_CR,144,Sri Lanka,False,245.74
+2022,declara_CR,388,Jamaica,False,80432514.45
+2022,declara_CR,398,Kazakhstan,False,5250.0
+2022,declara_CR,400,Jordan,False,1346982.18
+2022,declara_CR,120,Cameroon,False,1215893.64
+2022,declara_CR,116,Cambodia,False,3310.0
+2022,declara_CR,562,Niger,False,3181220.0
+2022,declara_CR,566,Nigeria,False,6273863.15
+2022,declara_CR,705,Slovenia,False,97174.88
+2022,declara_CR,231,Ethiopia,False,60703.5
+2022,declara_CR,233,Estonia,False,101288.31
+2022,declara_CR,308,Grenada,False,2144688.78
+2022,declara_CR,316,Guam,False,43311.0
+2022,declara_CR,360,Indonesia,False,1430775.87
+2022,declara_CR,364,Iran,False,10345.34
+2022,declara_CR,490,"Other Asia, nes",False,39995043.35
+2022,declara_CR,276,Germany,False,129876623.58
+2022,declara_CR,826,United Kingdom,False,225044417.197
+2022,declara_CR,76,Brazil,False,59147579.67
+2022,declara_CR,620,Portugal,False,49563062.3
+2022,declara_CR,699,India,False,30388617.81
+2022,declara_CR,752,Sweden,False,9295351.44
+2022,declara_CR,344,"China, Hong Kong SAR",False,31238774.15
+2022,declara_CR,724,Spain,False,208419861.51
+2022,declara_CR,170,Colombia,False,93010727.978
+2022,declara_CR,484,Mexico,False,348300784.816
+2022,declara_CR,604,Peru,False,94471783.75
+2022,declara_CR,528,Netherlands,False,1183244234.28
+2022,declara_CR,458,Malaysia,False,19706894.49
+2022,declara_CR,862,Venezuela,False,7239894.99
+2022,declara_CR,0,World,True,15319695069.468
+2022,declara_CR,218,Ecuador,False,67735267.65
+2022,declara_CR,372,Ireland,False,89552787.8
+2022,declara_CR,208,Denmark,False,1649740.68
+2022,declara_CR,251,France,False,75425503.77
+2022,declara_CR,558,Nicaragua,False,593427034.08
+2022,declara_CR,380,Italy,False,160735269.4
+2022,declara_CR,340,Honduras,False,517325872.789
+2022,declara_CR,392,Japan,False,255573440.958
+2022,declara_CR,899,"Areas, nes",False,104304655.14
+2022,declara_CR,842,USA,False,6704065665.414
+2022,declara_CR,214,Dominican Rep.,False,341997172.57
+2022,declara_CR,222,El Salvador,False,385793419.284
+2022,declara_CR,376,Israel,False,12997762.29
+2022,declara_CR,792,Türkiye,False,42652157.95
+2022,declara_CR,156,China,False,344411382.41
+2022,declara_CR,591,Panama,False,588407694.726
+2022,declara_CR,124,Canada,False,88219655.87
+2022,declara_CR,56,Belgium,False,792443932.86
+2022,declara_CR,320,Guatemala,False,815131695.65
+2022,declara_socio,8,Albania,False,1273772.023
+2022,declara_socio,20,Andorra,False,58632.263
+2022,declara_socio,24,Angola,False,52776.32
+2022,declara_socio,28,Antigua and Barbuda,False,767532.455
+2022,declara_socio,31,Azerbaijan,False,2098090.78
+2022,declara_socio,32,Argentina,False,22363385.93
+2022,declara_socio,36,Australia,False,126100070.39
+2022,declara_socio,40,Austria,False,57634483.547
+2022,declara_socio,44,Bahamas,False,12692715.0
+2022,declara_socio,48,Bahrain,False,5688970.94
+2022,declara_socio,51,Armenia,False,3564894.16
+2022,declara_socio,52,Barbados,False,14198808.5
+2022,declara_socio,56,Belgium,False,554285669.976
+2022,declara_socio,60,Bermuda,False,875785.26
+2022,declara_socio,68,Bolivia (Plurinational State of),False,1752665.0
+2022,declara_socio,70,Bosnia Herzegovina,False,5067321.43
+2022,declara_socio,72,Botswana,False,267.148
+2022,declara_socio,76,Brazil,False,134857306.0
+2022,declara_socio,84,Belize,False,16193000.61
+2022,declara_socio,96,Brunei Darussalam,False,386920.138
+2022,declara_socio,100,Bulgaria,False,537094.036
+2022,declara_socio,104,Myanmar,False,58334.14
+2022,declara_socio,116,Cambodia,False,18619.36
+2022,declara_socio,120,Cameroon,False,1286390.054
+2022,declara_socio,124,Canada,False,492131509.797
+2022,declara_socio,132,Cabo Verde,False,24069.591
+2022,declara_socio,136,Cayman Isds,False,3225928.369
+2022,declara_socio,144,Sri Lanka,False,370004.229
+2022,declara_socio,152,Chile,False,53762770.801
+2022,declara_socio,156,China,False,2008902794.0
+2022,declara_socio,170,Colombia,False,98543254.89
+2022,declara_socio,180,Dem. Rep. of the Congo,False,32075.199
+2022,declara_socio,188,Costa Rica,False,255938070.01
+2022,declara_socio,191,Croatia,False,1033401.0
+2022,declara_socio,192,Cuba,False,8486416.19
+2022,declara_socio,196,Cyprus,False,403640.911
+2022,declara_socio,203,Czechia,False,85353869.0
+2022,declara_socio,208,Denmark,False,6758007.16
+2022,declara_socio,212,Dominica,False,391342.201
+2022,declara_socio,214,Dominican Rep.,False,327353228.033
+2022,declara_socio,218,Ecuador,False,77901450.9
+2022,declara_socio,222,El Salvador,False,368146366.46
+2022,declara_socio,231,Ethiopia,False,138257.884
+2022,declara_socio,233,Estonia,False,7239480.95
+2022,declara_socio,242,Fiji,False,26808.764
+2022,declara_socio,246,Finland,False,52858409.918
+2022,declara_socio,251,France,False,341412776.942
+2022,declara_socio,258,French Polynesia,False,336563.299
+2022,declara_socio,266,Gabon,False,33821.079
+2022,declara_socio,268,Georgia,False,1050811.051
+2022,declara_socio,275,State of Palestine,False,3555377.146
+2022,declara_socio,276,Germany,False,774985639.623
+2022,declara_socio,288,Ghana,False,128113.278
+2022,declara_socio,300,Greece,False,19266800.981
+2022,declara_socio,308,Grenada,False,2605462.96
+2022,declara_socio,320,Guatemala,False,812426422.0
+2022,declara_socio,328,Guyana,False,18209802.749
+2022,declara_socio,344,"China, Hong Kong SAR",False,1155748014.77
+2022,declara_socio,348,Hungary,False,45653903.0
+2022,declara_socio,352,Iceland,False,2885612.517
+2022,declara_socio,360,Indonesia,False,8319684.0
+2022,declara_socio,364,Iran,False,156859.0
+2022,declara_socio,368,Iraq,False,68223.0
+2022,declara_socio,372,Ireland,False,127141843.984
+2022,declara_socio,376,Israel,False,7174000.0
+2022,declara_socio,380,Italy,False,243088604.776
+2022,declara_socio,384,Côte d'Ivoire,False,738803.679
+2022,declara_socio,388,Jamaica,False,80130296.12
+2022,declara_socio,392,Japan,False,456401661.789
+2022,declara_socio,398,Kazakhstan,False,1905170.07
+2022,declara_socio,400,Jordan,False,3074924.413
+2022,declara_socio,404,Kenya,False,2118894.97
+2022,declara_socio,410,Rep. of Korea,False,172429499.0
+2022,declara_socio,414,Kuwait,False,9898249.793
+2022,declara_socio,417,Kyrgyzstan,False,69528.0
+2022,declara_socio,418,Lao People's Dem. Rep.,False,1055722.67
+2022,declara_socio,422,Lebanon,False,7663005.0
+2022,declara_socio,428,Latvia,False,614469.671
+2022,declara_socio,440,Lithuania,False,1081687.0
+2022,declara_socio,442,Luxembourg,False,4863430.721
+2022,declara_socio,446,"China, Macao SAR",False,312427.101
+2022,declara_socio,458,Malaysia,False,237625547.056
+2022,declara_socio,462,Maldives,False,173157.443
+2022,declara_socio,466,Mali,False,3579.898
+2022,declara_socio,470,Malta,False,4011199.128
+2022,declara_socio,480,Mauritius,False,181554.154
+2022,declara_socio,484,Mexico,False,1365297409.0
+2022,declara_socio,490,"Other Asia, nes",False,218286516.1
+2022,declara_socio,496,Mongolia,False,859452.182
+2022,declara_socio,498,Rep. of Moldova,False,2835897.0
+2022,declara_socio,499,Montenegro,False,2080700.37
+2022,declara_socio,504,Morocco,False,17364798.77
+2022,declara_socio,508,Mozambique,False,5716.332
+2022,declara_socio,512,Oman,False,66332.9
+2022,declara_socio,516,Namibia,False,23572.256
+2022,declara_socio,524,Nepal,False,473905.832
+2022,declara_socio,528,Netherlands,False,1588294804.482
+2022,declara_socio,554,New Zealand,False,15371967.958
+2022,declara_socio,558,Nicaragua,False,566272493.68
+2022,declara_socio,562,Niger,False,3780.874
+2022,declara_socio,566,Nigeria,False,32907.897
+2022,declara_socio,579,Norway,False,69150389.922
+2022,declara_socio,586,Pakistan,False,3997957.057
+2022,declara_socio,591,Panama,False,497096929.0
+2022,declara_socio,598,Papua New Guinea,False,2089.266
+2022,declara_socio,600,Paraguay,False,822050.6
+2022,declara_socio,604,Peru,False,103044133.248
+2022,declara_socio,608,Philippines,False,20482059.0
+2022,declara_socio,616,Poland,False,146163836.0
+2022,declara_socio,620,Portugal,False,83375238.77
+2022,declara_socio,634,Qatar,False,4384687.497
+2022,declara_socio,642,Romania,False,19430829.61
+2022,declara_socio,646,Rwanda,False,61190.43
+2022,declara_socio,670,Saint Vincent and the Grenadines,False,855864.385
+2022,declara_socio,678,Sao Tome and Principe,False,44.912
+2022,declara_socio,682,Saudi Arabia,False,95112869.356
+2022,declara_socio,686,Senegal,False,1938374.088
+2022,declara_socio,688,Serbia,False,20882677.0
+2022,declara_socio,690,Seychelles,False,75267.678
+2022,declara_socio,699,India,False,64072984.445
+2022,declara_socio,702,Singapore,False,236974038.261
+2022,declara_socio,703,Slovakia,False,20784643.162
+2022,declara_socio,704,Viet Nam,False,59388058.243
+2022,declara_socio,705,Slovenia,False,12415219.437
+2022,declara_socio,710,South Africa,False,29667198.195
+2022,declara_socio,724,Spain,False,386269506.958
+2022,declara_socio,740,Suriname,False,3761199.31
+2022,declara_socio,748,Eswatini,False,3577.02
+2022,declara_socio,752,Sweden,False,12389349.701
+2022,declara_socio,757,Switzerland,False,149008953.405
+2022,declara_socio,762,Tajikistan,False,367840.0
+2022,declara_socio,764,Thailand,False,79051210.036
+2022,declara_socio,776,Tonga,False,5858.126
+2022,declara_socio,780,Trinidad and Tobago,False,56096043.251
+2022,declara_socio,784,United Arab Emirates,False,44247021.683
+2022,declara_socio,788,Tunisia,False,5530750.95
+2022,declara_socio,792,Türkiye,False,54659178.0
+2022,declara_socio,800,Uganda,False,772807.26
+2022,declara_socio,804,Ukraine,False,33906715.76
+2022,declara_socio,807,North Macedonia,False,1361535.16
+2022,declara_socio,818,Egypt,False,13793251.175
+2022,declara_socio,826,United Kingdom,False,487492840.547
+2022,declara_socio,834,United Rep. of Tanzania,False,215440.06
+2022,declara_socio,842,USA,False,9109416727.0
+2022,declara_socio,854,Burkina Faso,False,108086.755
+2022,declara_socio,858,Uruguay,False,5571753.18
+2022,declara_socio,860,Uzbekistan,False,584925.99
+2022,declara_socio,882,Samoa,False,38884.595
+2022,declara_socio,894,Zambia,False,37667.642
+2023,declara_CR,328,Guyana,False,19756137.85
+2023,declara_CR,376,Israel,False,12500187.31
+2023,declara_CR,462,Maldives,False,18.0
+2023,declara_CR,466,Mali,False,5000.0
+2023,declara_CR,470,Malta,False,3860533.63
+2023,declara_CR,480,Mauritius,False,58994.04
+2023,declara_CR,531,Curaçao,False,6334151.39
+2023,declara_CR,533,Aruba,False,22093421.58
+2023,declara_CR,598,Papua New Guinea,False,53300.0
+2023,declara_CR,600,Paraguay,False,2203014.83
+2023,declara_CR,616,Poland,False,10283458.69
+2023,declara_CR,620,Portugal,False,47422791.42
+2023,declara_CR,634,Qatar,False,260802.48
+2023,declara_CR,642,Romania,False,2169417.12
+2023,declara_CR,643,Russian Federation,False,23862140.29
+2023,declara_CR,659,Saint Kitts and Nevis,False,32594.3
+2023,declara_CR,660,Anguilla,False,6693.9
+2023,declara_CR,662,Saint Lucia,False,1817509.26
+2023,declara_CR,670,Saint Vincent and the Grenadines,False,1528947.91
+2023,declara_CR,705,Slovenia,False,5074733.72
+2023,declara_CR,710,South Africa,False,4993689.98
+2023,declara_CR,716,Zimbabwe,False,33909.04
+2023,declara_CR,760,Syria,False,1100.0
+2023,declara_CR,764,Thailand,False,15786667.72
+2023,declara_CR,780,Trinidad and Tobago,False,60821204.49
+2023,declara_CR,800,Uganda,False,3050.0
+2023,declara_CR,804,Ukraine,False,172486.37
+2023,declara_CR,818,Egypt,False,964112.08
+2023,declara_CR,834,United Rep. of Tanzania,False,16806.86
+2023,declara_CR,894,Zambia,False,2100.0
+2023,declara_CR,899,"Areas, nes",False,85652.81
+2023,declara_CR,4,Afghanistan,False,1200.0
+2023,declara_CR,8,Albania,False,2273746.55
+2023,declara_CR,12,Algeria,False,211970.0
+2023,declara_CR,24,Angola,False,1920.0
+2023,declara_CR,28,Antigua and Barbuda,False,852517.89
+2023,declara_CR,40,Austria,False,418666.27
+2023,declara_CR,44,Bahamas,False,14464477.82
+2023,declara_CR,48,Bahrain,False,14636.06
+2023,declara_CR,50,Bangladesh,False,1198296.74
+2023,declara_CR,51,Armenia,False,214220.85
+2023,declara_CR,52,Barbados,False,14503589.1
+2023,declara_CR,56,Belgium,False,839061127.6
+2023,declara_CR,90,Solomon Isds,False,7477.0
+2023,declara_CR,92,Br. Virgin Isds,False,424251.11
+2023,declara_CR,100,Bulgaria,False,88044.64
+2023,declara_CR,104,Myanmar,False,7924.64
+2023,declara_CR,116,Cambodia,False,20380.0
+2023,declara_CR,170,Colombia,False,76111056.654
+2023,declara_CR,196,Cyprus,False,143373.87
+2023,declara_CR,203,Czechia,False,69748.64
+2023,declara_CR,208,Denmark,False,985803.53
+2023,declara_CR,212,Dominica,False,465868.16
+2023,declara_CR,258,French Polynesia,False,47554.0
+2023,declara_CR,262,Djibouti,False,7200.0
+2023,declara_CR,268,Georgia,False,128958.2
+2023,declara_CR,288,Ghana,False,42.6
+2023,declara_CR,300,Greece,False,15783824.02
+2023,declara_CR,308,Grenada,False,1593651.79
+2023,declara_CR,316,Guam,False,8000.0
+2023,declara_CR,332,Haiti,False,19065225.71
+2023,declara_CR,352,Iceland,False,235.0
+2023,declara_CR,360,Indonesia,False,2583782.48
+2023,declara_CR,364,Iran,False,71485.22
+2023,declara_CR,368,Iraq,False,20673088.3
+2023,declara_CR,398,Kazakhstan,False,1525.01
+2023,declara_CR,400,Jordan,False,2790676.27
+2023,declara_CR,404,Kenya,False,1163160.82
+2023,declara_CR,408,Dem. People's Rep. of Korea,False,810.69
+2023,declara_CR,410,Rep. of Korea,False,62575870.167
+2023,declara_CR,414,Kuwait,False,41752.311
+2023,declara_CR,417,Kyrgyzstan,False,3.0
+2023,declara_CR,422,Lebanon,False,1807543.53
+2023,declara_CR,428,Latvia,False,1349115.96
+2023,declara_CR,430,Liberia,False,65494.92
+2023,declara_CR,434,Libya,False,8651221.98
+2023,declara_CR,440,Lithuania,False,1461138.46
+2023,declara_CR,442,Luxembourg,False,1704.0
+2023,declara_CR,450,Madagascar,False,9430.8
+2023,declara_CR,454,Malawi,False,6365.0
+2023,declara_CR,496,Mongolia,False,133391.0
+2023,declara_CR,499,Montenegro,False,6724017.24
+2023,declara_CR,504,Morocco,False,7677001.56
+2023,declara_CR,508,Mozambique,False,4911.2
+2023,declara_CR,512,Oman,False,302946.11
+2023,declara_CR,524,Nepal,False,8634.0
+2023,declara_CR,528,Netherlands,False,1514509150.07
+2023,declara_CR,562,Niger,False,3290476.76
+2023,declara_CR,566,Nigeria,False,790159.14
+2023,declara_CR,579,Norway,False,28714485.22
+2023,declara_CR,580,N. Mariana Isds,False,2750.0
+2023,declara_CR,586,Pakistan,False,806505.92
+2023,declara_CR,678,Sao Tome and Principe,False,6542.52
+2023,declara_CR,682,Saudi Arabia,False,37665292.15
+2023,declara_CR,686,Senegal,False,737789.86
+2023,declara_CR,688,Serbia,False,728191.4
+2023,declara_CR,694,Sierra Leone,False,2690677.69
+2023,declara_CR,702,Singapore,False,87469648.09
+2023,declara_CR,703,Slovakia,False,809803.59
+2023,declara_CR,704,Viet Nam,False,8502203.11
+2023,declara_CR,784,United Arab Emirates,False,5685206.031
+2023,declara_CR,788,Tunisia,False,2060927.51
+2023,declara_CR,792,Türkiye,False,43546771.95
+2023,declara_CR,858,Uruguay,False,6686761.05
+2023,declara_CR,860,Uzbekistan,False,3000.0
+2023,declara_CR,60,Bermuda,False,424257.01
+2023,declara_CR,68,Bolivia (Plurinational State of),False,420884.93
+2023,declara_CR,72,Botswana,False,85990.24
+2023,declara_CR,132,Cabo Verde,False,5998.0
+2023,declara_CR,136,Cayman Isds,False,911676.99
+2023,declara_CR,140,Central African Rep.,False,4200.0
+2023,declara_CR,144,Sri Lanka,False,68784.0
+2023,declara_CR,152,Chile,False,37338500.57
+2023,declara_CR,178,Congo,False,90770.0
+2023,declara_CR,180,Dem. Rep. of the Congo,False,75291.52
+2023,declara_CR,191,Croatia,False,2833663.65
+2023,declara_CR,192,Cuba,False,32464594.63
+2023,declara_CR,231,Ethiopia,False,2221.0
+2023,declara_CR,233,Estonia,False,361034.74
+2023,declara_CR,242,Fiji,False,34043.5
+2023,declara_CR,246,Finland,False,17924119.67
+2023,declara_CR,251,France,False,86220369.12
+2023,declara_CR,384,Côte d'Ivoire,False,240837.35
+2023,declara_CR,534,Saint Maarten,False,510931.57
+2023,declara_CR,540,New Caledonia,False,7344.52
+2023,declara_CR,548,Vanuatu,False,2100.0
+2023,declara_CR,554,New Zealand,False,3553870.09
+2023,declara_CR,740,Suriname,False,4495574.26
+2023,declara_CR,748,Eswatini,False,6997.0
+2023,declara_CR,752,Sweden,False,13941816.98
+2023,declara_CR,36,Australia,False,24536572.94
+2023,declara_CR,392,Japan,False,379839155.02
+2023,declara_CR,484,Mexico,False,301386708.169
+2023,declara_CR,604,Peru,False,123038813.33
+2023,declara_CR,724,Spain,False,303756373.452
+2023,declara_CR,757,Switzerland,False,9240321.2
+2023,declara_CR,826,United Kingdom,False,259122305.816
+2023,declara_CR,842,USA,False,8344832017.44
+2023,declara_CR,0,World,True,18105904673.666
+2023,declara_CR,84,Belize,False,92247933.57
+2023,declara_CR,120,Cameroon,False,552167.25
+2023,declara_CR,124,Canada,False,101558989.53
+2023,declara_CR,156,China,False,416663777.06
+2023,declara_CR,214,Dominican Rep.,False,319699904.81
+2023,declara_CR,222,El Salvador,False,458736596.971
+2023,declara_CR,276,Germany,False,138756127.76
+2023,declara_CR,320,Guatemala,False,887998386.542
+2023,declara_CR,340,Honduras,False,598223434.29
+2023,declara_CR,344,"China, Hong Kong SAR",False,38622755.831
+2023,declara_CR,348,Hungary,False,42437532.58
+2023,declara_CR,372,Ireland,False,89752299.33
+2023,declara_CR,458,Malaysia,False,19919153.53
+2023,declara_CR,490,"Other Asia, nes",False,41263615.08
+2023,declara_CR,591,Panama,False,625847209.833
+2023,declara_CR,699,India,False,56402075.02
+2023,declara_CR,862,Venezuela,False,13855978.1
+2023,declara_CR,76,Brazil,False,42547095.59
+2023,declara_CR,218,Ecuador,False,74582096.62
+2023,declara_CR,380,Italy,False,208282641.36
+2023,declara_CR,388,Jamaica,False,83379837.36
+2023,declara_CR,558,Nicaragua,False,692530661.979
+2023,declara_CR,32,Argentina,False,11673351.34
+2023,declara_CR,608,Philippines,False,9401886.02
+2023,declara_socio,8,Albania,False,2661199.85
+2023,declara_socio,20,Andorra,False,58936.988
+2023,declara_socio,24,Angola,False,112760.55
+2023,declara_socio,28,Antigua and Barbuda,False,774425.155
+2023,declara_socio,31,Azerbaijan,False,3558904.35
+2023,declara_socio,32,Argentina,False,22662314.61
+2023,declara_socio,36,Australia,False,149572479.896
+2023,declara_socio,40,Austria,False,66041680.44
+2023,declara_socio,44,Bahamas,False,15841712.0
+2023,declara_socio,48,Bahrain,False,3219299.732
+2023,declara_socio,51,Armenia,False,4930506.93
+2023,declara_socio,52,Barbados,False,14450614.5
+2023,declara_socio,56,Belgium,False,627088544.915
+2023,declara_socio,60,Bermuda,False,1292941.16
+2023,declara_socio,68,Bolivia (Plurinational State of),False,2004917.0
+2023,declara_socio,70,Bosnia Herzegovina,False,6224333.05
+2023,declara_socio,72,Botswana,False,98271.457
+2023,declara_socio,76,Brazil,False,144501496.0
+2023,declara_socio,84,Belize,False,15054519.165
+2023,declara_socio,96,Brunei Darussalam,False,353770.54
+2023,declara_socio,100,Bulgaria,False,294446.551
+2023,declara_socio,104,Myanmar,False,67173.15
+2023,declara_socio,116,Cambodia,False,45586.62
+2023,declara_socio,120,Cameroon,False,797620.802
+2023,declara_socio,124,Canada,False,533768495.627
+2023,declara_socio,132,Cabo Verde,False,27606.115
+2023,declara_socio,136,Cayman Isds,False,2274528.609
+2023,declara_socio,140,Central African Rep.,False,85798.961
+2023,declara_socio,144,Sri Lanka,False,1029114.088
+2023,declara_socio,152,Chile,False,50271069.054
+2023,declara_socio,156,China,False,2917975818.0
+2023,declara_socio,170,Colombia,False,84538819.82
+2023,declara_socio,178,Congo,False,160882.088
+2023,declara_socio,180,Dem. Rep. of the Congo,False,39783.57
+2023,declara_socio,191,Croatia,False,1879963.0
+2023,declara_socio,196,Cyprus,False,196903.341
+2023,declara_socio,203,Czechia,False,213671073.0
+2023,declara_socio,208,Denmark,False,7780499.087
+2023,declara_socio,212,Dominica,False,323482.639
+2023,declara_socio,214,Dominican Rep.,False,284307055.253
+2023,declara_socio,218,Ecuador,False,76080811.3
+2023,declara_socio,222,El Salvador,False,416713962.22
+2023,declara_socio,231,Ethiopia,False,4787272.385
+2023,declara_socio,233,Estonia,False,6329377.11
+2023,declara_socio,242,Fiji,False,41820.787
+2023,declara_socio,246,Finland,False,40174826.437
+2023,declara_socio,251,France,False,401214244.245
+2023,declara_socio,258,French Polynesia,False,93635.671
+2023,declara_socio,266,Gabon,False,194133.243
+2023,declara_socio,268,Georgia,False,346798.69
+2023,declara_socio,275,State of Palestine,False,3695731.468
+2023,declara_socio,276,Germany,False,799325825.224
+2023,declara_socio,288,Ghana,False,92448.948
+2023,declara_socio,300,Greece,False,22149505.47
+2023,declara_socio,308,Grenada,False,1322921.587
+2023,declara_socio,320,Guatemala,False,808716765.0
+2023,declara_socio,328,Guyana,False,26680996.416
+2023,declara_socio,340,Honduras,False,526948556.12
+2023,declara_socio,344,"China, Hong Kong SAR",False,670665534.506
+2023,declara_socio,348,Hungary,False,43415611.959
+2023,declara_socio,352,Iceland,False,2195462.65
+2023,declara_socio,360,Indonesia,False,12781756.0
+2023,declara_socio,372,Ireland,False,166397471.356
+2023,declara_socio,376,Israel,False,36547000.0
+2023,declara_socio,380,Italy,False,284586086.068
+2023,declara_socio,384,Côte d'Ivoire,False,488243.395
+2023,declara_socio,388,Jamaica,False,82217101.04
+2023,declara_socio,392,Japan,False,536668523.332
+2023,declara_socio,398,Kazakhstan,False,9026398.96
+2023,declara_socio,400,Jordan,False,5146802.745
+2023,declara_socio,404,Kenya,False,1638728.144
+2023,declara_socio,410,Rep. of Korea,False,157678605.0
+2023,declara_socio,414,Kuwait,False,10577925.49
+2023,declara_socio,417,Kyrgyzstan,False,173864.0
+2023,declara_socio,418,Lao People's Dem. Rep.,False,260310.46
+2023,declara_socio,422,Lebanon,False,5954138.0
+2023,declara_socio,428,Latvia,False,560621.56
+2023,declara_socio,440,Lithuania,False,1271364.0
+2023,declara_socio,442,Luxembourg,False,4457109.467
+2023,declara_socio,446,"China, Macao SAR",False,786480.699
+2023,declara_socio,450,Madagascar,False,11499.949
+2023,declara_socio,454,Malawi,False,1010.37
+2023,declara_socio,458,Malaysia,False,308809582.71
+2023,declara_socio,462,Maldives,False,41132.622
+2023,declara_socio,466,Mali,False,50338.02
+2023,declara_socio,470,Malta,False,4461435.428
+2023,declara_socio,478,Mauritania,False,2811.139
+2023,declara_socio,480,Mauritius,False,213677.763
+2023,declara_socio,484,Mexico,False,1376537496.0
+2023,declara_socio,490,"Other Asia, nes",False,279431197.72
+2023,declara_socio,496,Mongolia,False,1438919.017
+2023,declara_socio,498,Rep. of Moldova,False,3190987.0
+2023,declara_socio,499,Montenegro,False,2153634.046
+2023,declara_socio,504,Morocco,False,12130627.53
+2023,declara_socio,508,Mozambique,False,7000.0
+2023,declara_socio,512,Oman,False,602236.67
+2023,declara_socio,516,Namibia,False,116355.136
+2023,declara_socio,528,Netherlands,False,1583123854.836
+2023,declara_socio,554,New Zealand,False,16624961.569
+2023,declara_socio,558,Nicaragua,False,675603143.75
+2023,declara_socio,562,Niger,False,2681.145
+2023,declara_socio,566,Nigeria,False,258648.102
+2023,declara_socio,579,Norway,False,84775531.113
+2023,declara_socio,586,Pakistan,False,1965645.476
+2023,declara_socio,591,Panama,False,497992914.0
+2023,declara_socio,598,Papua New Guinea,False,21269.817
+2023,declara_socio,600,Paraguay,False,2875169.904
+2023,declara_socio,604,Peru,False,133520830.69
+2023,declara_socio,608,Philippines,False,21209834.0
+2023,declara_socio,616,Poland,False,164654868.0
+2023,declara_socio,620,Portugal,False,72947762.579
+2023,declara_socio,626,Timor-Leste,False,71530.0
+2023,declara_socio,634,Qatar,False,6161842.339
+2023,declara_socio,642,Romania,False,4514455.46
+2023,declara_socio,670,Saint Vincent and the Grenadines,False,851894.241
+2023,declara_socio,682,Saudi Arabia,False,108916659.144
+2023,declara_socio,686,Senegal,False,2451211.749
+2023,declara_socio,688,Serbia,False,23891746.0
+2023,declara_socio,699,India,False,130819300.332
+2023,declara_socio,702,Singapore,False,387407568.406
+2023,declara_socio,703,Slovakia,False,23332890.179
+2023,declara_socio,704,Viet Nam,False,45132146.172
+2023,declara_socio,705,Slovenia,False,17879357.362
+2023,declara_socio,710,South Africa,False,33718138.962
+2023,declara_socio,724,Spain,False,491645883.961
+2023,declara_socio,740,Suriname,False,5666813.934
+2023,declara_socio,748,Eswatini,False,7585.81
+2023,declara_socio,752,Sweden,False,18029508.354
+2023,declara_socio,757,Switzerland,False,171542332.099
+2023,declara_socio,762,Tajikistan,False,597340.0
+2023,declara_socio,764,Thailand,False,59925205.186
+2023,declara_socio,776,Tonga,False,2373.198
+2023,declara_socio,780,Trinidad and Tobago,False,56364546.944
+2023,declara_socio,784,United Arab Emirates,False,46297563.859
+2023,declara_socio,788,Tunisia,False,3010260.749
+2023,declara_socio,792,Türkiye,False,61977616.0
+2023,declara_socio,800,Uganda,False,1287550.88
+2023,declara_socio,804,Ukraine,False,51811038.75
+2023,declara_socio,807,North Macedonia,False,2768718.612
+2023,declara_socio,818,Egypt,False,11927600.794
+2023,declara_socio,826,United Kingdom,False,627933662.583
+2023,declara_socio,834,United Rep. of Tanzania,False,389671.51
+2023,declara_socio,842,USA,False,10833325116.0
+2023,declara_socio,854,Burkina Faso,False,16834.59
+2023,declara_socio,858,Uruguay,False,5594309.32
+2023,declara_socio,860,Uzbekistan,False,505406.99
+2023,declara_socio,894,Zambia,False,18752.742
+2024,declara_CR,705,Slovenia,False,1656311.54
+2024,declara_CR,710,South Africa,False,6317079.44
+2024,declara_CR,716,Zimbabwe,False,4790.0
+2024,declara_CR,8,Albania,False,456735.63
+2024,declara_CR,12,Algeria,False,219362.35
+2024,declara_CR,24,Angola,False,2920.0
+2024,declara_CR,32,Argentina,False,19817064.27
+2024,declara_CR,36,Australia,False,24800141.41
+2024,declara_CR,364,Iran,False,28606.35
+2024,declara_CR,368,Iraq,False,15966633.0
+2024,declara_CR,380,Italy,False,208942990.77
+2024,declara_CR,598,Papua New Guinea,False,167403.16
+2024,declara_CR,600,Paraguay,False,3009907.88
+2024,declara_CR,729,Sudan,False,15635.6
+2024,declara_CR,740,Suriname,False,9613409.41
+2024,declara_CR,748,Eswatini,False,7249.0
+2024,declara_CR,757,Switzerland,False,6768336.94
+2024,declara_CR,760,Syria,False,2200.0
+2024,declara_CR,764,Thailand,False,14250361.07
+2024,declara_CR,780,Trinidad and Tobago,False,65843077.11
+2024,declara_CR,40,Austria,False,165578.25
+2024,declara_CR,44,Bahamas,False,17364003.2
+2024,declara_CR,50,Bangladesh,False,3261766.03
+2024,declara_CR,51,Armenia,False,58031.61
+2024,declara_CR,52,Barbados,False,15534034.39
+2024,declara_CR,231,Ethiopia,False,127392.5
+2024,declara_CR,233,Estonia,False,1396553.9
+2024,declara_CR,242,Fiji,False,25500.0
+2024,declara_CR,246,Finland,False,30079933.31
+2024,declara_CR,258,French Polynesia,False,36092.62
+2024,declara_CR,262,Djibouti,False,2268.0
+2024,declara_CR,266,Gabon,False,131516.84
+2024,declara_CR,268,Georgia,False,64456.89
+2024,declara_CR,324,Guinea,False,26496.84
+2024,declara_CR,328,Guyana,False,21924414.11
+2024,declara_CR,392,Japan,False,240254082.011
+2024,declara_CR,400,Jordan,False,267139.26
+2024,declara_CR,404,Kenya,False,123365.38
+2024,declara_CR,410,Rep. of Korea,False,64595427.47
+2024,declara_CR,414,Kuwait,False,113205.74
+2024,declara_CR,422,Lebanon,False,1962330.54
+2024,declara_CR,428,Latvia,False,2414022.78
+2024,declara_CR,434,Libya,False,11584906.13
+2024,declara_CR,440,Lithuania,False,492277.94
+2024,declara_CR,566,Nigeria,False,1449705.8
+2024,declara_CR,579,Norway,False,26291371.78
+2024,declara_CR,580,N. Mariana Isds,False,2750.0
+2024,declara_CR,583,FS Micronesia,False,4445.5
+2024,declara_CR,584,Marshall Isds,False,26758.79
+2024,declara_CR,586,Pakistan,False,873139.49
+2024,declara_CR,608,Philippines,False,10930577.29
+2024,declara_CR,616,Poland,False,17363890.66
+2024,declara_CR,784,United Arab Emirates,False,3591483.21
+2024,declara_CR,788,Tunisia,False,2406417.79
+2024,declara_CR,792,Türkiye,False,73295970.58
+2024,declara_CR,796,Turks and Caicos Isds,False,35675.7
+2024,declara_CR,800,Uganda,False,8150.0
+2024,declara_CR,804,Ukraine,False,418930.68
+2024,declara_CR,818,Egypt,False,2010325.9
+2024,declara_CR,60,Bermuda,False,1785972.73
+2024,declara_CR,68,Bolivia (Plurinational State of),False,675096.57
+2024,declara_CR,70,Bosnia Herzegovina,False,2948.0
+2024,declara_CR,76,Brazil,False,36589686.08
+2024,declara_CR,288,Ghana,False,53060.25
+2024,declara_CR,332,Haiti,False,13976952.76
+2024,declara_CR,340,Honduras,False,597351714.163
+2024,declara_CR,442,Luxembourg,False,26780.06
+2024,declara_CR,454,Malawi,False,134600.0
+2024,declara_CR,470,Malta,False,4569296.01
+2024,declara_CR,480,Mauritius,False,46218.68
+2024,declara_CR,490,"Other Asia, nes",False,32427077.549
+2024,declara_CR,834,United Rep. of Tanzania,False,72493.96
+2024,declara_CR,178,Congo,False,33347.1
+2024,declara_CR,184,Cook Isds,False,344363.29
+2024,declara_CR,191,Croatia,False,2206301.69
+2024,declara_CR,192,Cuba,False,39735395.87
+2024,declara_CR,196,Cyprus,False,364253.0
+2024,declara_CR,203,Czechia,False,51314.07
+2024,declara_CR,212,Dominica,False,225263.97
+2024,declara_CR,496,Mongolia,False,18460.0
+2024,declara_CR,498,Rep. of Moldova,False,5.0
+2024,declara_CR,499,Montenegro,False,7265938.52
+2024,declara_CR,504,Morocco,False,11652688.25
+2024,declara_CR,508,Mozambique,False,2090.0
+2024,declara_CR,512,Oman,False,142698.46
+2024,declara_CR,524,Nepal,False,8422.0
+2024,declara_CR,528,Netherlands,False,1714447314.014
+2024,declara_CR,531,Curaçao,False,7023906.77
+2024,declara_CR,534,Saint Maarten,False,1390939.71
+2024,declara_CR,540,New Caledonia,False,46859.79
+2024,declara_CR,548,Vanuatu,False,108055.31
+2024,declara_CR,554,New Zealand,False,7387866.94
+2024,declara_CR,854,Burkina Faso,False,188262.77
+2024,declara_CR,858,Uruguay,False,5421342.46
+2024,declara_CR,862,Venezuela,False,16499985.64
+2024,declara_CR,899,"Areas, nes",False,61337.77
+2024,declara_CR,620,Portugal,False,53420676.81
+2024,declara_CR,634,Qatar,False,181444.49
+2024,declara_CR,642,Romania,False,4154288.79
+2024,declara_CR,643,Russian Federation,False,32031784.19
+2024,declara_CR,659,Saint Kitts and Nevis,False,543903.39
+2024,declara_CR,660,Anguilla,False,9167.0
+2024,declara_CR,662,Saint Lucia,False,2917237.74
+2024,declara_CR,670,Saint Vincent and the Grenadines,False,868067.38
+2024,declara_CR,384,Côte d'Ivoire,False,214394.26
+2024,declara_CR,388,Jamaica,False,76276276.4
+2024,declara_CR,682,Saudi Arabia,False,26298491.94
+2024,declara_CR,686,Senegal,False,574949.2
+2024,declara_CR,688,Serbia,False,738509.58
+2024,declara_CR,694,Sierra Leone,False,2004301.59
+2024,declara_CR,703,Slovakia,False,321864.75
+2024,declara_CR,704,Viet Nam,False,11152402.64
+2024,declara_CR,92,Br. Virgin Isds,False,83617.58
+2024,declara_CR,100,Bulgaria,False,13655.49
+2024,declara_CR,116,Cambodia,False,300.0
+2024,declara_CR,120,Cameroon,False,822905.33
+2024,declara_CR,300,Greece,False,19287147.29
+2024,declara_CR,308,Grenada,False,3155712.18
+2024,declara_CR,316,Guam,False,13000.0
+2024,declara_CR,136,Cayman Isds,False,907212.51
+2024,declara_CR,144,Sri Lanka,False,39061.36
+2024,declara_CR,152,Chile,False,42686189.86
+2024,declara_CR,360,Indonesia,False,5675474.5
+2024,declara_CR,724,Spain,False,286409428.992
+2024,declara_CR,28,Antigua and Barbuda,False,783836.69
+2024,declara_CR,156,China,False,383469164.3
+2024,declara_CR,372,Ireland,False,101356973.42
+2024,declara_CR,376,Israel,False,20856489.53
+2024,declara_CR,752,Sweden,False,11992929.22
+2024,declara_CR,56,Belgium,False,986903380.32
+2024,declara_CR,170,Colombia,False,92292001.729
+2024,declara_CR,251,France,False,98985218.95
+2024,declara_CR,276,Germany,False,149412495.095
+2024,declara_CR,591,Panama,False,613515486.24
+2024,declara_CR,604,Peru,False,126663689.54
+2024,declara_CR,826,United Kingdom,False,259631546.02
+2024,declara_CR,458,Malaysia,False,86632558.91
+2024,declara_CR,484,Mexico,False,332171416.878
+2024,declara_CR,842,USA,False,9527331702.505
+2024,declara_CR,208,Denmark,False,904572.1
+2024,declara_CR,214,Dominican Rep.,False,318076803.765
+2024,declara_CR,533,Aruba,False,23722430.31
+2024,declara_CR,558,Nicaragua,False,737246161.896
+2024,declara_CR,0,World,True,19882315857.414
+2024,declara_CR,218,Ecuador,False,84215573.84
+2024,declara_CR,222,El Salvador,False,499547753.39
+2024,declara_CR,699,India,False,66908216.92
+2024,declara_CR,702,Singapore,False,110813451.06
+2024,declara_CR,84,Belize,False,21601529.01
+2024,declara_CR,124,Canada,False,112565628.35
+2024,declara_CR,320,Guatemala,False,1027311339.215
+2024,declara_CR,344,"China, Hong Kong SAR",False,44518469.94
+2024,declara_CR,348,Hungary,False,41140659.98
+2024,declara_socio,8,Albania,False,1343040.549
+2024,declara_socio,12,Algeria,False,3290841.0
+2024,declara_socio,20,Andorra,False,57570.866
+2024,declara_socio,24,Angola,False,157677.44
+2024,declara_socio,28,Antigua and Barbuda,False,860842.644
+2024,declara_socio,31,Azerbaijan,False,3860505.37
+2024,declara_socio,32,Argentina,False,24990763.33
+2024,declara_socio,36,Australia,False,178659104.302
+2024,declara_socio,40,Austria,False,59179547.802
+2024,declara_socio,44,Bahamas,False,23572414.0
+2024,declara_socio,48,Bahrain,False,2107520.738
+2024,declara_socio,51,Armenia,False,4878865.59
+2024,declara_socio,52,Barbados,False,17077782.5
+2024,declara_socio,56,Belgium,False,587072086.772
+2024,declara_socio,60,Bermuda,False,1202695.51
+2024,declara_socio,68,Bolivia (Plurinational State of),False,1951950.0
+2024,declara_socio,70,Bosnia Herzegovina,False,7023111.213
+2024,declara_socio,76,Brazil,False,142527786.0
+2024,declara_socio,84,Belize,False,15397705.52
+2024,declara_socio,96,Brunei Darussalam,False,393581.215
+2024,declara_socio,100,Bulgaria,False,5822552.426
+2024,declara_socio,104,Myanmar,False,117503.57
+2024,declara_socio,116,Cambodia,False,203443.16
+2024,declara_socio,124,Canada,False,541878033.922
+2024,declara_socio,136,Cayman Isds,False,1751060.171
+2024,declara_socio,144,Sri Lanka,False,912209.671
+2024,declara_socio,152,Chile,False,50154199.464
+2024,declara_socio,156,China,False,4380064039.0
+2024,declara_socio,170,Colombia,False,111569260.67
+2024,declara_socio,191,Croatia,False,1736722.0
+2024,declara_socio,196,Cyprus,False,216417.643
+2024,declara_socio,203,Czechia,False,443820387.0
+2024,declara_socio,208,Denmark,False,6802814.273
+2024,declara_socio,214,Dominican Rep.,False,285408783.463
+2024,declara_socio,218,Ecuador,False,65620748.526
+2024,declara_socio,222,El Salvador,False,444694918.71
+2024,declara_socio,233,Estonia,False,7593392.17
+2024,declara_socio,242,Fiji,False,15326.897
+2024,declara_socio,246,Finland,False,38544901.968
+2024,declara_socio,251,France,False,446560179.622
+2024,declara_socio,258,French Polynesia,False,134633.781
+2024,declara_socio,268,Georgia,False,293144.55
+2024,declara_socio,276,Germany,False,737103829.594
+2024,declara_socio,288,Ghana,False,226118.404
+2024,declara_socio,300,Greece,False,21762390.236
+2024,declara_socio,308,Grenada,False,3105030.667
+2024,declara_socio,320,Guatemala,False,939731242.0
+2024,declara_socio,328,Guyana,False,42895778.379
+2024,declara_socio,340,Honduras,False,503000232.82
+2024,declara_socio,344,"China, Hong Kong SAR",False,843720639.261
+2024,declara_socio,348,Hungary,False,45372482.859
+2024,declara_socio,352,Iceland,False,2329459.041
+2024,declara_socio,360,Indonesia,False,14218271.0
+2024,declara_socio,368,Iraq,False,14103565.0
+2024,declara_socio,372,Ireland,False,158475326.874
+2024,declara_socio,376,Israel,False,17685000.0
+2024,declara_socio,380,Italy,False,296015428.401
+2024,declara_socio,384,Côte d'Ivoire,False,347763.921
+2024,declara_socio,388,Jamaica,False,73658924.62
+2024,declara_socio,392,Japan,False,570481536.829
+2024,declara_socio,398,Kazakhstan,False,11938031.38
+2024,declara_socio,400,Jordan,False,3617628.538
+2024,declara_socio,404,Kenya,False,449019.177
+2024,declara_socio,410,Rep. of Korea,False,190016661.0
+2024,declara_socio,414,Kuwait,False,11589052.0
+2024,declara_socio,417,Kyrgyzstan,False,362874.0
+2024,declara_socio,422,Lebanon,False,7715786.0
+2024,declara_socio,428,Latvia,False,134650.89
+2024,declara_socio,440,Lithuania,False,429087.0
+2024,declara_socio,442,Luxembourg,False,4522961.585
+2024,declara_socio,446,"China, Macao SAR",False,4383882.537
+2024,declara_socio,450,Madagascar,False,44751.008
+2024,declara_socio,454,Malawi,False,22585.63
+2024,declara_socio,458,Malaysia,False,557351144.342
+2024,declara_socio,462,Maldives,False,404683.148
+2024,declara_socio,470,Malta,False,5484279.999
+2024,declara_socio,480,Mauritius,False,220930.23
+2024,declara_socio,484,Mexico,False,2271252009.0
+2024,declara_socio,490,"Other Asia, nes",False,578765522.148
+2024,declara_socio,498,Rep. of Moldova,False,4832106.0
+2024,declara_socio,499,Montenegro,False,2415552.308
+2024,declara_socio,504,Morocco,False,17317425.5
+2024,declara_socio,508,Mozambique,False,2341.7
+2024,declara_socio,512,Oman,False,922156.045
+2024,declara_socio,516,Namibia,False,225683.636
+2024,declara_socio,528,Netherlands,False,1968058156.889
+2024,declara_socio,554,New Zealand,False,20587219.025
+2024,declara_socio,558,Nicaragua,False,673732919.0
+2024,declara_socio,566,Nigeria,False,154972.852
+2024,declara_socio,579,Norway,False,84712864.993
+2024,declara_socio,586,Pakistan,False,2186446.076
+2024,declara_socio,591,Panama,False,488664063.0
+2024,declara_socio,600,Paraguay,False,1843088.92
+2024,declara_socio,604,Peru,False,134120745.29
+2024,declara_socio,608,Philippines,False,23635472.0
+2024,declara_socio,616,Poland,False,197878614.0
+2024,declara_socio,620,Portugal,False,69862057.83
+2024,declara_socio,634,Qatar,False,7815456.121
+2024,declara_socio,642,Romania,False,6869738.12
+2024,declara_socio,682,Saudi Arabia,False,96032495.466
+2024,declara_socio,686,Senegal,False,1514828.745
+2024,declara_socio,688,Serbia,False,20964920.0
+2024,declara_socio,699,India,False,162560883.527
+2024,declara_socio,702,Singapore,False,513754613.531
+2024,declara_socio,703,Slovakia,False,21143468.853
+2024,declara_socio,705,Slovenia,False,17724109.947
+2024,declara_socio,710,South Africa,False,34074039.947
+2024,declara_socio,724,Spain,False,481216576.833
+2024,declara_socio,740,Suriname,False,9621648.471
+2024,declara_socio,752,Sweden,False,15049532.154
+2024,declara_socio,757,Switzerland,False,180674256.268
+2024,declara_socio,764,Thailand,False,72567470.867
+2024,declara_socio,768,Togo,False,14169.837
+2024,declara_socio,780,Trinidad and Tobago,False,56424488.852
+2024,declara_socio,788,Tunisia,False,3258732.304
+2024,declara_socio,792,Türkiye,False,93493986.0
+2024,declara_socio,800,Uganda,False,38409.04
+2024,declara_socio,804,Ukraine,False,43244160.61
+2024,declara_socio,807,North Macedonia,False,2774681.23
+2024,declara_socio,818,Egypt,False,17263079.045
+2024,declara_socio,826,United Kingdom,False,623010627.637
+2024,declara_socio,834,United Rep. of Tanzania,False,421605.629
+2024,declara_socio,842,USA,False,12005925027.0
+2024,declara_socio,854,Burkina Faso,False,259364.021
+2024,declara_socio,858,Uruguay,False,5407053.0
+2024,declara_socio,860,Uzbekistan,False,416679.0
+2024,declara_socio,882,Samoa,False,597.456
+2024,declara_socio,894,Zambia,False,41207.559

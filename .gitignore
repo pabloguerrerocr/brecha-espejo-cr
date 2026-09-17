@@ -1,0 +1,9 @@
+# Cache de la API y base regenerable
+datos/cache/
+*.duckdb
+*.duckdb.wal
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
