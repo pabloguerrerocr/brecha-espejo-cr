@@ -1,5 +1,7 @@
 # Costa Rica y sus socios no reportan el mismo comercio
 
+*[English version](README.en.md)*
+
 **En 2024, Costa Rica declaró exportar $19,9 mm al mundo. Sus socios declararon
 haber importado $34,0 mm de Costa Rica. La diferencia es de $14.140 millones —
 un 71 %— y no para de crecer.**
