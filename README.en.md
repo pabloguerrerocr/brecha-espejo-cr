@@ -2,6 +2,8 @@
 
 *[Versión en español](README.md)*
 
+**[Explore the interactive dashboard →](https://pabloguerrerocr.github.io/brecha/)** (in Spanish) The gap year by year and partner by partner.
+
 **In 2024, Costa Rica reported $19.9 bn in exports to the world. Its partners
 reported importing $34.0 bn from Costa Rica. The difference is $14,140 million
 —71%— and it keeps growing.**
