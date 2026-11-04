@@ -21,7 +21,14 @@ plt.rcParams.update({"font.size": 11, "axes.spines.top": False,
                      "axes.spines.right": False, "figure.facecolor": "white",
                      "axes.grid": True, "grid.alpha": .25})
 
-con = duckdb.connect("espejo.duckdb", read_only=True)
+BD = os.path.join(AQUI, "espejo.duckdb")
+if not os.path.exists(BD):
+    # La base la arma 03_reporte.py. Si todavia no existe, se arma aqui con el
+    # mismo SQL, para que las figuras no dependan del orden en que se corre.
+    with duckdb.connect(BD) as c:
+        c.execute(open("02_analisis.sql", encoding="utf-8").read())
+
+con = duckdb.connect(BD, read_only=True)
 
 
 def cerrar(fig, nombre, titulo, sub):
@@ -80,6 +87,47 @@ ax.set_xlim(0, t.brecha_mmUSD.max() * 1.32)
 cerrar(fig, "03_quien_explica.png",
        f"Unos pocos socios explican casi toda la brecha ({ult})",
        "Diferencia entre lo que cada socio declara importar y lo que Costa Rica declara exportarle.")
+
+# 4 — cuatro socios, cuatro historias: el porcentaje por anio de los tres que mas
+# aportan a la brecha y del caso inverso. Cada panel con su escala, porque China
+# llega a +1.400 % y Estados Unidos no pasa de +36 %.
+SOCIOS = [("China", "China"), ("USA", "Estados Unidos"),
+          ("Mexico", "México"), ("Belgium", "Bélgica")]
+codigos = ", ".join(f"'{c}'" for c, _ in SOCIOS)
+serie = con.execute(f"""
+    SELECT anio, socio, brecha_pc FROM v_par
+    WHERE socio IN ({codigos}) AND brecha_pc IS NOT NULL ORDER BY anio
+""").df()
+resumen = con.execute(f"""
+    SELECT socio, brecha_media_pc, desviacion FROM v_persistencia
+    WHERE socio IN ({codigos})
+""").df().set_index("socio")
+
+fig, axes = plt.subplots(2, 2, figsize=(11, 6.8), sharex=True)
+for ax, (cod, nombre) in zip(axes.ravel(), SOCIOS):
+    s = serie[serie.socio == cod]
+    media, desv = resumen.loc[cod, "brecha_media_pc"], resumen.loc[cod, "desviacion"]
+    color = NARANJA if media > 0 else AZUL
+    ax.bar(s.anio, s.brecha_pc, color=color, width=.65)
+    ax.axhline(0, color="#333", lw=1)
+    ax.axhline(media, color="#555", lw=1)
+    ax.annotate(f"media {media:+.0f} %", (s.anio.max() + .45, media),
+                va="center", fontsize=9.5, color="#333")
+    ult = s.iloc[-1]
+    ax.annotate(f"{ult.brecha_pc:+.0f} %", (ult.anio, ult.brecha_pc),
+                textcoords="offset points", xytext=(0, 4 if ult.brecha_pc > 0 else -13),
+                ha="center", fontsize=9.5, fontweight="bold", color="#444")
+    ax.set_title(f"{nombre} · desviación de {desv:.0f} puntos", loc="left",
+                 fontsize=11.5, fontweight="bold")
+    ax.set_xlim(s.anio.min() - .6, s.anio.max() + 2.3)
+    ax.set_xticks(range(int(s.anio.min()), int(s.anio.max()) + 1, 3))
+    ax.yaxis.set_major_formatter(plt.FuncFormatter(lambda v, _: f"{v:.0f} %"))
+    ax.grid(axis="x", visible=False)
+    bajo, alto = min(0, s.brecha_pc.min()), max(0, s.brecha_pc.max())
+    ax.set_ylim(bajo * 1.25, alto * 1.18 if alto else abs(bajo) * .15)
+cerrar(fig, "04_cuatro_socios.png", "Cuatro socios, cuatro historias distintas",
+       "Brecha por año: cuánto más (naranja) o menos (azul) registra el socio que Costa Rica. "
+       "Cada panel tiene su propia escala.")
 
 con.close()
 print("\nFiguras en figuras/")

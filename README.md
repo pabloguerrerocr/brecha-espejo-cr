@@ -1,124 +1,134 @@
 # Costa Rica y sus socios no reportan el mismo comercio
 
-*[English version](README.en.md)*
+*[English version](README.en.md)* ·
+**[Tablero interactivo →](https://pabloguerrerocr.github.io/brecha/)** la brecha año por año y socio por socio
 
-**[Explorar el tablero interactivo →](https://pabloguerrerocr.github.io/brecha/)** La brecha año por año y socio por socio.
+**Pregunta.** Cada exportación se registra dos veces: la declara Costa Rica al exportar
+y la declara el socio al importar. ¿Coinciden esas dos cifras oficiales? Y si no, ¿dónde
+está la diferencia?
 
-**En 2024, Costa Rica declaró exportar $19,9 mm al mundo. Sus socios declararon
-haber importado $34,0 mm de Costa Rica. La diferencia es de $14.140 millones —
-un 71 %— y no para de crecer.**
+**Respuesta corta.** No coinciden, y la diferencia crece. En 2024 Costa Rica declaró
+exportar US$19,9 mil millones; sus socios declararon haberle importado US$34,0 mil
+millones. Son US$14,1 mil millones de diferencia, un 71 %.
 
-![Dos fuentes oficiales](figuras/01_dos_lados.png)
+![Dos fuentes oficiales, el mismo comercio](figuras/01_dos_lados.png)
 
-Cada transacción internacional se registra dos veces: una por quien exporta y
-otra por quien importa. En teoría las dos cifras deberían coincidir. Nunca
-coinciden, y esa diferencia —la *estadística espejo*— es lo que aduanas y bancos
-centrales usan para detectar subfacturación, reexportación y errores de
-clasificación.
+A esa diferencia se le llama *estadística espejo*, y aduanas y bancos centrales la usan
+para detectar subfacturación, reexportaciones y errores de clasificación.
+
+## Tres hallazgos
+
+**1. La brecha no es un año raro: está los diez años y se triplicó.** Nunca bajó de
+25 % y pasó de 44 % en 2015 a 71 % en 2024. En dólares pasó de US$4,3 a US$14,1 mil
+millones, y crece todos los años desde 2017.
 
 ![La brecha por año](figuras/02_brecha_pc.png)
 
-La brecha existe los diez años, nunca baja de 25 % y pasó de 44 % en 2015 a 71 %
-en 2024.
-
-## Tres socios explican la mitad
+**2. Tres socios explican más de la mitad.** En 2024 China aporta el 28,0 % de la
+brecha, Estados Unidos el 17,3 % y México el 13,6 %: juntos, el 58,9 %. Con diez socios
+se llega al 84,6 %.
 
 ![Quién explica la brecha](figuras/03_quien_explica.png)
 
-| Socio | CR declara (promedio) | Brecha media | Desviación | Acumulada |
+**3. Cada socio es un fenómeno distinto.**
+
+| Socio | Costa Rica declara (promedio anual) | Brecha media | Desviación | Brecha acumulada, 10 años |
 |---|---:|---:|---:|---:|
-| **Estados Unidos** | $5.795 M | **+17,3 %** | 10,2 | $11,15 mm |
-| **China** | $220 M | **+627 %** | 396 | $12,40 mm |
-| **Bélgica** | $705 M | **−37,7 %** | **7,0** | −$2,61 mm |
+| **China** | US$220 M | **+627 %** | 396 | US$12,40 mm |
+| **Estados Unidos** | US$5.795 M | **+17,3 %** | 10,2 | US$11,15 mm |
+| **México** | US$289 M | **+187 %** | 177 | US$5,77 mm |
+| **Bélgica** | US$705 M | **−37,7 %** | 7,0 | −US$2,61 mm |
 
-Son tres fenómenos distintos, y esa es la conclusión del trabajo:
+- **Estados Unidos: el socio declara en promedio un 17 % más** (entre +5 % y +36 % según
+  el año). Ese orden de magnitud es compatible con la valoración FOB frente a CIF (el
+  importador incluye flete y seguro) más los desfases de registro. Es la brecha
+  «normal».
+- **China: +627 %.** Eso no es flete: China declara importar, en promedio, unas siete
+  veces lo que Costa Rica declara exportarle. La hipótesis a contrastar es la
+  atribución de origen: mercancía de zona franca que se vende a un intermediario y que
+  el destino registra como costarricense.
+- **México: la brecha se disparó,** de 28 % en 2017 a 584 % en 2024.
+- **Bélgica es el caso inverso:** Costa Rica declara sistemáticamente *más* de lo que
+  Bélgica registra, con una desviación de 7 puntos, la menor entre los doce socios con
+  más brecha acumulada en valor absoluto. No es la única: con Nicaragua, Honduras, Panamá, El Salvador y
+  República Dominicana también declara más, y de forma aún más estable (desviaciones de
+  3 a 5 puntos). Una brecha que se repite diez años así es estructural, no un error.
 
-**Estados Unidos, +17 % con poca dispersión.** Es el orden de magnitud que
-explican la valoración FOB contra CIF —las importaciones incluyen flete y
-seguro— más los desfases de registro. Es la brecha «normal».
+![Cuatro socios, cuatro historias](figuras/04_cuatro_socios.png)
 
-**China, +627 %.** Eso no es flete. Costa Rica declara exportarle $220 millones
-al año y China declara importar seis veces más. La hipótesis a contrastar es
-atribución de origen: mercancía de zona franca que se vende a un intermediario y
-que el país de destino registra con origen Costa Rica.
+## Datos
 
-**Bélgica, −37,7 % con desviación de 7.** El caso inverso, y el más consistente
-de todos: Costa Rica declara sistemáticamente **más** de lo que Bélgica declara
-recibir. Una brecha de un año es un error; una que se repite diez años con
-desviación de 7 puntos es estructural.
+[UN COMTRADE](https://comtradeplus.un.org/), la base de comercio de las Naciones Unidas:
+API pública y sin llave. Comercio total de bienes, anual, 2015-2024, en dólares
+corrientes.
 
-## Correr
+| Lado | Quién reporta | Qué se pide |
+|---|---|---|
+| A | Costa Rica (código 188) | exportaciones a cada socio |
+| B | cada país del mundo | importaciones desde Costa Rica, con `customsCode=C00`, `motCode=0` y `partner2Code=0` |
+
+Esos tres filtros salieron de probar la API y no del manual: al pedir varios reporters,
+la respuesta se desglosa por régimen aduanero, modo de transporte y segundo socio, y se
+corta en 500 registros. Sin fijarlos, los números salen mal y no se nota.
+
+Se excluyen el total mundial y los agregados regionales para no contar dos veces. Los
+datos están versionados en `datos/espejo.csv` (3.044 filas), así que el análisis corre
+sin conexión.
+
+## Método
+
+Todo el análisis está en SQL ([`02_analisis.sql`](02_analisis.sql)) sobre DuckDB; Python
+solo descarga, orquesta y grafica. Es un problema de reconciliación entre dos fuentes,
+y eso es lo que SQL hace mejor.
+
+1. **El par espejo**, con `FULL OUTER JOIN` por año y socio. Con un `INNER` se perderían
+   los socios que aparecen de un solo lado, y esos también son un hallazgo: en 2024
+   hubo 17 socios que solo declaró el otro país y 41 que solo declaró Costa Rica.
+2. **La brecha**: lo que declara el socio menos lo que declara Costa Rica, en dólares y
+   en porcentaje de lo que declara Costa Rica.
+3. **Quién la explica**: el aporte de cada socio a la brecha del año, con ranking y
+   acumulado (`SUM() OVER`, `ROW_NUMBER() OVER (PARTITION BY)`).
+4. **Persistencia**: media, rango y desviación de la brecha de cada socio con 8 o más
+   años de datos y al menos US$20 millones de comercio medio, ordenada por monto.
+5. **Chequeos de calidad** que devuelven las filas que fallan, no un booleano: 530
+   socios sin contraparte, 451 brechas sobre 200 %, 155 casos en que Costa Rica declara
+   más que el socio y 0 duplicados.
+
+**El error que este proyecto casi comete.** La primera versión de la persistencia
+ordenaba por brecha porcentual media y la encabezaba **Serbia, con una brecha de 20
+millones por ciento**: Costa Rica declaraba unos cientos de dólares y Serbia unos miles.
+Era cierto e inútil, porque un porcentaje no significa nada cuando el denominador es
+diminuto. Por eso ahora se exige un comercio mínimo y se ordena por monto; está
+documentado en el propio SQL.
+
+## Cómo correrlo
 
 ```bash
-pip install duckdb pandas requests matplotlib
-python 01_bajar.py      # UN COMTRADE, cacheado
-python 03_reporte.py    # corre 02_analisis.sql y saca el reporte
-python 04_figuras.py
+git clone https://github.com/pabloguerrerocr/brecha-espejo-cr.git
+cd brecha-espejo-cr
+pip install -r requirements.txt
+python 03_reporte.py    # corre el SQL sobre los datos versionados e imprime el reporte
+python 04_figuras.py    # las cuatro figuras
 ```
 
 | Archivo | Qué hace |
 |---|---|
-| `01_bajar.py` | los dos lados del espejo, con caché y reintento ante HTTP 429 |
+| `01_bajar.py` | vuelve a bajar los dos lados del espejo desde COMTRADE, con caché y reintento ante HTTP 429. Reemplaza `datos/espejo.csv` |
 | `02_analisis.sql` | **todo el análisis**: el par, la brecha, el aporte, la persistencia y los chequeos |
-| `03_reporte.py` | corre el SQL e imprime. Python solo orquesta |
-| `04_figuras.py` | las tres figuras |
+| `03_reporte.py` | corre el SQL e imprime el reporte; deja la base en `espejo.duckdb` |
+| `04_figuras.py` | las cuatro figuras de este README |
 | `EJERCICIOS.md` | diez ejercicios para reescribir las consultas sin mirarlas |
 
-## Por qué el análisis está en SQL
-
-Porque es un problema de reconciliación entre dos fuentes, y eso es lo que SQL
-hace mejor que cualquier otra herramienta. Las consultas usan `FULL OUTER JOIN`,
-CTEs encadenados, `SUM() OVER` para el acumulado, `ROW_NUMBER() OVER (PARTITION
-BY)` para el ranking por año, y `GROUP BY` con `HAVING`.
-
-**El `FULL OUTER JOIN` no es adorno.** Con un `INNER` se pierden los socios que
-aparecen de un solo lado, y esos son precisamente un hallazgo: en 2024 hubo 17
-socios que solo declaró el otro país y 41 que solo declaró Costa Rica.
-
-## El error que este proyecto casi comete
-
-La primera versión de la vista de persistencia ordenaba por brecha porcentual
-media. El resultado encabezaba con **Serbia, con una brecha de 20 millones por
-ciento**.
-
-Era cierto y era inútil: Costa Rica declaraba unos cientos de dólares y Serbia
-unos miles. **Un porcentaje no significa nada cuando el denominador es
-diminuto.** La vista ahora exige un comercio medio de al menos $20 millones y
-ordena por monto, no por porcentaje.
-
-Está documentado en el propio SQL porque es el tipo de error que se cuela en un
-análisis y nadie revisa.
-
-## Chequeos de calidad
-
-Cada chequeo devuelve **las filas que fallan**, no un booleano:
-
-| Chequeo | Resultado |
-|---|---:|
-| Socios sin contraparte | 530 |
-| Brechas extremas sobre 200 % | 451 |
-| Costa Rica declara más que el socio | 155 |
-| Duplicados por año y socio | 0 |
-
-Los dos primeros se concentran en socios de comercio marginal. El tercero es el
-interesante: son los casos que van contra la teoría y merecen explicación.
+Probado con Python 3.13, DuckDB 2.0 y pandas 3.1. Con DuckDB 2.0, al cerrar
+`04_figuras.py` pueden aparecer avisos `nanobind: leaked ...`: vienen de la librería, no
+afectan los resultados.
 
 ## Limitaciones
 
-- **No se descompone la brecha.** Saber cuánto corresponde a FOB/CIF, cuánto a
-  reexportación y cuánto queda sin explicar exige datos de flete y de origen que
-  COMTRADE no publica. Lo que sí se puede afirmar es que 17 % es compatible con
-  FOB/CIF y 627 % no.
-- **El análisis es a nivel total.** Desagregar por capítulo mostraría si la
-  brecha se concentra en los productos de zona franca, que es la hipótesis.
-- **Las cifras de COMTRADE se revisan.** Los años recientes pueden cambiar.
-
-## Datos
-
-UN COMTRADE, público y sin llave. Costa Rica es el reporter 188. 2015-2024.
-
-Detalle que salió de probar la API y no del manual: al pedir varios reporters, la
-respuesta se desglosa por régimen aduanero, modo de transporte y segundo socio, y
-corta en 500 registros. Hay que fijar `customsCode=C00`, `motCode=0` y
-`partner2Code=0` para traer el agregado. Sin eso los números salen mal y no se
-nota.
+- **La brecha no se descompone.** Separar cuánto es FOB/CIF, cuánto reexportación y
+  cuánto queda sin explicar exige datos de flete y de origen que COMTRADE no publica. Lo
+  que sí se puede afirmar es que 17 % es compatible con FOB/CIF y 627 % no.
+- **El análisis es a nivel total.** Desagregar por capítulo mostraría si la brecha se
+  concentra en los productos de zona franca, que es la hipótesis.
+- **COMTRADE revisa sus cifras.** Si se vuelven a bajar los datos, los años recientes
+  pueden cambiar.
